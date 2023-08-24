@@ -100,19 +100,19 @@ def data_page():
         st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Image type</p>',  unsafe_allow_html=True) #sans-serif   Soin Sans Pro
 
         vargs0 = ["H&E"]
-        vargs1 = ["Composite1", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
-        vargs2 = ["Composite2", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
+        vargs1 = ["Composite", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
+        vargs2 = ["Composite ", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
         vargs = vargs0 +  vargs1 + vargs2   
            
         option2dir = {"H&E": f"{PATH_IMG_HE}",
-                      "Composite1": f"{PATH_IMG_TMA}/panel1/multi",
+                      "Composite": f"{PATH_IMG_TMA}/panel1/multi",
                       "CD4": f"{PATH_IMG_TMA}/panel1/CD4",
                       "CD8": f"{PATH_IMG_TMA}/panel1/CD8",
                       "CD20": f"{PATH_IMG_TMA}/panel1/CD20",
                       "CD68": f"{PATH_IMG_TMA}/panel1/CD68",
                       "FOXP3": f"{PATH_IMG_TMA}/panel1/FOXP3",
                       "panCK": f"{PATH_IMG_TMA}/panel1/panCK",
-                      "Composite2": f"{PATH_IMG_TMA}/panel2/multi",
+                      "Composite ": f"{PATH_IMG_TMA}/panel2/multi",
                       "CD56": f"{PATH_IMG_TMA}/panel2/CD56",
                       "CD11c": f"{PATH_IMG_TMA}/panel2/CD11c",
                       "BAP1": f"{PATH_IMG_TMA}/panel2/BAP1",
@@ -131,7 +131,7 @@ def data_page():
             on_change=disable_other_checkboxes,
             args=( list(set(vargs) - set([key])) +[key] ),
         )
-        st.markdown("###### Panel1")
+        st.markdown("###### Panel-marker")
         for key in vargs1:
             options[key] = st.checkbox(
             key,
@@ -139,7 +139,7 @@ def data_page():
             on_change=disable_other_checkboxes,
             args=( list(set(vargs) - set([key])) +[key] ),
         )
-        st.markdown("###### Panel2")
+        st.markdown("###### Panel-protein")
         for key in vargs2:
             options[key] = st.checkbox(
             key,
@@ -149,7 +149,7 @@ def data_page():
         )
 
         
-        # rd = st.radio("", ("H&E","", "Composite1", "Composite2", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
+        # rd = st.radio("", ("H&E","", "Composite", "Composite ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
         
     with c2:
         if len(images) > 0 :
