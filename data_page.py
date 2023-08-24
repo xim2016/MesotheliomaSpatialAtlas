@@ -41,7 +41,7 @@ def data_page():
     </style>
     """, unsafe_allow_html=True)
 
-    PATH_IMG_TMA = r"/Users/xim33/OneDrive - University of Pittsburgh/Vectra data/"
+    PATH_IMG_TMA = r"./data/core_image"
     
     PATH_IMG_HE = "./data/core_image/H&E_level2"  
     path_img_logo = "./data/core_image/H&E_logo" 
