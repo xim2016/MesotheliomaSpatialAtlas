@@ -39,7 +39,7 @@ menu_data = [
         {'icon': "🏠", 'label':"About"},
         {'icon':"📊",'label':"Data"},
         {'icon':"☎️",'label':"Contact"},
-        {'icon':"",'label':"Citation"},
+        {'icon':"📲",'label':"Citation"},
         
     ]
 over_theme = {'txc_inactive': 'white','menu_background':'#0f4d92','txc_active':'black'} #2e5090#0F52BA #048bbc #016490
