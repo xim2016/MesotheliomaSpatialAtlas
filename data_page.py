@@ -150,7 +150,6 @@ def data_page():
 
         
         # rd = st.radio("", ("H&E","", "Composite1", "Composite2", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
-    import cv2
         
     with c2:
         if len(images) > 0 :
@@ -170,8 +169,6 @@ def data_page():
             # st.write(showedCore_ids[clicked])
 
             imgfile =  Image.open(f"{dir}/{filename}")
-            # img = cv2.imread('./data/core_image/panel1/multi/composite_image.tif')
-            # imgfile = Image.open("./data/core_image/panel1/multi/composite_image.tif")
             show_plotly_image(imgfile, 800)
         
 
