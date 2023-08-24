@@ -1,0 +1,3038 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AggregationStatus s_v="1" ref="ref0">
+ <V>1</V>
+ <Current>0</Current>
+ <Data ref="ref1">
+  <Data-i ref="ref2">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|fe8831a4-b323-4b0f-85ca-fe4a48846a2a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,K]_[18373,49657]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref3">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|57447cdc-28e3-458f-a561-c217acc8a7b9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,E]_[12336,49689]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref4">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|b30fe319-b210-47af-9349-15eb81c3f9a1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,J]_[17293,49689]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref5">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|a438a49b-ed04-47d6-8944-ab1dd14a1075</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,G]_[14243,49752]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref6">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|0c949bb0-6cb1-471d-9bbb-dedd12ab3a5c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,H]_[15323,49784]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref7">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|085e33fd-7712-4286-b38a-6cd0c76deee0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,C]_[10335,49911]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref8">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|f9d66431-4928-4837-b3ca-0403b2015ced</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,A]_[8142,49943]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref9">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|9d897034-29df-406d-9156-bfafc29d1777</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,1,B]_[9254,49943]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref10">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|da0de11d-633c-4c16-95ee-e3041357fd76</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,I]_[16530,51786]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref11">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|c0fc0340-3cd3-4098-b8a3-07fd4eabfe5a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,K]_[18500,51818]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref12">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|b4295d22-65d0-4829-a36d-faea467802d7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,B]_[9191,51849]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref13">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e6c66d57-507f-43ba-80f8-b61f2f3850c7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,C]_[10398,51913]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref14">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|8969a4e9-d3d0-4b3e-92f0-77658543521d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,G]_[14402,51945]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref15">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|f9b69fc7-8be3-4884-a6cb-210fbdf14458</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,H]_[15418,51945]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref16">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|6555f115-5229-417b-824d-61b4add1cff8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,D]_[11447,51976]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref17">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|177d7b7e-c721-451d-81c3-8151c442e5ad</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,E]_[12464,52040]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref18">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e46501b4-79df-442e-a340-a5b3b7e0dee9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,K]_[18691,52802]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref19">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|37db9139-88b8-4372-9a60-2637448a2182</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,J]_[17579,52834]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref20">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|6805d7e1-f535-47a8-9979-7c011e2ed7f7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,B]_[9286,52961]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref21">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|b343f013-e6c8-46a7-a3e1-196fda04f6c2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,C]_[10398,52961]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref22">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|cfba7abb-4b97-4a40-b76b-e3fc8b41566f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,G]_[14465,53025]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref23">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|c0fb812a-92d4-4ed1-bb72-735af0a44126</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,A]_[8238,53184]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref24">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|cc61c7d3-e42a-4287-bd2e-0696bc893e31</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,E]_[12464,53216]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref25">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|578df46d-763a-4186-b052-96a723bfae90</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,I]_[16721,53756]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref26">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|fdfd23cd-cf42-4f34-ad92-e65ce8c7237e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,J]_[17929,53851]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref27">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e86697ce-69ae-4e56-92a2-01d93b594012</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,H]_[15609,53915]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref28">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|a5c2ecdf-2a95-4ed7-8bb6-71546ac6fb75</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,D]_[11447,54074]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref29">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|defd5983-0b63-48c3-ac33-224a2ae89f63</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,C]_[10398,54137]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref30">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|0a1cf27d-b994-42c1-a345-0d53eb2f0900</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,A]_[8238,54264]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref31">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e831a00e-33ba-40a8-88c4-fd352b4df2ce</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,G]_[14497,54836]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref32">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|8b5bd3da-ecdb-4531-a0e2-b78c6811b64a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,I]_[16721,54900]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref33">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|3505aaa3-04fd-4d3a-9ad0-d04297720746</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,H]_[15704,54995]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref34">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|7863eadb-8f0c-41b3-889d-056e160bb0da</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,B]_[9413,55186]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref35">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|a29c25a6-c48b-4fae-aada-43f873c940f2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,C]_[10525,55249]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref36">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|631242b7-35ec-4894-aa8d-a3ce06a02bff</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,A]_[8396,55313]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref37">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|45aae8ee-6347-49cb-8645-75a8b5e7b7c1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,K]_[18914,55821]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref38">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e2e44942-5b7d-47a1-b89f-850d89e2525e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,H]_[15832,56107]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref39">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|f1836d5c-74f1-481e-8655-1654e02c120d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,J]_[17833,56139]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref40">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|8adab123-184f-4efb-89ba-48b6fb1069ee</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,E]_[12718,56171]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref41">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|d29992ea-4e75-4d3c-8354-3c858d42e784</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,D]_[11542,56202]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref42">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|0493e69c-7fa0-408f-b4c4-aac3240b734f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,B]_[9477,56393]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref43">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|884c4e16-a6ef-47cf-a82c-7ab7fd27021b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[2,1,A]_[8534,58326]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref44">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|79089404-efec-4b74-8ba0-ce45d61d5d77</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[2,2,A]_[8653,59398]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref45">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e2a8b432-f4de-4c4a-adb0-aed84692af27</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[2,2,B]_[9725,60351]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref46">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|7a5606a2-3f5c-4ae2-b447-36c8fcf5b675</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[4,1,A]_[16797,57946]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref47">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|0f7c7a3f-2848-4ea9-8e4e-e04c5e235d7c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[4,1,B]_[17965,57946]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref48">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|2138375f-2927-49f5-926d-5aa22dbfe7d2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[4,2,A]_[16892,58995]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref49">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e414dfbe-7840-42b6-acf4-bca4be7b2b0d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[4,2,B]_[17917,58995]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref50">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|af96cb6d-c58b-4a10-9fcb-899f065fd792</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[4,3,C]_[19108,59853]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref51">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|7757b32a-4b7f-45ed-a64f-58d18c47f1bb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,1,E]_[12602,62322]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref52">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|d85e6de5-78bb-4896-889a-dc51cc7b17ce</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,1,C]_[10528,62465]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref53">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|744b0eb6-35ba-4f13-9d66-cc2c5804e8b5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,1,B]_[9456,62560]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref54">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|6f5160b8-b506-426e-84d1-51295e4a5c3a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,2,E]_[12626,63418]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref55">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|a73dca31-bc8b-4568-abe5-bea507c23dfe</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,2,A]_[8479,63633]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref56">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|dfcb2f15-9bd4-4a64-9cd3-ec06f8e84fe6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,2,D]_[11577,63633]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref57">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|92470b22-c96c-4eae-8c32-838e04b77257</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,2,B]_[9528,63657]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref58">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|5389623a-d61a-4aa6-8716-6cb324f2aa19</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,3,E]_[12673,64491]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref59">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|5bd897fa-81b5-4fb8-9904-0caabd7cb090</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,3,C]_[10600,64562]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref60">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|8b9a75c5-4258-4c9c-9657-09dbad8075f0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,3,B]_[9623,64658]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref61">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|ccc868db-4cce-49de-9fc2-9cd788728346</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,3,D]_[11649,64681]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref62">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|79324ed7-a76e-49f8-90a2-586158367700</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,4,E]_[12697,65635]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref63">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|79adf928-f41f-4035-b89b-be1013333f93</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,4,C]_[10719,65706]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref64">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|d119ba01-5544-49f1-8283-aef32845920a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,4,A]_[8670,65730]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref65">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|ab188d51-d8b6-4b58-acd4-88a7d487e668</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,4,B]_[9718,65754]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref66">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|37b50c2c-c2fb-4091-a36d-bd8f472a3388</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,5,B]_[9623,66921]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref67">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|3aa5411d-e9ed-4bbd-b09b-dbf6b6acbefc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,5,D]_[11601,67088]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref68">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|5a9c6b6d-d364-41e8-b8a3-bf874011b060</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,1,D]_[17694,62021]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref69">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|1b28b47e-d615-4b96-9ad8-3694d39c0cc8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,1,E]_[18791,62117]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref70">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|ee64a945-06de-4a76-aada-e53cdb63a16d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,1,B]_[15574,62140]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref71">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|02ea8048-acb4-4a57-b73c-39a09f797865</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,1,C]_[16598,62164]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref72">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|9faa583c-092f-4a1d-a3af-565dd2017e4c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,2,D]_[17742,63094]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref73">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|4a226e8e-3944-46cf-8976-ffa8cfbebc64</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,2,B]_[15669,63237]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref74">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|2b7b96bf-c9a0-4f1e-899b-cdd1e3be51b1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,2,A]_[14597,63356]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref75">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|f965fcae-0d0a-47d0-952e-927c4b23ee3c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,3,D]_[17766,64094]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref76">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|070a0674-dbf3-48be-934c-407f7df81a27</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,3,B]_[15669,64357]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref77">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|e4908825-e3c0-4571-9615-c6bf3aad92e1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,4,D]_[17742,65048]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref78">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|b1285fd7-cca9-48eb-bd22-4630303bed58</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,4,C]_[16765,65405]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref79">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|8c234f49-3096-443e-bd0a-454665abdb75</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,4,A]_[14668,65453]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref80">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|88b4bb27-a9ea-4262-9ec9-f1112445d0cf</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,5,D]_[17814,66263]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref81">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|75f02ecd-eb81-41ae-b68f-8e2aaabbf940</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,5,B]_[15812,66334]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref82">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|47cfec0f-f714-48b2-bc78-d2ebe2130f09</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,5,E]_[18934,66358]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref83">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|809032a3-1f75-4835-9336-3e40d4ad7a5e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,5,C]_[16789,66430]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref84">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|26a58931-e5b1-403f-9e5f-aa967efe252d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,6,D]_[17861,67383]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref85">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|f279a289-32e3-41b0-85e6-9b112d02a98c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,6,C]_[16837,67431]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref86">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #04 NMVB TMA1\Scan1\071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1.qptiff|433559c1-0b9a-4391-886b-07400093476f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,6,B]_[15836,67455]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref87">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8aa6f331-f5cd-49de-a13a-e9d41564112e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,1,B]_[10771,43439]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref88">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|18c33cca-ccda-415f-adc5-4ee554dceb04</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,1,C]_[11788,43471]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref89">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c0aa1e1f-7aae-4059-929b-59f3beb96b4e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,2,B]_[10739,44234]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref90">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b1a4828f-91c8-4708-995c-22f4ee8cb85f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,3,A]_[9691,45187]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref91">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f96fb74f-1dfd-4ad4-9b96-ebdeb712980e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,3,B]_[10676,45282]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref92">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4bc31619-408f-4f34-9e4b-101723b083b5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,3,C]_[11566,45346]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref93">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ee417eb5-7263-432a-b631-4183aea90c5e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,2,C]_[11761,44368]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref94">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|1f82dbdb-4089-4665-9a0b-dfe82664d169</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,1,A]_[12999,43506]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref95">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|27815033-a77e-48ed-8f3c-6309406e2e03</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,1,B]_[13952,43506]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref96">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|fd8eb64b-0cf8-4609-bf0a-aa77838722b1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,1,C]_[14937,43697]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref97">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b3054c82-a417-44ea-93f7-0ae71b7555cc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,1,D]_[15731,43729]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref98">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|70fe656b-dd1d-464d-823e-1a7babc929d0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,2,A]_[12904,44364]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref99">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|644ba161-53ae-4d92-a004-348534ca29ce</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,2,C]_[14746,44460]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref100">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|d1794250-c977-4d5c-9448-4a18e21c4074</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,2,B]_[13952,44523]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref101">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|54ce9157-d91b-4a16-988b-de7cd6b0ded7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,2,D]_[15636,44650]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref102">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|81fef5eb-5799-4ddf-a212-70a6440e2ce4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,3,A]_[12776,45381]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref103">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8ec8235b-d096-48c0-aa32-39bbbb9e05f6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,3,B]_[13602,45413]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref104">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b8e40e5d-f17a-46e5-97ee-a7b8769e8be3</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,3,C]_[14715,45508]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref105">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|7c0748f5-40f1-4d6e-bbff-9830eb556848</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,3,D]_[15541,45635]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref106">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a50c19e2-dae5-4b25-a988-ba53d3e45680</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,1,B]_[17807,44120]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref107">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ea42547b-0b65-4329-be05-ea6440befa43</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,1,C]_[18689,44240]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref108">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|9c26edf3-bb1e-4fd8-bcf0-b32190258c77</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,1,D]_[19547,44335]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref109">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4ce891a8-5225-488f-a3d3-2d6cc7d92104</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,1,E]_[20452,44502]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref110">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|e757db62-b63f-4baa-abed-88bd9ce1c64b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,A]_[16830,44788]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref111">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|2829732d-4231-47bd-9425-f31339e29d59</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,B]_[17807,45002]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref112">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a6a17b7b-2465-4517-b219-73d993684e4a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,C]_[18641,45121]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref113">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|daabf593-7df8-4816-b5ae-ede8915ed157</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,D]_[19451,45193]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref114">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|688ed1e1-9997-4f15-955d-281f69e8392e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,E]_[20309,45407]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref115">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8ea5abc3-b781-495c-9f70-2d123db37fe6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,3,A]_[16782,45741]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref116">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c89f3f66-a248-4c15-bf84-517a2ae93a4a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,3,B]_[17688,45860]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref117">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|e460987f-d319-4338-8a78-23bda22c3edc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,2,A]_[9467,47052]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref118">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|9ab0ee06-516b-437e-9b3b-73fc7cd49f45</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,2,B]_[10452,47116]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref119">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b9e45802-867d-4c4c-bfd8-b4cfc9de1339</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,3,C]_[11246,48196]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref120">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|59f8f16d-386c-4453-b33a-9f7eb1b1a427</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,4,A]_[9149,48768]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref121">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|1b17e888-3204-4e46-94de-e058ccc3ddaf</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,4,B]_[10198,48831]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref122">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|dde6b824-9135-4ce1-9e0d-5af2370d514c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,4,C]_[11119,49054]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref123">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c11abdbf-d7c0-40a1-a5b1-1ee58437d369</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,2,C]_[11318,47263]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref124">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b6ef9e49-53a2-46a3-810f-427cca6cb70c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,3,A]_[9439,48045]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref125">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8c6aec3b-52f4-4277-b973-dbff28740693</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[4,3,B]_[10271,48020]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref126">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a3c43e76-e7dd-4f37-a3e4-e5325867423d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,2,A]_[12662,47364]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref127">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|304e9aae-cf75-455e-a98b-b64930a9ebc8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,2,B]_[13568,47436]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref128">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|91d87091-42a7-4bc5-b47a-a90b7d1a0809</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,2,C]_[14426,47555]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref129">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a1fa9e51-76d7-4bc7-a592-adab4d76541f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,2,D]_[15308,47602]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref130">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|e5820324-2bef-4e02-99dd-3eff74a437b7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,3,A]_[12543,48222]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref131">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|0c70811e-3425-4844-9f3a-438b1b54a933</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,3,B]_[13425,48317]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref132">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|0db348e3-22f1-4945-be67-eedf57376b96</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,3,C]_[14283,48341]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref133">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|171dc003-be66-4221-9403-ddd1985325d8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,3,D]_[15236,48460]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref134">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ad6cb709-424c-4c12-962c-f5edeb306cfd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,A]_[12376,49080]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref135">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|1907af12-c49c-421b-b995-4d53da6e273a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,B]_[13258,49199]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref136">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8e0e6792-e20a-4cab-b0a3-41a7e271d5f1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,C]_[14188,49270]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref137">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a753a00e-90aa-4807-a3b0-b96e84f4f5ad</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,D]_[15117,49414]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref138">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ae0a1af3-77c0-4ff3-9563-cec4dd298028</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,B]_[17483,47029]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref139">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|2e894b5c-a733-4227-9809-2de2a7ead822</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,C]_[18436,47188]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref140">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bb823180-1bc2-403b-ab1c-1d1a4f5128d6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,D]_[19294,47379]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref141">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|89a10886-2c4d-422e-b046-15e0a5b1da27</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,E]_[20279,47569]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref142">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|7e914b09-99d1-455d-8031-c6354617c498</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,2,A]_[16561,47824]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref143">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f91e008c-b72e-44a9-b4e4-ceb0373c9e1a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,2,E]_[19961,48427]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref144">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f2c41454-943b-437b-b5e0-b337914b9b81</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,A]_[16498,48522]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref145">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|3d829a8d-1780-43c2-93c1-db8807f80421</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,B]_[17388,48745]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref146">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|adc1cd69-b4e0-45b7-9419-db2360441b0b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,C]_[18087,48904]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref147">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|31771ceb-e0e4-4971-b41f-18a0aab33691</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,D]_[19167,48967]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref148">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|56a4563b-30ff-479e-bce2-490f7a2ab6ca</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,E]_[19993,49444]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref149">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|d6e19403-658e-4dbe-90bd-95b9665baf48</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,A]_[16276,49571]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref150">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a408f324-36b3-4af7-b353-90596228dd09</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,B]_[17260,49730]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref151">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|fa143f5a-6b12-4e1b-ba1c-c14c986c01a8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,C]_[18182,49825]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref152">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b90929a8-4383-423b-afe9-747117c274f4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,D]_[18976,50016]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref153">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|93749d85-36de-4d96-b5d8-f86b4d1832f7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,E]_[20056,50207]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref154">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|57b2a792-c85e-4e41-a52d-791966493149</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,2,B]_[17621,47948]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref155">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c6db3365-6444-442c-8a58-3ed05b5c9e19</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,2,C]_[18418,48132]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref156">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|1c71a635-968f-400a-974d-cb12a0cdc1ee</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,2,D]_[19277,48360]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref157">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8e27081a-3b37-4813-a7bf-5a720740938e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,1,A]_[9120,49930]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref158">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|112b14db-052e-4c8c-b3e8-f1548510192f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,1,B]_[10049,50073]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref159">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|584a775c-a17c-459d-be41-741508912dbd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,1,C]_[11002,50168]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref160">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bbd885b9-8cb5-4d12-8568-0e37424aefca</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,2,A]_[9001,50669]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref161">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|200bc1cc-c58a-4572-b697-e6765820dd59</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,2,B]_[9954,50883]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref162">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8e48491b-890d-4281-ba64-29dca6413cd1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,2,C]_[10836,50955]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref163">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|cc4980df-2a15-44a4-99fb-63dc22bed9ae</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,3,A]_[8929,51527]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref164">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|08b2efc9-4c6d-4085-bbf3-16be2aaac1ed</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,3,B]_[9811,51670]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref165">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|d11c19c9-7e95-4bfd-a2f4-12d81c44db38</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,3,C]_[10716,51789]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref166">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c94f92a7-a668-4dc0-a59c-2672a95831a9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,4,A]_[8762,52313]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref167">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|5bd995e1-0f67-47a5-9726-5869ae8664c6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,4,B]_[9620,52480]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref168">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f2d5d13d-ac94-4f51-a262-3c052579e885</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,4,C]_[10526,52599]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref169">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c6cc2215-d4fb-4cdf-8a2a-2443664b6a2e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,5,A]_[8619,53099]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref170">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|003722e6-8574-4a87-8bf6-b6a58a3d4e89</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,5,B]_[9549,53218]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref171">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|0165341d-fc56-4df9-bd49-025d61276e90</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,1,A]_[12267,50249]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref172">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|3e8431c9-8068-4d47-b3fa-89846044f9af</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,1,B]_[13149,50368]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref173">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a9b73517-1a82-452b-9056-ffa53b0d941d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,1,C]_[13983,50488]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref174">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|76f9c6a8-e780-49df-8608-1cd1bdbb768a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,1,D]_[14865,50654]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref175">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|6eab7e9e-155d-4a85-aa26-3c1b821c2ad8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,2,A]_[12100,51084]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref176">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a4d6635e-886c-4548-bce7-ac0de25571c7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,2,B]_[12982,51203]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref177">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4d42ea0f-c2d5-46ad-9343-78ac8be225e4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,2,C]_[13840,51346]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref178">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b408e2f4-467c-4cad-b472-9d0e49c37a24</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,2,D]_[14722,51441]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref179">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4a199a77-dbd4-454a-8dce-07d4141b34b6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,3,A]_[11981,51918]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref180">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b8194103-c290-4130-b7e7-049a0cface23</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,3,B]_[12863,52013]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref181">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8f8e1716-44e0-4bd7-9723-2dd6fe90db3c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,3,C]_[13745,52180]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref182">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|9e138ede-0b72-454f-8cc5-38b65d5a7940</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,3,D]_[14602,52275]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref183">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|5de4687c-7ccc-43bb-8ab5-d730dedc79f6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,4,A]_[11838,52704]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref184">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|78ff450a-f60a-4a42-afac-07f2407771bc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,4,B]_[12768,52895]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref185">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|54574a0c-a7e1-4d6d-8cf2-2f0d7397c3eb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,4,C]_[13602,53038]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref186">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|3cffe420-db6e-4c5f-8492-292464a7faed</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,4,D]_[14460,53157]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref187">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bb860dea-ac6e-47f7-a99f-f12a98c69a6f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,5,A]_[11743,53538]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref188">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f0eefae1-89e6-4443-b873-64e9cdb203c0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,5,B]_[12624,53729]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref189">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|59795dd0-29ed-49b6-b2a2-4e9f461c3419</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,5,C]_[13482,53848]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref190">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ef65883a-4020-4996-8452-356b75201b95</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,5,D]_[14316,53991]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref191">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4e10ee1c-088c-46b3-aba8-8e3f923fdc97</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,1,A]_[16014,50834]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref192">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|483f92ff-2418-43e5-94c0-55315235f60d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,1,B]_[17134,50930]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref193">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f7852b10-a77d-4aa5-84c4-8c216dc399b5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,1,C]_[18039,51025]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref194">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|2fac73cb-a1ee-4e98-963c-842ea01fca2b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,1,D]_[18921,51168]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref195">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|5d4c7aa7-4a1a-407f-b535-d882fe6d25a1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,1,E]_[19755,51382]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref196">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|878488a2-8156-430d-88cb-c0e1dfab9c30</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,2,B]_[16895,51788]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref197">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8f055ac3-5fc5-4db6-8d28-0b68689091f1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,2,C]_[17825,51859]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref198">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b1947e5b-91fe-43c5-904a-4d5a43ef6bf4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,2,D]_[18706,52026]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref199">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|00a99988-0c43-4409-9b12-1a9781136e14</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,2,E]_[19612,52240]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref200">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a942dd1d-29d0-4dc4-a972-21071f87abf1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,3,A]_[15871,52455]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref201">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|83bead09-7819-4ebe-aa46-14db9b1e36d7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,3,B]_[16824,52622]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref202">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|e27ee44f-3156-4596-bc3f-09f0427e45c4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,3,C]_[17682,52741]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref203">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|7cf19508-a75e-41fa-bf3e-8545cfd0fb71</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,3,D]_[18587,52884]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref204">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|88d4b4fd-fdfe-4595-b37d-ff865012b2dd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,3,E]_[19517,53074]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref205">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bcc0073e-1f7b-414a-adcb-d05131670703</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,A]_[15775,53337]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref206">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|fa11a179-c60b-479c-a488-f03faf90ff28</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,B]_[16633,53456]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref207">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|100d22c4-135e-4099-b7bd-2db13dd0d393</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,C]_[17539,53551]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref208">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|dfa1b7a5-d758-4d73-94d1-bc583e0f96bd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,D]_[18444,53742]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref209">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a826280f-65e1-4d52-b7f8-790f0aee9cd2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,E]_[19350,53932]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref210">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f53f09c3-7973-46ef-b310-f644e49804c6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,5,A]_[15608,54218]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref211">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|43d77568-bf7f-4a32-ac22-5f8d16640cf6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,5,B]_[16514,54314]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref212">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|458a7cc2-e7ba-4552-a08e-fc8b24e9410d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,5,C]_[17443,54552]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref213">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|16d54791-0c32-49fd-8e58-53fc39106f23</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,5,D]_[18254,54671]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref214">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|2786236f-15dc-4823-8a70-8956c38522e5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,5,E]_[19183,54790]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref215">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|d9b914e5-7124-452b-9421-c58345773e9e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,2,A]_[15943,51719]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref216">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|3a02572b-3e10-4729-8163-cdb5a31a6762</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,1,B]_[9273,54389]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref217">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ae13af81-0cc4-4c0c-8cf3-85b1628abfd9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,1,C]_[10227,54508]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref218">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|5e7214eb-7c68-4b54-9251-e436c3903c9a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,2,B]_[9107,55223]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref219">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a722b80a-ad83-4185-b940-1b11431105e7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,2,C]_[10060,55366]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref220">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|739f4d39-18a6-4d4b-80ae-b0c3e812cbd9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,3,A]_[8201,55962]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref221">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f8d56155-902f-497f-ba8f-209c1c2512be</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,3,B]_[9035,56033]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref222">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ec07246e-56d8-4ea4-a014-73737caf5ff3</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,3,C]_[9965,56176]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref223">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bb304b92-1509-439d-bb72-86f70a1b7e11</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,4,B]_[8916,56915]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref224">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c3dd4436-2b52-43e5-920f-ba6b25127ee5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,4,C]_[9822,57034]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref225">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8c4b8005-b9de-46b7-b287-af56c580f540</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,1,A]_[11489,54746]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref226">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|74ea374d-5895-4988-b59e-f351adffe06f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,1,B]_[12395,54865]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref227">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8b577157-b0d7-45f8-aa79-935f1d919c4a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,1,C]_[13277,55056]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref228">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8daaa637-99bf-42d0-9875-fb1f8ea9b549</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,1,D]_[14158,55223]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref229">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bc3e7bd8-f0ed-4df0-8064-3526231ab42d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,2,A]_[11346,55556]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref230">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|1b7db6d8-3ef8-4268-a8fb-428062a4879e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,2,B]_[12252,55699]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref231">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|fbdcb9bc-720f-44f9-8437-73b2d37b3e54</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,2,C]_[13134,55890]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref232">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8fa1ef99-738a-4880-933f-d6ff727d6935</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,2,D]_[14039,56033]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref233">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|2b544dca-423b-4048-bdce-74f7556b026d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,A]_[11203,56366]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref234">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b50ed11a-6902-44ba-8bdd-63b01b6df4dc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,B]_[12109,56605]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref235">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|2217980e-e6ef-4c77-bd75-5937af7a809d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,C]_[13014,56748]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref236">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|a184861f-1d55-4821-a27c-8a854d9563c9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,D]_[13896,56867]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref237">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b04d5a48-1775-4cb1-85b4-8335ace6bf54</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,4,A]_[11084,57272]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref238">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f268e539-1f42-4186-b4cb-3817df813867</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,4,B]_[11942,57487]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref239">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|1d823d73-3397-4da0-a57f-19678806cc3f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,4,C]_[12848,57653]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref240">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ec971737-578d-4e06-826a-d8f3718e00d1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,4,D]_[13753,57772]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref241">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|36a33f96-43c2-41d9-a3cd-f9dae2d47891</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,1,B]_[16298,55552]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref242">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8fd432f2-e0e1-432e-988d-8f4ac3d97bb7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,1,C]_[17180,55718]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref243">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|e66b352e-b5d8-4535-a2c9-bf278db6656e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,1,D]_[18038,55861]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref244">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b67c0316-aae6-450e-8a38-17d58c340deb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,1,E]_[18920,56004]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref245">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|354db6da-afb0-4db5-ac15-0be866027a59</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,A]_[15274,56266]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref246">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4adf3128-18ae-487a-bf81-7f43d06edcf5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,B]_[16179,56433]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref247">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|eeb2c006-d026-426b-979f-c977c230382e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,C]_[17037,56552]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref248">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|405cf51d-9136-4d23-8a60-11bda37d67ff</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,D]_[17895,56743]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref249">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|5d71ee45-eb69-4518-88b2-90386290fa7e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,E]_[18753,56910]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref250">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|996c64eb-7564-4af2-98bf-35f4c35cb6fc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,A]_[15107,57101]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref251">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8530d45a-9f03-4dcf-8b98-e2e23d377554</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,B]_[15989,57291]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref252">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|9206046e-781d-498f-be94-ed61b60fda89</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,C]_[16870,57434]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref253">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b8289fe2-3629-4471-8a9a-4d92b802cf66</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,D]_[17704,57601]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref254">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|0884fba8-f9d6-43b5-9f3c-3fdbfd692aeb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,E]_[18610,57744]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref255">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|6cd52b62-7ff6-4ec9-a656-664d4a3562c8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,4,A]_[14964,57982]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref256">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4486133e-a42d-45b3-aa59-af6ea246c11f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,4,B]_[15798,58125]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref257">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|ff129902-b046-4904-8e69-da671f06e9c3</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,4,D]_[17514,58435]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref258">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|f127b1de-165f-47e8-8f90-9a8a97ebffbb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,4,E]_[18395,58578]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref259">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|7ffa3d6f-ad96-4811-ad21-8e319d41f0c9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,4,C]_[16688,58260]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref260">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|74cd4788-eb08-4cbf-84bd-bf22a9dc5171</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[13,1,A]_[7917,57894]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref261">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|181624f9-31be-428b-99d7-2b1bdabc3723</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[13,1,B]_[8799,57989]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref262">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|fafbe572-12ab-4b78-ab98-2ed3c28be392</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[13,1,C]_[9657,58132]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref263">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|9aa51480-fd3b-42ae-aff9-cddc56fbfd65</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[13,2,B]_[8680,58895]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref264">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|4ec13632-6c07-4345-85a8-9330153946b6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[13,2,C]_[9585,59062]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref265">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|5600ffde-f741-431c-8ea3-89862fca11f4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[14,1,A]_[10879,58418]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref266">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|60be3d22-8b12-4445-89de-7c324f3fa71e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[14,1,B]_[11785,58608]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref267">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|c0957c1b-7b82-419c-bf6e-6dcae6516911</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[14,1,C]_[12643,58847]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref268">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|b8b08970-a28b-482e-822b-d204028edd5f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[14,1,D]_[13525,58990]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref269">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|6f733ec6-a3ad-4db3-a92b-de7f718cd9b3</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[14,2,A]_[10808,59323]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref270">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|dcea1592-3b6a-4d06-afef-b9c495e8afa5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,1,A]_[14694,59317]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref271">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|17fce8d3-112f-497c-b815-a0ab89d8927f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,1,B]_[15623,59412]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref272">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|bdea3139-ec4f-4b04-a5e8-d3699c79b62e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,1,D]_[17291,59746]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref273">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|38bef647-c5ca-4610-8fa1-a4bd157faa93</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,1,E]_[18268,59865]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref274">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|8682ae1f-23d9-4c50-b6a9-e2c8b543cf8a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,2,A]_[15385,60318]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref275">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|77ca2f75-22e4-4c56-b1e5-8ba6f78a51dd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,2,D]_[17935,60723]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref276">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma\Scan2\071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2.qptiff|d2a8bc39-3485-47fd-8abe-b1022c1acd93</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[15,1,C]_[16336,59619]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref277">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|6746f98f-2e3c-41e9-a920-660eb791460f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_[12599,40047]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref278">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|fa6a9e6a-52b0-4b64-b4c0-151a3dba264f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,A]_[7089,39687]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref279">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0728fba8-63e7-4b43-9bf0-822f31f5413e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,B]_[8399,39687]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref280">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|e9162340-5d51-4a35-be3a-606477299fac</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,D]_[11140,39727]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref281">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|4c0b4a7e-a121-4a86-9f39-a754413b7f5f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,F]_[14119,40124]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref282">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|bf3d5598-072c-45d7-a909-f5a1d612f5ae</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,C]_[9988,40164]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref283">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|2e92770e-4e46-4802-9be3-779942e42695</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,I]_[18011,40203]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref284">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0dc5b5d6-b7c3-4af1-834f-6ec846ad687d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,K]_[20474,40203]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref285">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|427197e2-2fef-4121-be2a-0140b0be743f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,E]_[12768,40243]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref286">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1e5c74c4-b8d0-46ab-a890-20bcd16c18a9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,G]_[15390,40402]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref287">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|05eb24ac-015c-4c94-8b12-bbb9d90b57d0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,1,J]_[19282,40600]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref288">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|af8fa2b2-fdea-4937-8c15-cab528b17d86</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,B]_[8638,41077]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref289">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|5544e320-1677-47bc-b724-394b2c877b1b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,D]_[11021,41156]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref290">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|901ec989-7ebe-480e-944f-94f1c5ddeac1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,A]_[6930,41395]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref291">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|bca449f3-1f65-4766-81eb-f72e8b26e8df</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,C]_[9551,41434]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref292">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|7bc14b86-185a-49f6-a04e-aae04ae98a7d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,E]_[12451,41593]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref293">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|14a155e8-905e-4393-8054-f33a8b7b06ba</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,F]_[13960,41673]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref294">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|8ef4c167-3e47-4e52-b269-dc3ae541795d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,H]_[16621,41792]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref295">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|44ef1331-698d-4157-9583-533ab5fe649b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,3,E]_[12252,42586]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref296">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|8891037a-e0f7-4103-ada2-8173e40e2197</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,3,J]_[19163,42666]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref297">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|cd996a49-047e-46bb-bb8c-2d6fa2c7421a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,3,H]_[16264,42705]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref298">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|79c39cef-1275-4cea-a5bb-7c2a73ab93fd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,3,K]_[20553,42825]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref299">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|92684de6-b47e-4e65-9c1a-dd6209a4f7c1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,D]_[11021,43619]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref300">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f3ae9c82-beb5-4394-81ec-65f39c9f1808</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,B]_[8082,43659]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref301">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|a4287756-c148-4197-bb5d-b7756221ac6d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,G]_[14913,43778]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref302">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|7494723b-bd95-486d-8739-a8a1a6f48764</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,C]_[9948,43857]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref303">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f7321c1f-8d3f-4720-b657-e2976cf3acc5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,A]_[7129,43976]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref304">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|05a3582a-4598-4c54-ba1e-ddc29372e0ed</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,E]_[12610,44135]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref305">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d614e280-dfd7-4dbf-b339-801156ec5570</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,F]_[13483,44175]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref306">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|32a3beb7-84df-4d4d-9d17-d49961a0f0ca</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,I]_[17534,44175]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref307">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c8bdf38f-c8ed-4014-adfa-5cf57ff4894c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,J]_[19202,44254]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref308">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|bea44ca1-a8db-4088-bb07-7f1d2fed1ddb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,4,K]_[20156,44453]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref309">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|58a41fec-115d-4856-99f2-c03d4cda31b2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,C]_[9790,44930]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref310">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|6ef999c1-7528-4372-83fd-c5dd81bc03ff</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,H]_[16343,45049]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref311">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|971f21d2-a816-46e8-af52-3d2bdf96a35b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,I]_[17534,45088]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref312">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|050a5365-2e1c-4d5b-82f3-d10614547663</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,A]_[7009,45208]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref313">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f4680ca5-7877-4efd-82a7-4ba1dded7956</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,B]_[8360,45247]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref314">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|391cda1a-6cf0-44f7-a041-55e8e649d528</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,D]_[10822,45327]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref315">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d28c232c-25ba-4dc6-91d6-74d34404671b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,F]_[13880,45406]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref316">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|6eaa9a18-6780-4e93-9361-02ebd06bf775</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,K]_[20513,45446]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref317">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|3bc9f1c7-92be-4b8a-ad96-dd65775bc446</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,J]_[18805,45525]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref318">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1a4aa98b-5abb-4994-85dc-0704e1e820db</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,G]_[15032,46081]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref319">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f682607c-79f2-442c-987a-98cb1f96d447</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,E]_[12212,46201]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref320">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|df45f1d6-2ac8-4797-8b2b-a7b6d660f4f7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,C]_[9869,46240]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref321">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c4d66df9-2945-4d5b-955a-5cf2d0d58c46</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,B]_[8360,46280]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref322">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ce5b84ef-91de-4d59-8dae-f977de2fe8d1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,I]_[17415,46439]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref323">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|5544a9c8-b56c-4864-904b-ef4d82977ef2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,A]_[6652,46479]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref324">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|81897ad8-88d9-41bf-9572-82c13f9591f5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,D]_[11219,46558]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref325">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|2b00c006-892b-4416-8978-1eca6a618163</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,K]_[20076,46638]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref326">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|8dc1d283-bd3f-461a-8cc4-e951f329bb88</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,H]_[16105,46717]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref327">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|56e73cff-d61e-4735-856c-27006b3320be</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,6,J]_[18726,46876]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref328">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|b257bf81-d5ac-46c5-bc39-caa305dc8cb4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,B]_[8042,47352]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref329">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|3b2e4ebc-8761-47d0-99ae-01a7ed1e64a5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,A]_[6930,47432]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref330">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|3798c55f-0c09-4b9d-95b6-412bfed59099</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,C]_[9591,47472]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref331">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|b8d7f7df-b781-40b0-8ef5-6ee3e81fb708</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,F]_[13364,47789]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref332">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|7d9fe9df-1cb7-440e-b167-16a042a95db9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,H]_[15985,47789]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref333">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|30b2c318-321a-4950-a4b9-8582dbc77fce</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,E]_[12371,47829]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref334">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ea6402ba-c2e5-439c-b875-2c144e9ea16f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,G]_[14992,47829]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref335">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0e91b989-aa1c-4ce0-9a85-0f227dae6a9e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,I]_[17693,47869]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref336">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|38b2d8e8-ef84-4fea-b5b6-99ba27e39d8b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,J]_[18686,48147]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref337">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|53000064-81b8-4738-bc31-e6ccaa96fdbb</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,H]_[15906,48742]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref338">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|a822693d-d7d1-4e15-8702-66b249e3171a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,C]_[9631,48782]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref339">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|85053ccd-2a9e-4294-9176-fa06d25afa52</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,A]_[6970,48981]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref340">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d38ef014-8dd4-4eec-9844-8880de7d0765</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,D]_[10624,48981]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref341">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|992354f2-ae20-4dcf-819e-1436bd2af01d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,G]_[14556,49100]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref342">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|981bb9d0-b049-4555-b954-8fdbfee9db3d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,E]_[12292,49140]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref343">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|4dea1581-f434-47ad-8a4a-8f4ed5b2bc5c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,F]_[13444,49179]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref344">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|db68a982-68d1-49a8-bfc3-a6973a14321d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,I]_[17415,49179]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref345">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c59adfe1-8dc4-4eb2-a2f4-65f045394ae9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,K]_[19918,49338]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref346">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|a5ee7aef-a9fd-469a-b7e7-deecbd21ddf8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,B]_[8201,49974]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref347">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|9cb19049-6fca-4f06-bb17-4f504702591b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,C]_[9591,50013]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref348">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|7992b68c-418c-4eeb-b469-104abe41d20e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,E]_[12252,50013]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref349">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c8e85386-5ff3-4dcf-a50f-b5f827f3efed</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,F]_[13166,50013]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref350">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1010f03e-7ac4-4b54-9c4c-aa0a27492aef</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,J]_[18607,50172]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref351">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d201ba51-9a84-4ed1-8e8f-529ce74028c7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,A]_[6890,50252]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref352">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|8b192ba9-11df-4627-9fba-c8395054101f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,D]_[10941,50252]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref353">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|17fc2df8-c278-4458-9c15-63bc8829dfe2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,G]_[14476,50331]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref354">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|2d9068e2-5211-4e78-9b71-455f68e15998</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,H]_[15827,50450]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref355">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|e902045d-511a-450b-971d-c41e0667afd4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,I]_[17217,50450]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref356">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|b0f6f3fc-3cc2-464d-bd93-46aac18d73a8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,9,K]_[20235,50609]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref357">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|7e2735cb-895e-4a3b-bf54-cdc6f3c26376</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,G]_[14476,51205]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref358">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|18950088-3288-4ea0-8879-e723ea77c072</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,E]_[11775,51245]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref359">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0dd8b3ef-162d-4147-8a2a-06bf208889ae</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,F]_[13126,51324]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref360">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|032858d1-6b10-4372-984b-3eaa3326ed7b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,H]_[16264,51364]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref361">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d627bef7-448e-4432-974d-0dfdfceef54e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,I]_[17137,51364]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref362">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|3bd6f224-df37-48aa-9633-aa073cc7c072</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,A]_[6930,51483]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref363">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|2ac0b495-f59c-4193-9c0b-ed3fcb44a0a5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,K]_[19838,51523]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref364">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|70bc6864-26fe-4fc5-bc7a-32f5ade1b98f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,B]_[7883,51562]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref365">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|73d3b544-bbbf-47e0-a64a-1d4fb916c982</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,C]_[9194,51602]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref366">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|5bb1a98c-be4c-48af-9193-32111fb651e8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,10,J]_[18845,51840]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref367">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|b3235cd8-0339-4ba3-b5a1-d45fa439f95d</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,G]_[14714,52436]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref368">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|8bcca23e-8f8e-43c9-baaa-2ae028b74653</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,D]_[10504,52516]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref369">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|342e349d-5fd8-4b3f-97d5-118c68a0a32a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,H]_[15747,52516]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref370">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|32542e2b-3bf5-4e8b-940b-941511b1d6c8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,I]_[17098,52516]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref371">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|049ce9bb-f3cf-491f-add1-87fb4782ab74</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,A]_[6811,52794]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref372">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ea38d98f-b992-48d1-9864-241713bdffb5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,F]_[13444,52794]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref373">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|b525eed4-a701-4e43-827a-ebacf5928a65</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,B]_[7843,52833]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref374">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|74160d46-e2d2-47cd-85eb-1a6537bdaf33</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,C]_[9512,52833]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref375">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|da6afb30-4482-4802-99ef-b203ed543e0e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,E]_[11855,52913]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref376">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|fb59b332-9f83-4182-83dd-47a5366bdff2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,J]_[18408,52992]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref377">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|add59471-1cf4-48bb-87b9-28d97b72dfb1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,11,K]_[20196,52992]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref378">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|01dfee24-90d7-4d5b-a084-72258500646e</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,A]_[6533,53707]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref379">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c0a9a313-a8f5-4f91-a332-ad2580618d77</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,D]_[10504,53747]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref380">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|76513080-041b-438d-9169-fde54e671970</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,G]_[14357,53747]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref381">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|16115b0f-db77-4046-bcc4-3472badd39d4</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,F]_[13404,53787]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref382">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f7e65fe2-5b1f-4179-b7c2-38c5149384c2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,H]_[16065,53946]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref383">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|52e6be29-086f-4f85-81a2-ea64cf6ca354</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,I]_[17098,54065]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref384">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|bcb3603b-4fb5-459a-b9c7-362ea85de715</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,E]_[12093,54184]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref385">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|84294c07-e7ac-4f35-b3b4-2066898ffdd9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,B]_[7963,54224]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref386">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ce274527-ca66-467f-8d2b-db057ff0b82f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,K]_[19719,54263]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref387">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|2ec30de0-d6aa-4a52-b96d-cbe5bafc00c8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,J]_[18488,54581]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref388">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1624f5cc-0e27-4385-9d53-d70b23d79ccd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,C]_[9472,55018]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref389">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|af00d829-fad9-4e58-8cf3-14a0c58031a3</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,D]_[10703,55058]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref390">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|65b16ac6-d81b-4e2f-89d1-b6bc39ac598f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,F]_[13404,55137]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref391">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|6012f937-173b-42e2-b81e-433a36d55478</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,G]_[14357,55216]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref392">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|a9cf9b5a-b87a-495b-86eb-a317b104eab5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,H]_[15707,55256]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref393">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|5988e049-4ed4-4fa2-9f69-2958d8812730</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,A]_[6811,55336]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref394">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0db9f42e-6734-4d85-9cf9-5e7ac971dbe8</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,E]_[11815,55494]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref395">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f8e57979-4916-4c2a-95ac-1f9b64ab6ec7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,I]_[17296,55614]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref396">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0f98bfd8-ef69-4e65-a630-e645bc7a7196</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,K]_[19759,55614]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref397">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ed7f6a26-8831-4019-846b-9d862a0242f0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,B]_[8121,56289]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref398">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|4036645a-de39-4087-ba1a-916a1e2a22bc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,A]_[6334,56408]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref399">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|80d851b2-11cf-4716-9c08-56db91799f82</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,F]_[12967,56448]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref400">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|bcf4bef8-8eed-4406-a0d5-b416fa65a853</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,G]_[14675,56527]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref401">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1d017f49-d702-47c6-ace7-c25d8db8bf98</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,J]_[18488,56527]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref402">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c0b7c414-4400-4ddb-a616-526a93918dd2</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,D]_[10743,56646]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref403">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|0cdd497f-e5ab-4052-9a6b-2fbfc28fa06f</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,I]_[17098,56646]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref404">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|3b289950-bbc4-46bf-aca6-9cf9a1060504</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,K]_[20076,56646]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref405">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|6ec9286e-9fbc-43ec-bae5-0b315ac9d982</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,C]_[9392,56686]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref406">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|4b31f9a6-c4c1-4291-8947-2c2c63830d96</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,14,H]_[15946,56924]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref407">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|61da81af-4e90-4a68-968f-9fb0c3418124</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,F]_[13324,57719]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref408">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|567c48a3-6eea-47f1-8f29-7615866622a5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,A]_[6771,57798]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref409">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ea83ff76-8322-4997-b7ac-192b909061f7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,B]_[8082,57798]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref410">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|eb372748-6502-48a7-8468-34b68a08db42</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,K]_[19639,57798]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref411">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|3ba74055-2e76-4832-b7eb-904b4107f1a7</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,C]_[9035,57917]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref412">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|267fb02e-e5d6-4145-bc42-ef2959d541b1</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,H]_[15549,57917]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref413">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|bfeb4315-92dc-4ba3-b4b9-2144c51ec856</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,D]_[10703,57997]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref414">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f0bc9ac2-bb24-437c-bf6a-aabf5d8352ea</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,E]_[11815,58076]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref415">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|395e9f17-c1d2-4eb3-bdf2-7ecee0a455ba</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,G]_[14317,58156]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref416">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1cf204e4-644c-431b-a8f7-69d6559758a5</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,J]_[18527,58275]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref417">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|56ec3ad4-cedf-4d25-b8ae-7137561b7ec0</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,15,I]_[17217,58314]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref418">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|db4453d4-95fb-4d54-8ea0-51e465fb744a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,16,A]_[6692,58791]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref419">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d2538f1e-ae4e-44ab-9169-5c6b5664f234</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,16,B]_[8042,59069]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref420">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c8beff44-3c86-4ffd-a31f-248cbf08e407</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,17,A]_[6334,60300]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref421">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|92f31b47-1346-4854-8d3c-8ef4a4d785a9</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,17,H]_[15270,60340]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref422">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|221a23f6-4e2e-4c7a-9a18-4b8e6890d32c</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,17,B]_[7883,60419]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref423">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|32720440-af11-417e-a7b7-e03627425a71</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,17,C]_[9591,60419]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref424">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1ad935dd-f764-41f2-a6d4-2cf7182eb736</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,17,G]_[14436,60618]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref425">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|6ffc2567-7eef-4675-bafd-0db016fb76a6</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,G]_[15240,41377]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref426">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|fa068cee-90f9-442c-b469-44f6937617fd</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,2,K]_[20500,41713]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref427">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|d602131a-b522-49a2-aae7-2d713ae1bbea</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,3,A]_[7110,42510]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref428">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|93317639-2b7b-4cd1-ad12-8b9be1e25299</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,E]_[12318,45078]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref429">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|13281403-54dd-4a35-8ccf-bd4fb4f68eee</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,3,I]_[17755,43042]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref430">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|1ae39dde-8f0a-456c-911b-be67363cbe91</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,B]_[8049,48851]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref431">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|c979290d-6b38-44bc-a0f0-c839976cbf9a</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,7,K]_[20270,48018]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref432">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|7f6d96b2-216f-4555-85d4-256a8d9e184b</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,12,C]_[9250,53919]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref433">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|f84d2bff-e9ab-45b8-8e98-e304b7bd0ae3</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,13,B]_[7872,55297]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref434">
+   <V>2</V>
+   <Source>E:\Hatice\071922 Immunopheno Motif ck #01 Meso TMA 4\Scan1\071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1.qptiff|ec9739d7-123d-46de-beba-56d1ded459dc</Source>
+   <Directory></Directory>
+   <Name>071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,8,J]_[18822,49136]</Name>
+   <Included>true</Included>
+  </Data-i>
+ </Data>
+</AggregationStatus>
