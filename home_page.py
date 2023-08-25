@@ -25,10 +25,10 @@ def home_page():
     # from descriptions import Desc
     img =  Image.open('./assets/figures/home.png')
     
-  
-    a,_, b = st.columns([9,0.5,10])
+    _,m1,_ = st.columns([1,1.8,1])
+    _,m2,_ = st.columns([1,20,1])
     
-    with a:  
+    with m1:  
         st.markdown("#")
         st.image(img)  
 
@@ -36,7 +36,8 @@ def home_page():
 
 
         # st.markdown('---')
-    with b:
+    with m2:
+        st.markdown("#")
         # st.markdown(f"<p style='color: black; font-weight: bold'>Purpose</h3>", unsafe_allow_html=True)
         st.markdown(f"<p style='text-align: justify; color: black;'>{Desc.Abstract}</h4>", unsafe_allow_html=True) 
         
