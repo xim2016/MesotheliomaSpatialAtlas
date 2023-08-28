@@ -14,7 +14,7 @@ def home_page():
     padding_bottom = '0rem'
     define_layout(max_width, padding_top, padding_right, padding_left, padding_bottom)
     
-    title = '<p style="font-family:sans-serif; color:#5f6060;background-color:white; font-size: 46px; line-height: 60px; padding-top: 0px; padding-bottom: 0px;border-radius: 5px; font-weight: bold;text-align: center">The Human Spatial Atlas of Malignant Mesothelioma</p>'  #sans-serif   Soin Sans Pro
+    title = '<p style="font-family:sans-serif; color:#5f6060;background-color:white; font-size: 36px; line-height: 60px; padding-top: 0px; padding-bottom: 0px;border-radius: 5px; font-weight: bold;text-align: center">The Human Spatial Atlas of Malignant Mesothelioma</p>'  #sans-serif   Soin Sans Pro
     st.markdown(title, unsafe_allow_html=True)
 
     st.divider()
@@ -25,7 +25,7 @@ def home_page():
     # from descriptions import Desc
     img =  Image.open('./assets/figures/home.png')
     
-    _,m1,_ = st.columns([1,1.8,1])
+    _,m1,_ = st.columns([1,2,1])
     _,m2,_ = st.columns([1,20,1])
     
     with m1:  
@@ -39,7 +39,7 @@ def home_page():
     with m2:
         st.markdown("#")
         # st.markdown(f"<p style='color: black; font-weight: bold'>Purpose</h3>", unsafe_allow_html=True)
-        st.markdown(f"<p style='text-align: justify; color: black;'>{Desc.Abstract}</h4>", unsafe_allow_html=True) 
+        st.markdown(f"<p style='text-align: justify; color: black; font-size: 16px'>{Desc.Abstract}</h4>", unsafe_allow_html=True) 
         
        
         
