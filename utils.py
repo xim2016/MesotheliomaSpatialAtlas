@@ -109,9 +109,22 @@ def show_plotly_image(img_file, height=750):
     fig = px.imshow(img, binary_string=True)
     fig.update_xaxes(showgrid=False, showticklabels=False)
     fig.update_yaxes(showgrid=False, showticklabels=False)
-    fig.update_layout(height=height)
-    
-    st.plotly_chart(fig, use_container_width=True, height=height)
+    fig.update_layout(height=height,
+                      newshape_line_color='cyan',
+                      dragmode='drawopenpath')
+    config = {'displayModeBar': True,
+              'displaylogo': False,
+              'toImageButtonOptions': { 'height': None, 'width': None, 
+                                       'filename': 'core_img',},
+               'modeBarButtonsToRemove': ['zoom', 'resetScale'],
+               'modeBarButtonsToAdd': ['drawline',
+                                        'drawopenpath',
+                                        'drawclosedpath',
+                                        'drawcircle',
+                                        'drawrect',
+                                        'eraseshape'
+                                       ]}
+    st.plotly_chart(fig, use_container_width=True, height=height, config=config)
     
     
 def get_core_feature(c1_IDs, c2_IDs, core_id):
