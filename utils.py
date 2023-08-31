@@ -30,6 +30,21 @@ def get_orderedList(opt):
         "Grade":["All", "High","Intermediate","Low",  "Not Specified"]         
     }
     return list_order[opt]
+
+# def get_orderedList(opt):
+#     list_order = { 
+#         "Institute": [ "Pitt", "RPCI", "Penn"],
+#         "Classification":[ "Malignant", "Benign" , "Not Specified"],
+#         "CaseType":[  "Pleural",  "Peritoneal",  "Other"  ],
+#         "subtype":["Epithelioid","Biphasic", "Papillary","Sarcomatoid", "Desmoplastic","Benign Fibrous","Fibrocystic" ,"Multicystic", "Not specified" ],
+#         "Gender":["Male", "Female", "Unknown"],
+#         "Race":["White", "Black", "Asian", "American Indian Aleutian Eskimo", "Unknown"],
+#         "DiagnosisAge":["81-90", "71-80", "61-70", "51-60", "41-50", "31-40" ],
+#         "AsbestosExposure":["Yes", "No", "Unknown"],
+#         "smoking":["Non-smoker","Current smoker",  "Previous smoker" ,"Smoker (current or previous)",  "Unknown" ] , 
+#         "Grade":["High","Intermediate","Low",  "Not Specified"]         
+#     }
+#     return list_order[opt]
     
 def name_coverter(opt):
     converter = {"NMVB2_MESO":"RPCI"
@@ -166,7 +181,7 @@ def generat_logo_images():
     path_img_logo =  "./data/core_image/H&E_logo"
 
     notFound = []
-    for file in ["NMVB_TMA1_img_62L3"] : #image_list:
+    for file in image_list:
         pathfile = f"{path_img_big_all}/{file}.png"
         if not os.path.isfile(pathfile):
             notFound.append(file)

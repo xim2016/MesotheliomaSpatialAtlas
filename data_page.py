@@ -43,7 +43,7 @@ def data_page():
 
     PATH_IMG_TMA = "./data/core_image"
     
-    PATH_IMG_HE = "./data/core_image/H&E_level2"  
+    PATH_IMG_HE = "./data/core_image/H&E_level1"  
     path_img_logo = "./data/core_image/H&E_logo" 
 
     c1_IDs = ["Institute", "Classification","CaseType","subtype", "Grade"]
@@ -161,7 +161,7 @@ def data_page():
             dir = option2dir[option]
         
             if option == "H&E":
-                filename = f"{showedImage_names[clicked]}.png"
+                filename = f"{showedImage_names[clicked]}.jpg"
             else:   
                 filename = f"{showedCore_ids[clicked]}_composite_image.tif"
             
