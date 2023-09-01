@@ -1,0 +1,3297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Procedure2 s_v="1" ref="ref0" subtype="Procedure">
+ <V>11</V>
+ <V>1</V>
+ <Steps ref="ref1">
+  <Steps-i ref="ref2" subtype="PreprocessingStep">
+   <V>1</V>
+   <Settings ref="ref3" subtype="PreprocessingSettings">
+    <V>19</V>
+    <V>2</V>
+    <Locked>false</Locked>
+    <EnabledControls ref="ref4"></EnabledControls>
+    <SlideBandInfo ref="ref5">
+     <V>1</V>
+     <BandNames ref="ref6" dim="8">
+      <BandNames-i>DAPI</BandNames-i>
+      <BandNames-i>Opal 570</BandNames-i>
+      <BandNames-i>Opal 690</BandNames-i>
+      <BandNames-i>Opal 480</BandNames-i>
+      <BandNames-i>Opal 620</BandNames-i>
+      <BandNames-i>Opal 780</BandNames-i>
+      <BandNames-i>Opal 520</BandNames-i>
+      <BandNames-i>Sample AF</BandNames-i>
+     </BandNames>
+     <BiomarkerNames ref="ref7" dim="8">
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+      <BiomarkerNames-i></BiomarkerNames-i>
+     </BiomarkerNames>
+     <ColorTable ref="ref8">
+      <ColorTable-k>DAPI</ColorTable-k>
+      <ColorTable-v>Blue</ColorTable-v>
+      <ColorTable-k>Opal 570</ColorTable-k>
+      <ColorTable-v>Yellow</ColorTable-v>
+      <ColorTable-k>Opal 690</ColorTable-k>
+      <ColorTable-v>Red</ColorTable-v>
+      <ColorTable-k>Opal 480</ColorTable-k>
+      <ColorTable-v>Cyan</ColorTable-v>
+      <ColorTable-k>Opal 620</ColorTable-k>
+      <ColorTable-v>255, 128, 0</ColorTable-v>
+      <ColorTable-k>Opal 780</ColorTable-k>
+      <ColorTable-v>White</ColorTable-v>
+      <ColorTable-k>Opal 520</ColorTable-k>
+      <ColorTable-v>Lime</ColorTable-v>
+      <ColorTable-k>Sample AF</ColorTable-k>
+      <ColorTable-v>Black</ColorTable-v>
+     </ColorTable>
+     <ImagingCycles ref="ref9" dim="8">
+      <ImagingCycles-i>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</ImagingCycles-i>
+     </ImagingCycles>
+     <IsAfSubtracted ref="ref10" dim="8">
+      <IsAfSubtracted-i>AAAAAAAAAAA=</IsAfSubtracted-i>
+     </IsAfSubtracted>
+     <ScaleFactors ref="ref11" dim="8">
+      <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+     </ScaleFactors>
+    </SlideBandInfo>
+    <CameraBinning>1</CameraBinning>
+    <InstrumentConfiguration ref="ref12">
+     <V>5</V>
+     <CameraSensorType>HamamatsuC11440</CameraSensorType>
+     <ReferenceCalibrationTable ref="ref13">
+      <V>1</V>
+      <ResponseTable ref="ref14">
+       <ResponseTable-k>DAPI_Semrock:FF01-453/571/709-25 Emission / Semrock:FF01-391/538/649-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref15">
+        <V>1</V>
+        <Response>3133.84130200147</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Opal 570_Semrock:FF01-453/571/709-25 Emission / Semrock:FF01-391/538/649-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref16">
+        <V>1</V>
+        <Response>157.565055281681</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Opal 690_Semrock:FF01-453/571/709-25 Emission / Semrock:FF01-391/538/649-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref17">
+        <V>1</V>
+        <Response>0.00700690862782089</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Opal 480_Semrock:FF01-478/633/832-25 Emission / Semrock:FF01-424/590/735-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref18">
+        <V>1</V>
+        <Response>125.923362183415</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Opal 620_Semrock:FF01-478/633/832-25 Emission / Semrock:FF01-424/590/735-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref19">
+        <V>1</V>
+        <Response>1.39807699033118</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Opal 780_Semrock:FF01-478/633/832-25 Emission / Semrock:FF01-424/590/735-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref20">
+        <V>1</V>
+        <Response>0.00947276211441509</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Opal 520_Semrock:FF01-532/18-25 Emission / Semrock:FF01-486/30-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref21">
+        <V>1</V>
+        <Response>360.434638554941</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+       <ResponseTable-k>Sample AF_Semrock:FF01-676/29-25 Emission / Semrock:FF01-414/46-25 Excitation</ResponseTable-k>
+       <ResponseTable-v ref="ref22">
+        <V>1</V>
+        <Response>110.630335988562</Response>
+        <Artifact>BluePlastic</Artifact>
+        <Date>2022-12-14T11:52:53</Date>
+       </ResponseTable-v>
+      </ResponseTable>
+     </ReferenceCalibrationTable>
+     <LampType>MultiBandLed</LampType>
+     <LctfType>NotPresent</LctfType>
+     <InstrumentType>Jenga</InstrumentType>
+     <MicronsPerPixel>0.496380985</MicronsPerPixel>
+     <Objective ref="ref23">
+      <V>2</V>
+      <ActualMag>10</ActualMag>
+      <Name>10x</Name>
+      <ID>65c0fc8f-949b-49a6-af75-452032f0625d</ID>
+      <NominalMag>10</NominalMag>
+     </Objective>
+    </InstrumentConfiguration>
+    <AFSpectrum ref="ref24" subtype="SpectralLibraryElement">
+     <V>3</V>
+     <Marker />
+     <Adaptive>false</Adaptive>
+     <Selected>true</Selected>
+     <FromDefaultLib>false</FromDefaultLib>
+     <Stain ref="ref25" subtype="Stain">
+      <V>1</V>
+      <V>2</V>
+      <StainType>Measured</StainType>
+      <Name>Autofluorescence</Name>
+      <Date>2022-12-21T09:37:44.3133461-05:00</Date>
+      <Notes></Notes>
+      <Mode>im_Fluorescence</Mode>
+      <ScaleInfoTable ref="ref26">
+       <V>1</V>
+       <ScaleTable ref="ref27">
+        <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+        <ScaleTable-v ref="ref28" subtype="SerializableLinearScaleInfo" params="System.Double">
+         <V>1</V>
+         <Offset>0</Offset>
+         <ScaleFactors ref="ref29" dim="8">
+          <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+         </ScaleFactors>
+        </ScaleTable-v>
+       </ScaleTable>
+      </ScaleInfoTable>
+      <PixelUnits>pu_NormalizedCounts</PixelUnits>
+      <StainCategory>Autofluorescence</StainCategory>
+      <Color>Black</Color>
+      <SpectralSegments ref="ref30" dim="8">
+       <SpectralSegments-i ref="ref31" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref32">
+         <V>1</V>
+         <BandIndex>0</BandIndex>
+         <FilterPair ref="ref33">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref34">
+           <V>1</V>
+           <FixedFilter ref="ref35">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-453/571/709-25 Emission</PartNumber>
+            <Name>DAPI/Opal570/690</Name>
+            <TransmissionBands ref="ref36" dim="3">
+             <TransmissionBands-i ref="ref37">
+              <V>1</V>
+              <Min>438</Min>
+              <Max>468</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref38">
+              <V>1</V>
+              <Min>561.5</Min>
+              <Max>581.5</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref39">
+              <V>1</V>
+              <Min>689</Min>
+              <Max>729</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref40"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref41">
+           <V>2</V>
+           <BandNames ref="ref42" dim="3">
+            <BandNames-i>DAPI</BandNames-i>
+            <BandNames-i>Opal 570</BandNames-i>
+            <BandNames-i>Opal 690</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref43">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-391/538/649-25 Excitation</PartNumber>
+            <Name>DAPI/Opal570/690</Name>
+            <TransmissionBands ref="ref44" dim="3">
+             <TransmissionBands-i ref="ref45">
+              <V>1</V>
+              <Min>375</Min>
+              <Max>407</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref46">
+              <V>1</V>
+              <Min>526</Min>
+              <Max>551</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref47">
+              <V>1</V>
+              <Min>624</Min>
+              <Max>674</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref48">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref49" dim="1">
+         <Exposure-i>Fa6PQA==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref50" dim="1">
+         <Signal-i>HoLGQA==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref51" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref52">
+         <V>1</V>
+         <BandIndex>1</BandIndex>
+         <FilterPair ref="ref53">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref54">
+           <V>1</V>
+           <FixedFilter ref="ref55">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-453/571/709-25 Emission</PartNumber>
+            <Name>DAPI/Opal570/690</Name>
+            <TransmissionBands ref="ref56" dim="3">
+             <TransmissionBands-i ref="ref57">
+              <V>1</V>
+              <Min>438</Min>
+              <Max>468</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref58">
+              <V>1</V>
+              <Min>561.5</Min>
+              <Max>581.5</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref59">
+              <V>1</V>
+              <Min>689</Min>
+              <Max>729</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref60"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref61">
+           <V>2</V>
+           <BandNames ref="ref62" dim="3">
+            <BandNames-i>DAPI</BandNames-i>
+            <BandNames-i>Opal 570</BandNames-i>
+            <BandNames-i>Opal 690</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref63">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-391/538/649-25 Excitation</PartNumber>
+            <Name>DAPI/Opal570/690</Name>
+            <TransmissionBands ref="ref64" dim="3">
+             <TransmissionBands-i ref="ref65">
+              <V>1</V>
+              <Min>375</Min>
+              <Max>407</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref66">
+              <V>1</V>
+              <Min>526</Min>
+              <Max>551</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref67">
+              <V>1</V>
+              <Min>624</Min>
+              <Max>674</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref68">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref69" dim="1">
+         <Exposure-i>mplNQQ==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref70" dim="1">
+         <Signal-i>DrMnPw==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref71" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref72">
+         <V>1</V>
+         <BandIndex>2</BandIndex>
+         <FilterPair ref="ref73">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref74">
+           <V>1</V>
+           <FixedFilter ref="ref75">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-453/571/709-25 Emission</PartNumber>
+            <Name>DAPI/Opal570/690</Name>
+            <TransmissionBands ref="ref76" dim="3">
+             <TransmissionBands-i ref="ref77">
+              <V>1</V>
+              <Min>438</Min>
+              <Max>468</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref78">
+              <V>1</V>
+              <Min>561.5</Min>
+              <Max>581.5</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref79">
+              <V>1</V>
+              <Min>689</Min>
+              <Max>729</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref80"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref81">
+           <V>2</V>
+           <BandNames ref="ref82" dim="3">
+            <BandNames-i>DAPI</BandNames-i>
+            <BandNames-i>Opal 570</BandNames-i>
+            <BandNames-i>Opal 690</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref83">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-391/538/649-25 Excitation</PartNumber>
+            <Name>DAPI/Opal570/690</Name>
+            <TransmissionBands ref="ref84" dim="3">
+             <TransmissionBands-i ref="ref85">
+              <V>1</V>
+              <Min>375</Min>
+              <Max>407</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref86">
+              <V>1</V>
+              <Min>526</Min>
+              <Max>551</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref87">
+              <V>1</V>
+              <Min>624</Min>
+              <Max>674</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref88">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref89" dim="1">
+         <Exposure-i>AQBwQQ==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref90" dim="1">
+         <Signal-i>df8XPw==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref91" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref92">
+         <V>1</V>
+         <BandIndex>0</BandIndex>
+         <FilterPair ref="ref93">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref94">
+           <V>1</V>
+           <FixedFilter ref="ref95">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-478/633/832-25 Emission</PartNumber>
+            <Name>Opal480/620/780</Name>
+            <TransmissionBands ref="ref96" dim="3">
+             <TransmissionBands-i ref="ref97">
+              <V>1</V>
+              <Min>458</Min>
+              <Max>498</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref98">
+              <V>1</V>
+              <Min>613.5</Min>
+              <Max>655.5</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref99">
+              <V>1</V>
+              <Min>765</Min>
+              <Max>900</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref100"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref101">
+           <V>2</V>
+           <BandNames ref="ref102" dim="3">
+            <BandNames-i>Opal 480</BandNames-i>
+            <BandNames-i>Opal 620</BandNames-i>
+            <BandNames-i>Opal 780</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref103">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-424/590/735-25 Excitation</PartNumber>
+            <Name>Opal480/620/780</Name>
+            <TransmissionBands ref="ref104" dim="3">
+             <TransmissionBands-i ref="ref105">
+              <V>1</V>
+              <Min>416</Min>
+              <Max>445</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref106">
+              <V>1</V>
+              <Min>580</Min>
+              <Max>605</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref107">
+              <V>1</V>
+              <Min>715</Min>
+              <Max>755</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref108">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref109" dim="1">
+         <Exposure-i>AAAgQQ==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref110" dim="1">
+         <Signal-i>gQQ5QQ==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref111" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref112">
+         <V>1</V>
+         <BandIndex>1</BandIndex>
+         <FilterPair ref="ref113">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref114">
+           <V>1</V>
+           <FixedFilter ref="ref115">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-478/633/832-25 Emission</PartNumber>
+            <Name>Opal480/620/780</Name>
+            <TransmissionBands ref="ref116" dim="3">
+             <TransmissionBands-i ref="ref117">
+              <V>1</V>
+              <Min>458</Min>
+              <Max>498</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref118">
+              <V>1</V>
+              <Min>613.5</Min>
+              <Max>655.5</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref119">
+              <V>1</V>
+              <Min>765</Min>
+              <Max>900</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref120"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref121">
+           <V>2</V>
+           <BandNames ref="ref122" dim="3">
+            <BandNames-i>Opal 480</BandNames-i>
+            <BandNames-i>Opal 620</BandNames-i>
+            <BandNames-i>Opal 780</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref123">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-424/590/735-25 Excitation</PartNumber>
+            <Name>Opal480/620/780</Name>
+            <TransmissionBands ref="ref124" dim="3">
+             <TransmissionBands-i ref="ref125">
+              <V>1</V>
+              <Min>416</Min>
+              <Max>445</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref126">
+              <V>1</V>
+              <Min>580</Min>
+              <Max>605</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref127">
+              <V>1</V>
+              <Min>715</Min>
+              <Max>755</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref128">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref129" dim="1">
+         <Exposure-i>AAAQQQ==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref130" dim="1">
+         <Signal-i>Bu8BPw==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref131" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref132">
+         <V>1</V>
+         <BandIndex>2</BandIndex>
+         <FilterPair ref="ref133">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref134">
+           <V>1</V>
+           <FixedFilter ref="ref135">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-478/633/832-25 Emission</PartNumber>
+            <Name>Opal480/620/780</Name>
+            <TransmissionBands ref="ref136" dim="3">
+             <TransmissionBands-i ref="ref137">
+              <V>1</V>
+              <Min>458</Min>
+              <Max>498</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref138">
+              <V>1</V>
+              <Min>613.5</Min>
+              <Max>655.5</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref139">
+              <V>1</V>
+              <Min>765</Min>
+              <Max>900</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref140"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref141">
+           <V>2</V>
+           <BandNames ref="ref142" dim="3">
+            <BandNames-i>Opal 480</BandNames-i>
+            <BandNames-i>Opal 620</BandNames-i>
+            <BandNames-i>Opal 780</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref143">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-424/590/735-25 Excitation</PartNumber>
+            <Name>Opal480/620/780</Name>
+            <TransmissionBands ref="ref144" dim="3">
+             <TransmissionBands-i ref="ref145">
+              <V>1</V>
+              <Min>416</Min>
+              <Max>445</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref146">
+              <V>1</V>
+              <Min>580</Min>
+              <Max>605</Max>
+             </TransmissionBands-i>
+             <TransmissionBands-i ref="ref147">
+              <V>1</V>
+              <Min>715</Min>
+              <Max>755</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref148">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref149" dim="1">
+         <Exposure-i>AQDIQQ==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref150" dim="1">
+         <Signal-i>4I8FPg==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref151" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref152">
+         <V>1</V>
+         <BandIndex>0</BandIndex>
+         <FilterPair ref="ref153">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref154">
+           <V>1</V>
+           <FixedFilter ref="ref155">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-532/18-25 Emission</PartNumber>
+            <Name>Opal 520</Name>
+            <TransmissionBands ref="ref156" dim="1">
+             <TransmissionBands-i ref="ref157">
+              <V>1</V>
+              <Min>523</Min>
+              <Max>541</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref158"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref159">
+           <V>2</V>
+           <BandNames ref="ref160" dim="1">
+            <BandNames-i>Opal 520</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref161">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-486/30-25 Excitation</PartNumber>
+            <Name>Opal 520</Name>
+            <TransmissionBands ref="ref162" dim="1">
+             <TransmissionBands-i ref="ref163">
+              <V>1</V>
+              <Min>471</Min>
+              <Max>499</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref164">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref165" dim="1">
+         <Exposure-i>AQDIQQ==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref166" dim="1">
+         <Signal-i>8Q//Pw==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+       <SpectralSegments-i ref="ref167" subtype="SpectralSegment">
+        <V>1</V>
+        <V>1</V>
+        <V>3</V>
+        <TunableFilterEngaged>false</TunableFilterEngaged>
+        <BandIndex>0</BandIndex>
+        <ExcitedFilterPair ref="ref168">
+         <V>1</V>
+         <BandIndex>0</BandIndex>
+         <FilterPair ref="ref169">
+          <V>3</V>
+          <FactoryDefined>true</FactoryDefined>
+          <EmissionFilter ref="ref170">
+           <V>1</V>
+           <FixedFilter ref="ref171">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-676/29-25 Emission</PartNumber>
+            <Name>Sample AF</Name>
+            <TransmissionBands ref="ref172" dim="1">
+             <TransmissionBands-i ref="ref173">
+              <V>1</V>
+              <Min>658</Min>
+              <Max>695</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+           <Bands ref="ref174"></Bands>
+          </EmissionFilter>
+          <ExcitationFilter ref="ref175">
+           <V>2</V>
+           <BandNames ref="ref176" dim="1">
+            <BandNames-i>Sample AF</BandNames-i>
+           </BandNames>
+           <FixedFilter ref="ref177">
+            <V>2</V>
+            <Manufacturer>Semrock</Manufacturer>
+            <PartNumber>FF01-414/46-25 Excitation</PartNumber>
+            <Name>Sample AF</Name>
+            <TransmissionBands ref="ref178" dim="1">
+             <TransmissionBands-i ref="ref179">
+              <V>1</V>
+              <Min>416</Min>
+              <Max>437</Max>
+             </TransmissionBands-i>
+            </TransmissionBands>
+           </FixedFilter>
+          </ExcitationFilter>
+         </FilterPair>
+        </ExcitedFilterPair>
+        <WavelengthGroup ref="ref180">
+         <V>1</V>
+         <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+         <TunableFilterStates />
+        </WavelengthGroup>
+        <Exposure ref="ref181" dim="1">
+         <Exposure-i>AAAWQw==</Exposure-i>
+        </Exposure>
+        <Signal ref="ref182" dim="1">
+         <Signal-i>YEcyPw==</Signal-i>
+        </Signal>
+       </SpectralSegments-i>
+      </SpectralSegments>
+     </Stain>
+     <ScalingInfo ref="ref26" />
+    </AFSpectrum>
+    <SpectralLibSelectionType>ls_inForm</SpectralLibSelectionType>
+    <ExpectedSegments ref="ref183">
+     <ExpectedSegments-i ref="ref184" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref185">
+       <V>1</V>
+       <BandIndex>0</BandIndex>
+       <FilterPair ref="ref186">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref187">
+         <V>1</V>
+         <FixedFilter ref="ref188">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-453/571/709-25 Emission</PartNumber>
+          <Name>DAPI/Opal570/690</Name>
+          <TransmissionBands ref="ref189" dim="3">
+           <TransmissionBands-i ref="ref190">
+            <V>1</V>
+            <Min>438</Min>
+            <Max>468</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref191">
+            <V>1</V>
+            <Min>561.5</Min>
+            <Max>581.5</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref192">
+            <V>1</V>
+            <Min>689</Min>
+            <Max>729</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref193"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref194">
+         <V>2</V>
+         <BandNames ref="ref195" dim="3">
+          <BandNames-i>DAPI</BandNames-i>
+          <BandNames-i>Opal 570</BandNames-i>
+          <BandNames-i>Opal 690</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref196">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-391/538/649-25 Excitation</PartNumber>
+          <Name>DAPI/Opal570/690</Name>
+          <TransmissionBands ref="ref197" dim="3">
+           <TransmissionBands-i ref="ref198">
+            <V>1</V>
+            <Min>375</Min>
+            <Max>407</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref199">
+            <V>1</V>
+            <Min>526</Min>
+            <Max>551</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref200">
+            <V>1</V>
+            <Min>624</Min>
+            <Max>674</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref201">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref202" dim="1">
+       <Exposure-i>Fa6PQA==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref203" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref204" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref205">
+       <V>1</V>
+       <BandIndex>1</BandIndex>
+       <FilterPair ref="ref206">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref207">
+         <V>1</V>
+         <FixedFilter ref="ref208">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-453/571/709-25 Emission</PartNumber>
+          <Name>DAPI/Opal570/690</Name>
+          <TransmissionBands ref="ref209" dim="3">
+           <TransmissionBands-i ref="ref210">
+            <V>1</V>
+            <Min>438</Min>
+            <Max>468</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref211">
+            <V>1</V>
+            <Min>561.5</Min>
+            <Max>581.5</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref212">
+            <V>1</V>
+            <Min>689</Min>
+            <Max>729</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref213"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref214">
+         <V>2</V>
+         <BandNames ref="ref215" dim="3">
+          <BandNames-i>DAPI</BandNames-i>
+          <BandNames-i>Opal 570</BandNames-i>
+          <BandNames-i>Opal 690</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref216">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-391/538/649-25 Excitation</PartNumber>
+          <Name>DAPI/Opal570/690</Name>
+          <TransmissionBands ref="ref217" dim="3">
+           <TransmissionBands-i ref="ref218">
+            <V>1</V>
+            <Min>375</Min>
+            <Max>407</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref219">
+            <V>1</V>
+            <Min>526</Min>
+            <Max>551</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref220">
+            <V>1</V>
+            <Min>624</Min>
+            <Max>674</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref221">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref222" dim="1">
+       <Exposure-i>mplNQQ==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref223" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref224" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref225">
+       <V>1</V>
+       <BandIndex>2</BandIndex>
+       <FilterPair ref="ref226">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref227">
+         <V>1</V>
+         <FixedFilter ref="ref228">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-453/571/709-25 Emission</PartNumber>
+          <Name>DAPI/Opal570/690</Name>
+          <TransmissionBands ref="ref229" dim="3">
+           <TransmissionBands-i ref="ref230">
+            <V>1</V>
+            <Min>438</Min>
+            <Max>468</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref231">
+            <V>1</V>
+            <Min>561.5</Min>
+            <Max>581.5</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref232">
+            <V>1</V>
+            <Min>689</Min>
+            <Max>729</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref233"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref234">
+         <V>2</V>
+         <BandNames ref="ref235" dim="3">
+          <BandNames-i>DAPI</BandNames-i>
+          <BandNames-i>Opal 570</BandNames-i>
+          <BandNames-i>Opal 690</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref236">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-391/538/649-25 Excitation</PartNumber>
+          <Name>DAPI/Opal570/690</Name>
+          <TransmissionBands ref="ref237" dim="3">
+           <TransmissionBands-i ref="ref238">
+            <V>1</V>
+            <Min>375</Min>
+            <Max>407</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref239">
+            <V>1</V>
+            <Min>526</Min>
+            <Max>551</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref240">
+            <V>1</V>
+            <Min>624</Min>
+            <Max>674</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref241">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref242" dim="1">
+       <Exposure-i>AQBwQQ==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref243" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref244" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref245">
+       <V>1</V>
+       <BandIndex>0</BandIndex>
+       <FilterPair ref="ref246">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref247">
+         <V>1</V>
+         <FixedFilter ref="ref248">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-478/633/832-25 Emission</PartNumber>
+          <Name>Opal480/620/780</Name>
+          <TransmissionBands ref="ref249" dim="3">
+           <TransmissionBands-i ref="ref250">
+            <V>1</V>
+            <Min>458</Min>
+            <Max>498</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref251">
+            <V>1</V>
+            <Min>613.5</Min>
+            <Max>655.5</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref252">
+            <V>1</V>
+            <Min>765</Min>
+            <Max>900</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref253"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref254">
+         <V>2</V>
+         <BandNames ref="ref255" dim="3">
+          <BandNames-i>Opal 480</BandNames-i>
+          <BandNames-i>Opal 620</BandNames-i>
+          <BandNames-i>Opal 780</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref256">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-424/590/735-25 Excitation</PartNumber>
+          <Name>Opal480/620/780</Name>
+          <TransmissionBands ref="ref257" dim="3">
+           <TransmissionBands-i ref="ref258">
+            <V>1</V>
+            <Min>416</Min>
+            <Max>445</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref259">
+            <V>1</V>
+            <Min>580</Min>
+            <Max>605</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref260">
+            <V>1</V>
+            <Min>715</Min>
+            <Max>755</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref261">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref262" dim="1">
+       <Exposure-i>AAAgQQ==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref263" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref264" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref265">
+       <V>1</V>
+       <BandIndex>1</BandIndex>
+       <FilterPair ref="ref266">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref267">
+         <V>1</V>
+         <FixedFilter ref="ref268">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-478/633/832-25 Emission</PartNumber>
+          <Name>Opal480/620/780</Name>
+          <TransmissionBands ref="ref269" dim="3">
+           <TransmissionBands-i ref="ref270">
+            <V>1</V>
+            <Min>458</Min>
+            <Max>498</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref271">
+            <V>1</V>
+            <Min>613.5</Min>
+            <Max>655.5</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref272">
+            <V>1</V>
+            <Min>765</Min>
+            <Max>900</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref273"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref274">
+         <V>2</V>
+         <BandNames ref="ref275" dim="3">
+          <BandNames-i>Opal 480</BandNames-i>
+          <BandNames-i>Opal 620</BandNames-i>
+          <BandNames-i>Opal 780</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref276">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-424/590/735-25 Excitation</PartNumber>
+          <Name>Opal480/620/780</Name>
+          <TransmissionBands ref="ref277" dim="3">
+           <TransmissionBands-i ref="ref278">
+            <V>1</V>
+            <Min>416</Min>
+            <Max>445</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref279">
+            <V>1</V>
+            <Min>580</Min>
+            <Max>605</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref280">
+            <V>1</V>
+            <Min>715</Min>
+            <Max>755</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref281">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref282" dim="1">
+       <Exposure-i>AAAQQQ==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref283" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref284" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref285">
+       <V>1</V>
+       <BandIndex>2</BandIndex>
+       <FilterPair ref="ref286">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref287">
+         <V>1</V>
+         <FixedFilter ref="ref288">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-478/633/832-25 Emission</PartNumber>
+          <Name>Opal480/620/780</Name>
+          <TransmissionBands ref="ref289" dim="3">
+           <TransmissionBands-i ref="ref290">
+            <V>1</V>
+            <Min>458</Min>
+            <Max>498</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref291">
+            <V>1</V>
+            <Min>613.5</Min>
+            <Max>655.5</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref292">
+            <V>1</V>
+            <Min>765</Min>
+            <Max>900</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref293"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref294">
+         <V>2</V>
+         <BandNames ref="ref295" dim="3">
+          <BandNames-i>Opal 480</BandNames-i>
+          <BandNames-i>Opal 620</BandNames-i>
+          <BandNames-i>Opal 780</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref296">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-424/590/735-25 Excitation</PartNumber>
+          <Name>Opal480/620/780</Name>
+          <TransmissionBands ref="ref297" dim="3">
+           <TransmissionBands-i ref="ref298">
+            <V>1</V>
+            <Min>416</Min>
+            <Max>445</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref299">
+            <V>1</V>
+            <Min>580</Min>
+            <Max>605</Max>
+           </TransmissionBands-i>
+           <TransmissionBands-i ref="ref300">
+            <V>1</V>
+            <Min>715</Min>
+            <Max>755</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref301">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref302" dim="1">
+       <Exposure-i>AQDIQQ==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref303" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref304" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref305">
+       <V>1</V>
+       <BandIndex>0</BandIndex>
+       <FilterPair ref="ref306">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref307">
+         <V>1</V>
+         <FixedFilter ref="ref308">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-532/18-25 Emission</PartNumber>
+          <Name>Opal 520</Name>
+          <TransmissionBands ref="ref309" dim="1">
+           <TransmissionBands-i ref="ref310">
+            <V>1</V>
+            <Min>523</Min>
+            <Max>541</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref311"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref312">
+         <V>2</V>
+         <BandNames ref="ref313" dim="1">
+          <BandNames-i>Opal 520</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref314">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-486/30-25 Excitation</PartNumber>
+          <Name>Opal 520</Name>
+          <TransmissionBands ref="ref315" dim="1">
+           <TransmissionBands-i ref="ref316">
+            <V>1</V>
+            <Min>471</Min>
+            <Max>499</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref317">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref318" dim="1">
+       <Exposure-i>AQDIQQ==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref319" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+     <ExpectedSegments-i ref="ref320" subtype="SpectralSegment">
+      <V>1</V>
+      <V>1</V>
+      <V>3</V>
+      <TunableFilterEngaged>false</TunableFilterEngaged>
+      <BandIndex>0</BandIndex>
+      <ExcitedFilterPair ref="ref321">
+       <V>1</V>
+       <BandIndex>0</BandIndex>
+       <FilterPair ref="ref322">
+        <V>3</V>
+        <FactoryDefined>true</FactoryDefined>
+        <EmissionFilter ref="ref323">
+         <V>1</V>
+         <FixedFilter ref="ref324">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-676/29-25 Emission</PartNumber>
+          <Name>Sample AF</Name>
+          <TransmissionBands ref="ref325" dim="1">
+           <TransmissionBands-i ref="ref326">
+            <V>1</V>
+            <Min>658</Min>
+            <Max>695</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+         <Bands ref="ref327"></Bands>
+        </EmissionFilter>
+        <ExcitationFilter ref="ref328">
+         <V>2</V>
+         <BandNames ref="ref329" dim="1">
+          <BandNames-i>Sample AF</BandNames-i>
+         </BandNames>
+         <FixedFilter ref="ref330">
+          <V>2</V>
+          <Manufacturer>Semrock</Manufacturer>
+          <PartNumber>FF01-414/46-25 Excitation</PartNumber>
+          <Name>Sample AF</Name>
+          <TransmissionBands ref="ref331" dim="1">
+           <TransmissionBands-i ref="ref332">
+            <V>1</V>
+            <Min>416</Min>
+            <Max>437</Max>
+           </TransmissionBands-i>
+          </TransmissionBands>
+         </FixedFilter>
+        </ExcitationFilter>
+       </FilterPair>
+      </ExcitedFilterPair>
+      <WavelengthGroup ref="ref333">
+       <V>1</V>
+       <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+       <TunableFilterStates />
+      </WavelengthGroup>
+      <Exposure ref="ref334" dim="1">
+       <Exposure-i>AAAWQw==</Exposure-i>
+      </Exposure>
+      <Signal ref="ref335" dim="1">
+       <Signal-i>AACAPw==</Signal-i>
+      </Signal>
+     </ExpectedSegments-i>
+    </ExpectedSegments>
+    <CubeFromTiff>cft_NotFromTiff</CubeFromTiff>
+    <UnmixedPixelUnit>pu_NormalizedCountsTotal</UnmixedPixelUnit>
+    <CubeSourceType>cs_QPSlideAnnotation</CubeSourceType>
+    <ExpectedElementType>Byte</ExpectedElementType>
+    <ExpectedPixelUnit>pu_Raw</ExpectedPixelUnit>
+    <ImagingMode>im_Fluorescence</ImagingMode>
+    <ImageFormat>cft_MultiBand</ImageFormat>
+    <DefaultUnmix>false</DefaultUnmix>
+    <ImageLoadSettings ref="ref336">
+     <V>4</V>
+     <ResampleValue ref="ref337">
+      <V>1</V>
+      <Factor>1</Factor>
+      <Type>Down</Type>
+     </ResampleValue>
+     <ResamplingEnabled>false</ResamplingEnabled>
+     <BaselineSpectrum />
+     <BaselineSubtract>false</BaselineSubtract>
+     <ConvertToOD>false</ConvertToOD>
+     <WhiteSpectrum />
+    </ImageLoadSettings>
+    <SpectralLibrary ref="ref338" subtype="SpectralLibraryWithBands">
+     <V>1</V>
+     <V>1</V>
+     <Stains ref="ref339" dim="8">
+      <Stains-i ref="ref340" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>DAPI</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref341" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>DAPI</Name>
+        <Date>2022-12-16T10:18:10.1316833-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref342">
+         <V>1</V>
+         <ScaleTable ref="ref343">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref344" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref345" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref346" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref347" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>DAPI</StainCategory>
+        <Color>Blue</Color>
+        <SpectralSegments ref="ref348" dim="8">
+         <SpectralSegments-i ref="ref349" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref350">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref351" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref352" dim="1">
+           <Signal-i>ufx/Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref353" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref354">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref355" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref356" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref357" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref358">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref359" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref360" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref361" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref362">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref363" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref364" dim="1">
+           <Signal-i>vtsjPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref365" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref366">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref367" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref368" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref369" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref370">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref371" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref372" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref373" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref374">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref375" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref376" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref377" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref378">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref379" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref380" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref342" />
+      </Stains-i>
+      <Stains-i ref="ref381" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>CD11c</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref382" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>Opal 480</Name>
+        <Date>2022-12-16T10:18:10.1316833-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref383">
+         <V>1</V>
+         <ScaleTable ref="ref384">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref385" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref386" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref387" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref388" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>Opal 480</StainCategory>
+        <Color>Cyan</Color>
+        <SpectralSegments ref="ref389" dim="8">
+         <SpectralSegments-i ref="ref390" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref391">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref392" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref393" dim="1">
+           <Signal-i>naZgPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref394" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref395">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref396" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref397" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref398" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref399">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref400" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref401" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref402" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref403">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref404" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref405" dim="1">
+           <Signal-i>qCR/Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref406" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref407">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref408" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref409" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref410" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref411">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref412" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref413" dim="1">
+           <Signal-i>tSAcOQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref414" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref415">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref416" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref417" dim="1">
+           <Signal-i>G+l0PQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref418" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref419">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref420" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref421" dim="1">
+           <Signal-i>jE8jPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref383" />
+      </Stains-i>
+      <Stains-i ref="ref422" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>CD56</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref423" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>Opal 520</Name>
+        <Date>2022-12-16T10:18:10.1316833-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref424">
+         <V>1</V>
+         <ScaleTable ref="ref425">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref426" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref427" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref428" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref429" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>Opal 520</StainCategory>
+        <Color>255, 128, 0</Color>
+        <SpectralSegments ref="ref430" dim="8">
+         <SpectralSegments-i ref="ref431" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref432">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref433" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref434" dim="1">
+           <Signal-i>EIzMPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref435" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref436">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref437" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref438" dim="1">
+           <Signal-i>aKEjPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref439" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref440">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref441" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref442" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref443" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref444">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref445" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref446" dim="1">
+           <Signal-i>V6QjPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref447" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref448">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref449" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref450" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref451" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref452">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref453" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref454" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref455" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref456">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref457" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref458" dim="1">
+           <Signal-i>9bN/Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref459" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref460">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref461" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref462" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref424" />
+      </Stains-i>
+      <Stains-i ref="ref463" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>LAG3</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref464" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>Opal 570</Name>
+        <Date>2022-12-16T10:18:10.147307-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref465">
+         <V>1</V>
+         <ScaleTable ref="ref466">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref467" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref468" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref469" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref470" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>Opal 570</StainCategory>
+        <Color>Yellow</Color>
+        <SpectralSegments ref="ref471" dim="8">
+         <SpectralSegments-i ref="ref472" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref473">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref474" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref475" dim="1">
+           <Signal-i>3w+3PQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref476" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref477">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref478" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref479" dim="1">
+           <Signal-i>Oit+Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref480" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref481">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref482" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref483" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref484" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref485">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref486" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref487" dim="1">
+           <Signal-i>Cj6EPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref488" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref489">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref490" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref491" dim="1">
+           <Signal-i>iAg3PQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref492" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref493">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref494" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref495" dim="1">
+           <Signal-i>DUQcOQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref496" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref497">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref498" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref499" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref500" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref501">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref502" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref503" dim="1">
+           <Signal-i>tqUiPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref465" />
+      </Stains-i>
+      <Stains-i ref="ref504" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>MTAP</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref505" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>Opal 620</Name>
+        <Date>2022-12-16T10:18:10.147307-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref506">
+         <V>1</V>
+         <ScaleTable ref="ref507">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref508" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref509" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref510" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref511" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>Opal 620</StainCategory>
+        <Color>Lime</Color>
+        <SpectralSegments ref="ref512" dim="8">
+         <SpectralSegments-i ref="ref513" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref514">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref515" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref516" dim="1">
+           <Signal-i>DAuqPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref517" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref518">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref519" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref520" dim="1">
+           <Signal-i>a9YfPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref521" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref522">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref523" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref524" dim="1">
+           <Signal-i>qNOfPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref525" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref526">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref527" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref528" dim="1">
+           <Signal-i>0uZHPg==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref529" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref530">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref531" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref532" dim="1">
+           <Signal-i>Yrl5Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref533" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref534">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref535" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref536" dim="1">
+           <Signal-i>eVMZOg==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref537" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref538">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref539" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref540" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref541" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref542">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref543" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref544" dim="1">
+           <Signal-i>/MsfPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref506" />
+      </Stains-i>
+      <Stains-i ref="ref545" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>BAP1</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref546" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>Opal 690</Name>
+        <Date>2022-12-16T10:18:10.147307-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref547">
+         <V>1</V>
+         <ScaleTable ref="ref548">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref549" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref550" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref551" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref552" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>Opal 690</StainCategory>
+        <Color>Red</Color>
+        <SpectralSegments ref="ref553" dim="8">
+         <SpectralSegments-i ref="ref554" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref555">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref556" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref557" dim="1">
+           <Signal-i>Je31PA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref558" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref559">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref560" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref561" dim="1">
+           <Signal-i>eEB1PA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref562" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref563">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref564" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref565" dim="1">
+           <Signal-i>XX5/Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref566" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref567">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref568" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref569" dim="1">
+           <Signal-i>JlOFOA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref570" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref571">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref572" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref573" dim="1">
+           <Signal-i>/T8jPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref574" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref575">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref576" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref577" dim="1">
+           <Signal-i>2wZNPQ==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref578" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref579">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref580" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref581" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref582" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref583">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref584" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref585" dim="1">
+           <Signal-i>ii90PA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref547" />
+      </Stains-i>
+      <Stains-i ref="ref586" subtype="SpectralLibraryElement">
+       <V>3</V>
+       <Marker>NF2</Marker>
+       <Adaptive>false</Adaptive>
+       <Selected>true</Selected>
+       <FromDefaultLib>false</FromDefaultLib>
+       <Stain ref="ref587" subtype="Stain">
+        <V>1</V>
+        <V>2</V>
+        <StainType>Synthetic</StainType>
+        <Name>Opal 780</Name>
+        <Date>2022-12-16T10:18:10.147307-05:00</Date>
+        <Notes></Notes>
+        <Mode>im_Fluorescence</Mode>
+        <ScaleInfoTable ref="ref588">
+         <V>1</V>
+         <ScaleTable ref="ref589">
+          <ScaleTable-k>pu_Raw</ScaleTable-k>
+          <ScaleTable-v ref="ref590" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref591" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+          <ScaleTable-k>pu_NormalizedCounts</ScaleTable-k>
+          <ScaleTable-v ref="ref592" subtype="SerializableLinearScaleInfo" params="System.Double">
+           <V>1</V>
+           <Offset>0</Offset>
+           <ScaleFactors ref="ref593" dim="8">
+            <ScaleFactors-i>AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPw==</ScaleFactors-i>
+           </ScaleFactors>
+          </ScaleTable-v>
+         </ScaleTable>
+        </ScaleInfoTable>
+        <PixelUnits>pu_NormalizedCounts</PixelUnits>
+        <StainCategory>Opal 780</StainCategory>
+        <Color>White</Color>
+        <SpectralSegments ref="ref594" dim="8">
+         <SpectralSegments-i ref="ref595" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref185" />
+          <WavelengthGroup ref="ref596">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref597" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref598" dim="1">
+           <Signal-i>H1hEPg==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref599" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref205" />
+          <WavelengthGroup ref="ref600">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref601" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref602" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref603" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref225" />
+          <WavelengthGroup ref="ref604">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref605" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref606" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref607" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref245" />
+          <WavelengthGroup ref="ref608">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref609" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref610" dim="1">
+           <Signal-i>MiZTPg==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref611" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref265" />
+          <WavelengthGroup ref="ref612">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref613" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref614" dim="1">
+           <Signal-i>eq3rPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref615" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref285" />
+          <WavelengthGroup ref="ref616">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref617" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref618" dim="1">
+           <Signal-i>+oR1Pw==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref619" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref305" />
+          <WavelengthGroup ref="ref620">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref621" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref622" dim="1">
+           <Signal-i>AAAAAA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+         <SpectralSegments-i ref="ref623" subtype="SpectralSegment">
+          <V>1</V>
+          <V>1</V>
+          <V>3</V>
+          <TunableFilterEngaged>false</TunableFilterEngaged>
+          <BandIndex>0</BandIndex>
+          <ExcitedFilterPair ref="ref321" />
+          <WavelengthGroup ref="ref624">
+           <V>1</V>
+           <TunableFilterBandwidth>Broad</TunableFilterBandwidth>
+           <TunableFilterStates />
+          </WavelengthGroup>
+          <Exposure ref="ref625" dim="1">
+           <Exposure-i>AACAPw==</Exposure-i>
+          </Exposure>
+          <Signal ref="ref626" dim="1">
+           <Signal-i>MAYdPA==</Signal-i>
+          </Signal>
+         </SpectralSegments-i>
+        </SpectralSegments>
+       </Stain>
+       <ScalingInfo ref="ref588" />
+      </Stains-i>
+      <Stains-i ref="ref24" />
+     </Stains>
+    </SpectralLibrary>
+    <SpectralLibraryFileName />
+   </Settings>
+  </Steps-i>
+  <Steps-i ref="ref627" subtype="ExportStep">
+   <V>1</V>
+   <Settings ref="ref628" subtype="ExportSettings">
+    <V>14</V>
+    <V>2</V>
+    <Locked>false</Locked>
+    <EnabledControls ref="ref629"></EnabledControls>
+    <LegendSelection>OmitLegend</LegendSelection>
+    <ColocTable>false</ColocTable>
+    <QuantTable>false</QuantTable>
+    <ObjectCountingTable>false</ObjectCountingTable>
+    <DirectoryPerImage>false</DirectoryPerImage>
+    <FieldSelection>efs_AllFields</FieldSelection>
+    <FileConflictType>efct_Rename</FileConflictType>
+    <SourcePathLevels>0</SourcePathLevels>
+    <ClassTable>false</ClassTable>
+    <SegmentationTable>false</SegmentationTable>
+    <ScoreTable>false</ScoreTable>
+    <DirectoryName>G:\Hatice_11.2022\image export 2023\CD11c\</DirectoryName>
+    <ExportTypes>eet_CompositeImage</ExportTypes>
+    <ImageType>eit_JPEG</ImageType>
+   </Settings>
+  </Steps-i>
+ </Steps>
+ <CompositeViews ref="ref630">
+  <V>1</V>
+  <Names ref="ref631">
+   <Names-i>Standard</Names-i>
+  </Names>
+  <ViewsTable ref="ref632">
+   <ViewsTable-k>Standard</ViewsTable-k>
+   <ViewsTable-v ref="ref633" subtype="CompositeImageViewSettings">
+    <V>4</V>
+    <V>5</V>
+    <Name>Standard</Name>
+    <SharedViewSettings ref="ref634">
+     <V>11</V>
+     <PhenotypeDetails />
+     <SelectedPhenotypeSchema ref="ref635">
+      <V>1</V>
+      <First>00000000-0000-0000-0000-000000000000</First>
+      <Second>Unnamed</Second>
+     </SelectedPhenotypeSchema>
+     <UnmixPixelUnit>pu_NormalizedCountsTotal</UnmixPixelUnit>
+     <ImageScaling>AcrossAll</ImageScaling>
+     <SelectedScalingLimits />
+     <ThresholdParameters ref="ref636"></ThresholdParameters>
+     <ColocNumeratorParameters ref="ref637" subtype="ThresholdMaskParameters">
+      <V>2</V>
+      <MaxSignalLevel>0</MaxSignalLevel>
+      <ComponentName>Colocalization Numerator</ComponentName>
+      <MaskColor>Yellow</MaskColor>
+      <Visible>false</Visible>
+      <Threshold>0</Threshold>
+      <MCP>0</MCP>
+     </ColocNumeratorParameters>
+     <ScoreViewSettings />
+     <ShowScoreThresholds>false</ShowScoreThresholds>
+     <OverlayRenderers ref="ref638">
+      <OverlayRenderers-i ref="ref639" subtype="ClassMapRenderer">
+       <V>1</V>
+       <Visible>true</Visible>
+       <Alpha>75</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref640" subtype="TrainingRegionRenderer">
+       <V>1</V>
+       <Visible>true</Visible>
+       <Alpha>90</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref641" subtype="NuclearRenderer">
+       <V>1</V>
+       <V>4</V>
+       <ShowIdNumbers>false</ShowIdNumbers>
+       <DrawInterior>true</DrawInterior>
+       <Visible>false</Visible>
+       <Alpha>128</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref642" subtype="CytoplasmRenderer">
+       <V>1</V>
+       <V>4</V>
+       <ShowIdNumbers>false</ShowIdNumbers>
+       <DrawInterior>true</DrawInterior>
+       <Visible>false</Visible>
+       <Alpha>192</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref643" subtype="MembraneRenderer">
+       <V>1</V>
+       <V>4</V>
+       <ShowIdNumbers>false</ShowIdNumbers>
+       <DrawInterior>true</DrawInterior>
+       <Visible>true</Visible>
+       <Alpha>192</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref644" subtype="ComponentRegionRenderer">
+       <V>1</V>
+       <V>4</V>
+       <ShowIdNumbers>false</ShowIdNumbers>
+       <DrawInterior>true</DrawInterior>
+       <Visible>true</Visible>
+       <Alpha>75</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref645" subtype="ColorRenderer">
+       <V>1</V>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref646" subtype="PhenotypeRenderer">
+       <V>3</V>
+       <V>1</V>
+       <VisiblePhenotypes />
+       <Visible>true</Visible>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref647" subtype="SpectralRegionRenderer">
+       <V>4</V>
+       <ShowIdNumbers>false</ShowIdNumbers>
+       <DrawInterior>true</DrawInterior>
+       <Visible>false</Visible>
+       <Alpha>255</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref648" subtype="ExtractedSignalRenderer"></OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref649" subtype="PhenotypeTrainingRenderer">
+       <V>2</V>
+       <V>1</V>
+       <VisiblePhenotypes />
+       <Visible>false</Visible>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref650" subtype="LegendRenderer">
+       <V>1</V>
+       <Alpha>0</Alpha>
+       <Visible>true</Visible>
+       <Cache>cst_None</Cache>
+       <ShowIdNumbers>false</ShowIdNumbers>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref651" subtype="PreviewRegionRenderer">
+       <V>4</V>
+       <ShowIdNumbers>false</ShowIdNumbers>
+       <DrawInterior>false</DrawInterior>
+       <Visible>true</Visible>
+       <Alpha>192</Alpha>
+      </OverlayRenderers-i>
+      <OverlayRenderers-i ref="ref652" subtype="ProcessRegionRenderer">
+       <V>4</V>
+       <ShowIdNumbers>true</ShowIdNumbers>
+       <DrawInterior>false</DrawInterior>
+       <Visible>true</Visible>
+       <Alpha>192</Alpha>
+      </OverlayRenderers-i>
+     </OverlayRenderers>
+    </SharedViewSettings>
+    <PictureSettings ref="ref653" subtype="CompositeRenderer">
+     <V>3</V>
+     <V>4</V>
+     <ScaleWindowFactor ref="ref654" dim="8">
+      <ScaleWindowFactor-i>ifQ8PzrqcD/MV3g/A7hiPwAAgD9+w7I/EVGePwAAgD8=</ScaleWindowFactor-i>
+     </ScaleWindowFactor>
+     <Visible>true</Visible>
+     <Brightness ref="ref655" dim="8">
+      <Brightness-i>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</Brightness-i>
+     </Brightness>
+     <Contrast ref="ref656" dim="8">
+      <Contrast-i>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</Contrast-i>
+     </Contrast>
+     <Gamma ref="ref657" dim="8">
+      <Gamma-i>AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8=</Gamma-i>
+     </Gamma>
+     <CacheType>cst_Scaled, cst_Rendered</CacheType>
+     <ScaleAcrossLayers>false</ScaleAcrossLayers>
+     <ScalingLimits />
+     <ScalingType>est_ClipStretch</ScalingType>
+     <CustomScaling ref="ref658" dim="8">
+      <CustomScaling-i ref="ref659">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>61.48878</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref660">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>33.30433</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref661">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>12.33916</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref662">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>22.84235</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref663">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>51.11479</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref664">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>16.75799</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref665">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>13.03221</Max>
+      </CustomScaling-i>
+      <CustomScaling-i ref="ref666">
+       <V>1</V>
+       <Min>0</Min>
+       <Max>66.06065</Max>
+      </CustomScaling-i>
+     </CustomScaling>
+     <UseAlternateColor>true</UseAlternateColor>
+     <DisplayMode>edm_Radiant</DisplayMode>
+     <ComponentInfo ref="ref667">
+      <ComponentInfo-i ref="ref668">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>DAPI</Epitope>
+       <AlternateColor>Blue</AlternateColor>
+       <Color>Blue</Color>
+       <Index>0</Index>
+       <Name>DAPI (DAPI)</Name>
+       <Visible>true</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref669">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>CD11c</Epitope>
+       <AlternateColor>Cyan</AlternateColor>
+       <Color>0, 2, 255</Color>
+       <Index>1</Index>
+       <Name>CD11c (Opal 480)</Name>
+       <Visible>true</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref670">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>CD56</Epitope>
+       <AlternateColor>255, 128, 0</AlternateColor>
+       <Color>0, 2, 255</Color>
+       <Index>2</Index>
+       <Name>CD56 (Opal 520)</Name>
+       <Visible>false</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref671">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>LAG3</Epitope>
+       <AlternateColor>Yellow</AlternateColor>
+       <Color>0, 255, 37</Color>
+       <Index>3</Index>
+       <Name>LAG3 (Opal 570)</Name>
+       <Visible>false</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref672">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>MTAP</Epitope>
+       <AlternateColor>Lime</AlternateColor>
+       <Color>7, 255, 67</Color>
+       <Index>4</Index>
+       <Name>MTAP (Opal 620)</Name>
+       <Visible>false</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref673">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>BAP1</Epitope>
+       <AlternateColor>Red</AlternateColor>
+       <Color>255, 6, 5</Color>
+       <Index>5</Index>
+       <Name>BAP1 (Opal 690)</Name>
+       <Visible>false</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref674">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope>NF2</Epitope>
+       <AlternateColor>Magenta</AlternateColor>
+       <Color>255, 7, 71</Color>
+       <Index>6</Index>
+       <Name>NF2 (Opal 780)</Name>
+       <Visible>false</Visible>
+      </ComponentInfo-i>
+      <ComponentInfo-i ref="ref675">
+       <V>3</V>
+       <EditingEnabled>true</EditingEnabled>
+       <Epitope />
+       <AlternateColor>Black</AlternateColor>
+       <Color>14, 24, 255</Color>
+       <Index>7</Index>
+       <Name>Autofluorescence</Name>
+       <Visible>true</Visible>
+      </ComponentInfo-i>
+     </ComponentInfo>
+    </PictureSettings>
+    <SpectralComponentColors ref="ref676">
+     <SpectralComponentColors-k>DAPI (DAPI)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>Blue</SpectralComponentColors-v>
+     <SpectralComponentColors-k>CD11c (Opal 480)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>Cyan</SpectralComponentColors-v>
+     <SpectralComponentColors-k>CD56 (Opal 520)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>255, 128, 0</SpectralComponentColors-v>
+     <SpectralComponentColors-k>LAG3 (Opal 570)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>Yellow</SpectralComponentColors-v>
+     <SpectralComponentColors-k>MTAP (Opal 620)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>Lime</SpectralComponentColors-v>
+     <SpectralComponentColors-k>BAP1 (Opal 690)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>Red</SpectralComponentColors-v>
+     <SpectralComponentColors-k>NF2 (Opal 780)</SpectralComponentColors-k>
+     <SpectralComponentColors-v>White</SpectralComponentColors-v>
+     <SpectralComponentColors-k>Autofluorescence</SpectralComponentColors-k>
+     <SpectralComponentColors-v>Black</SpectralComponentColors-v>
+    </SpectralComponentColors>
+   </ViewsTable-v>
+  </ViewsTable>
+  <Selected>Standard</Selected>
+ </CompositeViews>
+ <VectraUse>None</VectraUse>
+ <L>false</L>
+ <ViewSettings ref="ref677">
+  <V>2</V>
+  <SharedViewSettings ref="ref634" />
+  <ViewType>EView_Image</ViewType>
+  <ImageViewSettings ref="ref678" subtype="ImageViewSettings">
+   <V>4</V>
+   <SharedViewSettings ref="ref634" />
+   <ImageViewTypeSettings ref="ref679">
+    <ImageViewTypeSettings-k>EImageView_Cube</ImageViewTypeSettings-k>
+    <ImageViewTypeSettings-v ref="ref680" subtype="CubeImageViewSettings">
+     <V>3</V>
+     <V>2</V>
+     <V>5</V>
+     <Name>Color Image</Name>
+     <SharedViewSettings ref="ref634" />
+     <PictureSettings ref="ref681" subtype="CubeRenderer">
+      <V>3</V>
+      <V>1</V>
+      <V>4</V>
+      <ScaleWindowFactor ref="ref682" dim="3">
+       <ScaleWindowFactor-i>AACAPwAAgD8AAIA/</ScaleWindowFactor-i>
+      </ScaleWindowFactor>
+      <Visible>true</Visible>
+      <Brightness ref="ref683" dim="3">
+       <Brightness-i>AAAAAAAAAAAAAAAA</Brightness-i>
+      </Brightness>
+      <Contrast ref="ref684" dim="3">
+       <Contrast-i>AAAAAAAAAAAAAAAA</Contrast-i>
+      </Contrast>
+      <Gamma ref="ref685" dim="3">
+       <Gamma-i>ZmbmP2Zm5j9mZuY/</Gamma-i>
+      </Gamma>
+      <CacheType>cst_Scaled</CacheType>
+      <ScaleAcrossLayers>true</ScaleAcrossLayers>
+      <ScalingLimits ref="ref686" dim="3">
+       <ScalingLimits-i ref="ref687">
+        <V>1</V>
+        <Min>0</Min>
+        <Max>255</Max>
+       </ScalingLimits-i>
+       <ScalingLimits-i ref="ref688">
+        <V>1</V>
+        <Min>0</Min>
+        <Max>255</Max>
+       </ScalingLimits-i>
+       <ScalingLimits-i ref="ref689">
+        <V>1</V>
+        <Min>0</Min>
+        <Max>255</Max>
+       </ScalingLimits-i>
+      </ScalingLimits>
+      <ScalingType>est_Raw</ScalingType>
+      <CustomScaling />
+      <LayerIndices ref="ref690" dim="3">
+       <LayerIndices-i>AAAAAAEAAAACAAAA</LayerIndices-i>
+      </LayerIndices>
+      <RenderingUnitSpace>pu_DarkMeanSubtract</RenderingUnitSpace>
+      <ColorWeighting ref="ref691" dim="3,8">
+       <ColorWeighting-i>e57dojXvEEDntqhor9y1vwAAAAAAAAAADOqJtH3/9T/wkvTlkah8vwAAAAAAAAAAttT5Yt2Dub9yrnhzXPA+v7j3Ynp9jti/ouVMb8tC4T8AAAAAAAAAAARaN8ImiM8/ew1PmUxuq78AAAAAAAAAAC0kSwczH/E/o1yPx3H8er8j/Ldi2oXHPyRfjtK9KeQ/AAAAAAAAAADnNOcY5d/bv2YV+ktWvuI/AAAAAAAAAABo+iJ8jsvhv3XQncownaw/</ColorWeighting-i>
+      </ColorWeighting>
+      <ColorWeightingRules ref="ref692" subtype="HumanEyeRgbRules">
+       <V>2</V>
+       <V>1</V>
+       <InstrumentalResponse ref="ref693" dim="31">
+        <InstrumentalResponse-i>zO5z+YgcuT/amzJNoozPPzP8kH3JV9w/HRN8I2hb5j+lqgmi7gPwP/qtE5GptfM/ywh/QuKm+T8RO9p9Oj/+PxEGhgRgNgFA2h/XosGFA0DGS7Ib0CIJQDSXtfLH+QtAz1VZx3YID0DXLwE/jN8QQPVec1yx2BFAGXPXEvJBE0BZ1Ka0LsAUQOla8KBQ8xVALtVncLGWF0Cki0sh1lsZQIe6xEjGMxpA+XH9s4iNG0CJtq7gzXQdQC9VGvK/3x5AS4/1hTQoIEBW+d33E+MgQBfuXBjpRSFAPDRwmpxKIkCOJRqXdDYjQOtBnpZ4yiNAoaC0k98EJEA=</InstrumentalResponse-i>
+       </InstrumentalResponse>
+      </ColorWeightingRules>
+     </PictureSettings>
+     <ColorWeighting ref="ref692" />
+    </ImageViewTypeSettings-v>
+    <ImageViewTypeSettings-k>EImageView_Composite</ImageViewTypeSettings-k>
+    <ImageViewTypeSettings-v ref="ref633" />
+    <ImageViewTypeSettings-k>EImageView_Component</ImageViewTypeSettings-k>
+    <ImageViewTypeSettings-v ref="ref694" subtype="ComponentImageViewSettings">
+     <V>3</V>
+     <V>4</V>
+     <V>5</V>
+     <Name>Component Image</Name>
+     <SharedViewSettings ref="ref634" />
+     <PictureSettings ref="ref695" subtype="ComponentRenderer">
+      <V>1</V>
+      <V>3</V>
+      <V>4</V>
+      <ScaleWindowFactor ref="ref696" dim="2">
+       <ScaleWindowFactor-i>AAAgP1VVVT8=</ScaleWindowFactor-i>
+      </ScaleWindowFactor>
+      <Visible>true</Visible>
+      <Brightness ref="ref697" dim="2">
+       <Brightness-i>AAAAAAAAAAA=</Brightness-i>
+      </Brightness>
+      <Contrast ref="ref698" dim="2">
+       <Contrast-i>AAAAAAAAAAA=</Contrast-i>
+      </Contrast>
+      <Gamma ref="ref699" dim="2">
+       <Gamma-i>AACAPwAAgD8=</Gamma-i>
+      </Gamma>
+      <CacheType>cst_Scaled, cst_Rendered</CacheType>
+      <ScaleAcrossLayers>false</ScaleAcrossLayers>
+      <ScalingLimits />
+      <ScalingType>est_ClipStretch</ScalingType>
+      <CustomScaling ref="ref700" dim="2">
+       <CustomScaling-i ref="ref701">
+        <V>1</V>
+        <Min>0</Min>
+        <Max>22.84235</Max>
+       </CustomScaling-i>
+       <CustomScaling-i ref="ref702">
+        <V>1</V>
+        <Min>0</Min>
+        <Max>61.48878</Max>
+       </CustomScaling-i>
+      </CustomScaling>
+      <UseAlternateColor>false</UseAlternateColor>
+      <DisplayMode>edm_Absorptive</DisplayMode>
+      <ComponentInfo ref="ref703">
+       <ComponentInfo-i ref="ref704">
+        <V>3</V>
+        <EditingEnabled>true</EditingEnabled>
+        <Epitope></Epitope>
+        <AlternateColor>0, 255, 37</AlternateColor>
+        <Color>165, 42, 20</Color>
+        <Index>3</Index>
+        <Name>LAG3 (Opal 570)</Name>
+        <Visible>true</Visible>
+       </ComponentInfo-i>
+       <ComponentInfo-i ref="ref705">
+        <V>3</V>
+        <EditingEnabled>true</EditingEnabled>
+        <Epitope></Epitope>
+        <AlternateColor>Blue</AlternateColor>
+        <Color>RoyalBlue</Color>
+        <Index>0</Index>
+        <Name>DAPI (DAPI)</Name>
+        <Visible>true</Visible>
+       </ComponentInfo-i>
+      </ComponentInfo>
+     </PictureSettings>
+     <SpectralComponentColors ref="ref706"></SpectralComponentColors>
+    </ImageViewTypeSettings-v>
+   </ImageViewTypeSettings>
+   <ImageViewType>EImageView_Composite</ImageViewType>
+  </ImageViewSettings>
+  <TableViewSettings ref="ref707" subtype="TableViewSettings">
+   <V>3</V>
+   <SharedViewSettings ref="ref634" />
+   <TableViewTypeSettings ref="ref708"></TableViewTypeSettings>
+   <TableViewType>-1</TableViewType>
+  </TableViewSettings>
+ </ViewSettings>
+</Procedure2>
