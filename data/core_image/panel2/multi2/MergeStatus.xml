@@ -1,0 +1,3115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AggregationStatus s_v="1" ref="ref0">
+ <V>1</V>
+ <Current>0</Current>
+ <Data ref="ref1">
+  <Data-i ref="ref2">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|d845ee93-4973-4b1e-bcd2-b5c703685f83</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,H]_[17041,46971]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref3">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|651cf2d5-cb3e-48cf-84a3-c36c7e4c5e63</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,B]_[11013,47185]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref4">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|83cc2b8e-add7-4c23-a3bd-dc70411a7033</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,A]_[9774,47328]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref5">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|13cd55a7-e509-4e0d-8cd3-25ed3de6c243</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,I]_[18280,48853]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref6">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|891d19cc-cb95-4fd0-8a05-74461df1e405</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,G]_[16183,48996]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref7">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|82097db4-15c4-4d31-97ce-e4f50ee76514</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,H]_[17232,49044]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref8">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|678328ba-5124-45d6-b782-98c59df473c9</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,E]_[14230,49139]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref9">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|1857373d-48c7-479d-b6ac-c4858eac7b6d</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,C]_[12276,49187]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref10">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|0391dc88-5f02-4e2f-b0b3-f363730762ab</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,D]_[13229,49187]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref11">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|b8a8f6af-7045-4cb1-8a28-15b762fcf0d1</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,B]_[11084,49234]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref12">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|4c389d51-77ff-48cc-bc2e-616bec6cabe2</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,K]_[20400,49949]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref13">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|a218d3ce-4fc3-4509-a83f-5cbf6eb9bf26</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,G]_[16279,50068]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref14">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9c11aa0a-d5ff-4582-9ad0-f946e45defff</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,E]_[14277,50259]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref15">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|ba43fd5f-9fed-4278-8707-f4e86101119f</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,C]_[12228,50330]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref16">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|f0870886-24c3-49cc-89f3-cf998de8daea</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,A]_[10084,50402]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref17">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|801104ed-18b8-4c31-b23e-c9eb6f58c9d2</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,5,H]_[17375,51093]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref18">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|251fedfb-3468-4fe4-83cc-51ee8ac563e5</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,5,D]_[13324,51260]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref19">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|fcccf703-b868-49e7-a38b-9d45e1ceeb2d</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,5,C]_[12252,51379]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref20">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|48b36e85-e0cf-405d-a210-9adec64cbccc</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,6,B]_[11275,52427]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref21">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|eeae9e12-80cc-457f-a967-62d6ace72312</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,6,C]_[12371,52475]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref22">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|137c89b7-c7eb-420b-8677-269202415535</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,6,A]_[10251,52570]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref23">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|0210a189-07b8-4c5e-901e-c6a4ab861312</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,7,K]_[20686,52975]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref24">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|c7ed88e6-5ca5-4852-b738-3c0557405748</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,7,J]_[19590,53142]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref25">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9a3501ab-5556-487e-bd8b-964cd58ed9cc</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,7,E]_[14563,53380]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref26">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|662c16a0-f74e-49f7-811a-11e98b1a1a14</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,C]_[12118,47066]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref27">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|c3a6757f-a596-4d29-99be-7274f7c16e9e</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,E]_[14010,47098]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref28">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|7cc52157-b56f-45e0-868b-8c4c6d803895</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,G]_[16001,46938]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref29">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9d195f5e-d7a5-436d-ac9a-b58a63d669d3</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,J]_[19090,46865]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref30">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|17a5ded2-44dc-4580-9491-8ab8c6e4635d</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,1,K]_[20116,46756]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref31">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|a4fa62ba-1bef-4e54-ad50-fbf335681d5e</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,3,K]_[20274,48927]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref32">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|7eaa78ed-4d9b-4712-bba3-8f9fd4ee5ba1</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,J]_[19395,50046]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref33">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|54ebbdf5-e149-499d-bb29-9217543bce40</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,5,I]_[18473,51021]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref34">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|a2e3049f-1447-4135-94bc-efb97c887647</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,6,I]_[18528,51966]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref35">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|b3538019-a275-4a72-b932-42ccd2648738</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,7,H]_[17541,53263]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref36">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|97b6de06-50d8-416c-9ac3-e90935ae2eb6</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,6,G]_[16423,52167]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref37">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|2b5d8ace-7e2f-44e0-bf44-ce4201ab3ae1</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,6,H]_[17448,52173]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref38">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9c3a272f-7bc4-4f72-aa7b-472b3da7d194</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,7,D]_[13433,53446]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref39">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|630c1b25-24d6-49bb-b85c-f74f8d7e59f7</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,7,B]_[11370,53605]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref40">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|2627d9c3-7cc2-4e21-8dd3-d4d586008b74</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,4,B]_[11188,50347]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref41">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|11822d22-4598-41cc-b662-cf3e99198419</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[1,5,A]_[10116,51563]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref42">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|79b84bda-06fc-49b2-8c6a-bd6dd1fcf9be</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,1,A]_[10410,55636]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref43">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|400dc715-8240-4d15-a145-30e326a4ea7b</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,2,A]_[10457,56732]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref44">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|43c5a0d0-5fc8-4cfc-b323-e9ee7a55e2d8</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,2,B]_[11553,57613]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref45">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|60cc2c24-dcef-429c-bc45-06a6ee94c623</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,2,E]_[16700,57312]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref46">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|2f4dedb7-1a4d-47a9-a174-13b9af611426</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,2,D]_[14602,56440]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref47">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|52de1e4e-80d5-4138-ad85-b22c7ddd1025</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,1,E]_[16627,55227]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref48">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|6de72315-1665-4ada-aaec-635ee7b7de92</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[2,2,C]_[12575,56594]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref49">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|b94f3347-8e96-4589-b0a7-43233f29efc3</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[3,2,B]_[19740,56190]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref50">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|e9829d1f-e582-4b91-80a3-671850196450</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[3,1,B]_[19770,55142]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref51">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|4511445c-b165-492f-8192-2495d855bd83</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[3,1,A]_[18629,55125]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref52">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|358e6fc8-2e7f-42db-8b7c-a3979f93f88f</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[3,2,A]_[18725,56197]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref53">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|6833b501-8bc5-47bd-89bd-0420c9f3bd96</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[3,3,C]_[20941,57048]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref54">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|c799d65e-970d-4c45-97d3-f5e9973916c2</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,2,D]_[13433,60914]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref55">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|46671264-b49d-4053-8e7d-058fdafea8f8</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,2,A]_[10311,60938]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref56">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|b95fe6c1-1489-4201-8e2b-876fa6a5302a</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,2,B]_[11384,60938]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref57">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|8f123d89-8a10-4c96-873b-71e64062c376</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,3,E]_[14529,61772]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref58">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|f98f16c4-a8d9-4334-a884-c045aee0753c</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,3,D]_[13480,61939]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref59">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|1c20547b-3715-4a03-aee2-805f2b686cfd</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,3,B]_[11479,61963]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref60">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|4b00b5de-fe73-4219-9641-cddb6616959d</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,4,E]_[14552,62916]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref61">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|62cfce02-b02a-401d-a693-acb4f5340916</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,4,C]_[12551,63011]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref62">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|bdd458d3-e510-41e2-a374-dff39cf807f1</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,4,A]_[10502,63035]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref63">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|02e3ab94-315c-43c9-9917-a6c4a9324997</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,1,B]_[11341,59833]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref64">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|407882a4-0ef3-42a5-aec7-2a113933da70</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,1,C]_[12384,59708]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref65">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9b86bea8-8ff0-42c0-8a7f-0ead1fad3aaa</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,1,E]_[14463,59571]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref66">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9d6dbe26-8285-4af3-99aa-0b2c6445c39c</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,2,E]_[14481,60661]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref67">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|ca3a043d-21da-4eaa-8dae-9da04d0692b8</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,4,B]_[11538,63049]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref68">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|def9c3df-8e54-4b91-bcc5-490c7a179bf2</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,3,C]_[12432,61853]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref69">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|ce5cbbc0-2742-4ea2-a48f-cf1ac214ce5a</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[4,5,B]_[11462,64236]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref70">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|e439a97a-156c-4f48-8656-b2e3860faa8e</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,1,D]_[19524,59278]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref71">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|9b58ec51-f2a7-4909-868e-da0ec89a2dc5</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,1,E]_[20596,59326]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref72">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|f2e898c6-e9ac-4abd-9d87-97db95d9aed8</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,1,C]_[18428,59421]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref73">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|56973978-d65c-4138-9ec1-e92e26357928</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,2,D]_[19572,60350]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref74">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|62a6176c-a550-4aff-b104-c31e0ef97117</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,2,B]_[17475,60493]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref75">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|ae136924-eec3-4273-a933-1846a10ec26e</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,2,A]_[16427,60612]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref76">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|115f107b-eaa1-4250-8929-fb6b38167e7a</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,3,D]_[19572,61375]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref77">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|429018f0-49d1-4c2f-89e3-6e2e75deeeef</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,3,B]_[17475,61613]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref78">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|583131a7-5086-4c06-916f-d77c84b4de7c</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,4,D]_[19548,62304]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref79">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|aee30c2d-d939-4a3b-ad26-f674a7aa688b</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,4,C]_[18595,62685]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref80">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|d6b56b97-caff-4ba6-83b6-ce93a9106ff0</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,4,A]_[16474,62733]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref81">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|13b8d5b8-a965-4014-a5a3-2b00e785192d</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,5,D]_[19620,63543]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref82">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|e743d651-da02-435e-9135-006ed6e94167</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,5,B]_[17618,63615]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref83">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|350bbcdf-8d5f-4e67-8058-7a6ab77cb992</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,5,E]_[20716,63615]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref84">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|1bfc42da-82ab-464e-97ff-834d783d3d76</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,5,C]_[18619,63710]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref85">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|637294cd-ac40-4548-943c-d8199bb4b41b</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,6,D]_[19667,64639]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref86">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|5f2cd6db-2b3c-4b8b-80a3-bff4f1643446</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,6,B]_[17642,64711]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref87">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|8c4cce49-113a-48d0-b842-3aae69bc7e2e</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,6,C]_[18643,64711]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref88">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|e8a14ad3-172a-40e7-b17d-0a43b18812b5</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,1,B]_[17425,59433]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref89">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|fa20beb5-e83b-4ae2-aada-ed3581ec8657</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,1,A]_[16413,59541]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref90">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB_TMA1\Scan1\NMVB_TMA1_Scan1.qptiff|2f464a2e-7d54-4b98-8783-25d51dbbe605</Source>
+   <Directory></Directory>
+   <Name>NMVB_TMA1_Scan1_Core[5,6,A]_[16627,64806]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref91">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|515dbb9f-14fa-4848-9edd-3cd5ee1c061f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,G]_[15275,41420]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref92">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f3181ad1-114d-4ac0-bae4-920db54f681d</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,I]_[17435,41547]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref93">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f93ae67b-4fdf-43a6-8fe4-928114104dbe</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,D]_[12447,42437]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref94">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d6d9eb77-dd6d-4a1d-8d9a-c82800e776f3</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,A]_[9283,40774]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref95">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|7196b23e-77a1-4fb0-8918-09e78a2f7b86</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,A]_[9257,42488]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref96">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2a7f4744-28c5-4427-b0ad-897f8f346ea0</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,B]_[10203,42453]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref97">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|542b8166-53be-413a-b73e-188a98595be5</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,B]_[10198,41561]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref98">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9ce865e7-cfe8-4c57-8c09-5ea778effc89</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,B]_[10236,40702]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref99">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2524f7e5-7e33-4af4-8fd4-6cb30e0c301f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,C]_[11181,40644]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref100">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|6405755b-dbf5-4bb3-a4ef-a52a5f2631b7</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,C]_[11208,41493]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref101">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|da0f7ec9-c9c7-41d7-808d-3f604d35234a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,C]_[11149,42396]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref102">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|01d04cf8-a426-48fc-99c0-bdc01de79be4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,D]_[12533,41466]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref103">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|34d5b136-db50-4aef-a0c0-a24bb6399620</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,D]_[12524,40589]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref104">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2011b0f3-360d-4a8e-89b7-ca2a990b99ec</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,E]_[13436,41452]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref105">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|30faae1f-bb1b-4f00-b6d9-dfb44b3b32b1</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,E]_[13418,42360]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref106">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|5dbae5b0-5fed-44ba-854f-c106e2c3d18e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,G]_[15231,40552]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref107">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|c6cdc0fa-c35d-4749-965c-959fb3add470</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,F]_[14361,40563]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref108">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ce9a1336-1c7d-4342-b77b-71a56d431783</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,E]_[13428,40512]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref109">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9d985159-589c-4df8-90e6-3605223e5c34</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,F]_[14313,41442]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref110">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1e17f39f-139c-43b2-837c-ba7edadca218</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,F]_[14253,42362]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref111">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f3f3b282-da62-4998-b8ba-e49fc8310d23</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,G]_[15200,42404]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref112">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|8bda48c6-6284-425b-8b62-825e651660a7</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,H]_[16478,41488]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref113">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ae4a7ded-3577-4ce0-a514-28c7a2cbc9d9</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,H]_[16450,42424]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref114">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|bcd0af17-011f-457d-b16a-7fe5102d3b0e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,J]_[18282,41599]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref115">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3c3c654c-807b-4993-879d-b0107dd9a399</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,K]_[19136,41617]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref116">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|36fef769-9d49-43f1-9339-8755dc16bfb7</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,K]_[19125,42539]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref117">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9d54e42c-787d-4ecb-95e2-5912528b0c7f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,2,L]_[19996,41807]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref118">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ae0582f8-342c-4329-b1ff-0ddbf4d09a8c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,L]_[20010,42647]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref119">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|4dc8d4fa-bca9-4afe-b628-610ad41ddee6</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,L]_[20066,40817]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref120">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2d274584-e26f-4f11-8bf3-66d31a91f2d0</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,K]_[19151,40758]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref121">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b5bc73ad-1bde-4722-9f62-4f63312f557b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,J]_[18295,40702]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref122">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|96131e97-9f16-4624-82d6-185f868e5af4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,I]_[17384,40664]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref123">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ec82c1c6-bfd3-4be7-b5ff-4ff8f5283ad4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,1,H]_[16508,40649]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref124">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|aee236ab-3de1-460c-970e-55a7cbfce7db</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,I]_[17376,42482]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref125">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a7959bee-e1c1-4e1a-8115-c465baa9e1f4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,3,J]_[18261,42475]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref126">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|30bee629-59f6-486f-b88b-e290111a1a01</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,J]_[18212,43770]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref127">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|57353828-18c9-433b-aef8-f89291dfa7a0</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,L]_[20118,43960]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref128">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|54b5b371-a59c-4e35-b399-da9be4033814</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,H]_[16401,44564]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref129">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|56b191b1-fe51-443a-97d9-d0bff20d1f6e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,G]_[15099,45358]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref130">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9f4c805f-3946-4689-b4e6-d84fbab4a7de</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,I]_[17322,45454]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref131">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|8314dbbe-25b5-4c96-a167-9bc0f9715d90</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,D]_[12452,43576]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref132">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|0bd22cb1-d910-4935-8c2a-50b29b700374</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,E]_[13321,43574]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref133">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|17874692-a35b-4c60-b306-ec55a756711f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,F]_[14258,43623]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref134">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b2abf2fd-ebd3-4474-8b09-b6d3ea4958d5</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,G]_[15150,43645]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref135">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a134ee59-80aa-49e9-8677-9f68412f48e6</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,I]_[17306,43706]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref136">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f50aaa4a-6fe1-4539-a713-68076497c6b2</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,K]_[19162,43880]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref137">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|8271c58e-1ec4-4710-a976-b441cdb71142</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,J]_[18234,44696]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref138">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9ff7cabe-8682-4cde-9f0b-0e06cebc5c1f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,I]_[17309,44631]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref139">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ded1e980-c085-4e97-9ca5-fb8b1b61ffa2</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,H]_[16423,45431]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref140">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|143a24fb-bf17-412d-acd2-18bd92520922</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,H]_[16342,46356]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref141">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b531b855-a9b7-4313-ab27-bd06436bbc84</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,I]_[17273,46384]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref142">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|c348589b-88ab-4a45-9489-69c883d48cfb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,J]_[18226,45547]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref143">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1ec224c2-6413-4a05-95ef-de06312c1f3b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,J]_[18235,46412]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref144">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b2ddd463-2846-4520-8a39-ad87882fbb3b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,K]_[19082,46511]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref145">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|35428af6-c7bb-446e-a4a1-fe29b04cb7f0</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,L]_[19977,46679]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref146">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|e1cabc84-80d4-41d4-9702-8eca6d96e1c5</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,L]_[19999,45763]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref147">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|303ca485-a58c-409b-8f1a-fd26d7f0ad48</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,K]_[19099,45639]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref148">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|bad8d128-6a55-42e3-9bd8-36e56e4a7d12</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,K]_[19106,44813]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref149">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|e09f1746-76e3-49a5-9ee3-b246f9d53afc</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,L]_[20042,44915]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref150">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|87d8b506-a1d8-4076-8937-6dec95863883</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,F]_[14249,44499]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref151">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2acccadb-7850-4e74-8a92-e574b0c14b55</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,G]_[15117,44447]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref152">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|6b243464-c397-4405-83d8-9cd3d922a415</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,E]_[13383,44423]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref153">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9674d8f1-11b1-4459-958f-2bec6dc2edd4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,D]_[12469,44445]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref154">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ca42723c-9b15-46e5-86f2-bed2420e416f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,D]_[12396,45293]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref155">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|587aac0b-b81e-477f-ba67-23b29a8685c4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,D]_[12318,46264]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref156">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2a03f2f9-10cc-4790-a77e-f5e5305c7b4f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,E]_[13217,46283]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref157">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|cb7fe3fd-302e-4ca8-a6cd-300bee23564b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,E]_[13300,45334]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref158">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a27c2126-bd4f-4107-b6cb-4d6658f6703e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,F]_[14147,45280]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref159">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a427fee3-cadc-4992-b409-b3a8224c8146</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,F]_[14146,46281]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref160">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|c213bd05-cc92-4962-a34f-2bcaa4311ed8</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,G]_[15061,46298]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref161">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d1d9d2ae-227b-45c3-b41f-0413c32743cd</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,C]_[11137,45359]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref162">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|73e2d0c5-235a-4d21-9808-83cfc924c43c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,B]_[10120,46217]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref163">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9a7b255a-a223-41c4-8f69-488e3b61fe2a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,B]_[10156,43640]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref164">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b31ba449-1d7a-4a69-88c5-cf48ffb207bf</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,A]_[9217,44474]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref165">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a90a1715-cff2-4780-93c5-7ae29231d003</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,B]_[10197,44497]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref166">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b9847b9b-6f1e-4014-af25-c164fcc6d6d9</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,4,C]_[11114,43617]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref167">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a4d1898a-605f-4cf4-a26f-dd810b13e274</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,5,C]_[11123,44452]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref168">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9caa3831-2b48-465e-a486-ed9cac28644c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,B]_[10111,45378]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref169">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|bdb5371e-4a4e-4e61-86e0-716729980832</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,A]_[9212,46149]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref170">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|062b6137-6b94-46f7-aa8f-72aa06e486e8</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,7,C]_[11041,46276]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref171">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|8be82af5-47f0-419c-996c-32d208942d1f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,6,A]_[9215,45297]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref172">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|958cef28-df4b-4625-b41c-5fc96b6a8e5f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,D]_[12271,47431]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref173">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9f3e7bbd-23b3-4002-a3c5-04f134a971f9</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,A]_[9055,48122]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref174">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|79cbe2e7-291f-4bd9-ae82-fae292ec8d3d</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,B]_[9984,48265]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref175">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|5a2cf259-5361-4d16-beaf-5ef5cdbe23af</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,C]_[10889,48265]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref176">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9b40f68b-301f-477a-a4a3-6adc87892da2</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,D]_[12176,48313]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref177">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|4ae5b920-1620-4d52-8e5a-dcd4c1659fb8</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,B]_[9889,49075]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref178">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|de563bba-8412-4870-bfd6-6a77ba2da558</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,C]_[10818,49123]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref179">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|e52073b4-8c4f-4e85-8f9e-a43eb0f78c2e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,B]_[9770,49885]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref180">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3a242408-47ee-466b-97ab-525ebc7d9875</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,D]_[12009,50862]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref181">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|fcf83b00-e3ce-4aea-93eb-d5c823684d4b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,A]_[9110,47374]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref182">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|7ee8565e-50f0-4bbb-8130-3c34da19169a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,B]_[10027,47431]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref183">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a9772a02-a302-4c3d-bde5-370519c8148b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,C]_[10966,47458]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref184">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|7efa0a53-54ee-4d17-ad17-8deb3bd611bb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,D]_[12123,49166]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref185">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|6fa6b329-fc77-4de2-99eb-528b8ec43efe</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,D]_[12035,49994]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref186">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b2753ea6-b09c-4d74-bdc6-0002c821ccfd</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,C]_[10721,49938]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref187">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9ac69b17-17be-41d6-ae1a-1c72b7fbb955</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,A]_[8929,49016]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref188">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a051934c-dff0-4961-a3f1-70ef5cd6a54c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,A]_[8859,49825]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref189">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|462c7fca-90eb-4cbb-9617-94585f34e7cb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,C]_[10626,50743]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref190">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f09da20d-8eaf-4f30-a9fa-b3f84ae3f40c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,B]_[9746,50660]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref191">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d3aae9b0-a478-4e39-982c-9c7a19e56e90</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,A]_[8859,50630]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref192">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|596ab7ab-5730-472c-9ce8-6c8e08cf381c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,E]_[13155,47481]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref193">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|16cf9bf9-05e1-443b-993e-20d4e454ebe1</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,F]_[14013,47505]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref194">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|bc136079-de39-42b2-a38b-5bcd5d0178e6</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,E]_[13060,48339]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref195">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d912de17-3e13-4409-9316-f946d3f4f395</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,F]_[13941,48410]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref196">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|075af6f5-00d0-4fa6-9ebb-0c9f4b0a5622</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,G]_[14823,48434]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref197">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|90003e12-94c2-4f31-97ab-78bbcf155c6b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,E]_[13012,49173]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref198">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9dcd638f-610a-4661-8d67-b0dfbf845d59</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,F]_[13918,49268]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref199">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|7af92dbd-7f14-49dd-8994-ccf43d20a6a9</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,E]_[12964,50102]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref200">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|33712584-211b-4484-a49b-1b3e8bad8c9a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,F]_[13822,50150]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref201">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1cd6837d-e603-44fb-ad01-94f06ebb61c1</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,E]_[12869,50936]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref202">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|72d24803-91b1-420c-a0c6-9e1b0dce71fe</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,F]_[13775,51031]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref203">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9a8a1550-c741-44b9-8255-b4940cd60dba</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,G]_[14608,51055]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref204">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|dd4f74d4-dbc8-433e-bfdd-59d1a46e4f4f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,G]_[14897,47637]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref205">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|613346c1-2aae-4302-8038-4c6a31aa65f4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,G]_[14680,50216]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref206">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ad7d6841-911d-4043-91d8-1f72fd1f5be9</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,G]_[14775,49274]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref207">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|073dcaec-a7ee-47ed-87a0-a3c48c5b145a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,J]_[17965,48550]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref208">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|bf927379-5617-4ac1-a83f-54c32052be85</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,L]_[19800,48789]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref209">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3a6af512-0252-478a-8cb2-24b087dd9ec7</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,J]_[17894,49456]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref210">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|460fed77-fd6f-45bc-bb16-34fb64224e10</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,K]_[18823,49527]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref211">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|6d817743-7a88-4801-bd2d-6d057a9e139d</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,H]_[16012,50194]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref212">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3335bbe0-83ce-4c80-9115-766a65b84473</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,J]_[17822,50290]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref213">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9a05dcf6-d441-467d-8940-88d75a774efe</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,L]_[19657,50504]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref214">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|60c1c74b-fd1c-4307-94c3-22594f5f64e9</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,I]_[16893,51171]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref215">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1d46526c-202b-4835-94fd-29c7c209eadb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,H]_[15943,51189]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref216">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|26aa8b57-b166-49b7-aa2c-a3b0f1be8285</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,H]_[16043,49337]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref217">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9d59a92d-e3cd-49e2-bf31-15aef7df9d22</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,H]_[16053,48578]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref218">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9b5b47d9-a500-418d-ab7c-55822d901e8f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,H]_[16125,47661]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref219">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d443fbc4-2726-49d8-a4ce-d1b3d5e5c40b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,I]_[17225,47692]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref220">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|c713c0c6-17aa-44b0-955d-777b3d8c0be3</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,J]_[18123,47669]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref221">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|766f2682-d730-474c-b6d2-fa5cd0547d6e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,K]_[19029,47770]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref222">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|848b3dcd-0e70-4c3a-886f-cdb8a5000eeb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,8,L]_[19888,47921]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref223">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ef620e3a-2f35-4a73-bb2c-23aeffccd5f8</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,K]_[18886,48622]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref224">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a4afd0db-df68-4eda-95f6-ed618c8c83fe</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,9,I]_[17066,48533]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref225">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ecca4b1e-f140-453c-bf10-4e24ec42b6d7</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,I]_[17006,49452]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref226">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|30073d9a-f812-4ac0-b04a-033cf646b2ec</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,I]_[16938,50251]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref227">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|34a7fa68-a862-4bc2-a3de-a0391df60510</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,J]_[17798,51322]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref228">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|32f7cb04-0b3d-4da9-853b-54fc067558ce</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,K]_[18625,51332]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref229">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|87e8c3f2-031c-4902-b995-ec6097d91e89</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,11,K]_[18743,50447]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref230">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2423cc65-58bb-4b59-92c9-97ad7b01a9bb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,12,L]_[19569,51432]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref231">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|416a830d-0fd1-412b-8657-7a850d124006</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,10,L]_[19777,49654]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref232">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|947906e8-c506-42b9-a570-c54b715a1d65</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,A]_[8354,55674]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref233">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|af71fe3d-7b2a-4b2b-8b0d-94952f2826aa</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,B]_[9244,56754]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref234">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|708ca547-f765-42b1-ba1a-48aebc3cd41d</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,D]_[11436,56976]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref235">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|01b3d4aa-6bf5-486e-b982-26cd0a610c9c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,E]_[12323,57055]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref236">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|481f4a3b-2b4e-42d6-a362-0afe6c43161b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,G]_[14186,56309]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref237">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|8ebafd81-bf0f-4c55-9d1b-db87fb06b0ca</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,G]_[14113,57234]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref238">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|df53c4d1-484d-43e9-8cc2-6b3335b6dddf</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,F]_[13188,57141]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref239">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|2db4b920-fa5d-4b2e-9b64-9aea666f914e</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,F]_[13273,56205]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref240">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|7c2135b9-87ef-4f5a-b3ac-402696b26290</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,E]_[12374,56123]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref241">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|416accf6-a93c-44a2-b350-8c0607d0e21b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,D]_[11440,56013]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref242">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3f06a77e-5599-41ed-a616-edbf1853574c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,B]_[9300,55756]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref243">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d29fd448-6682-420c-804d-e1e449113f70</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,C]_[10183,55899]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref244">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|8958fbb3-15ce-4ff0-aa45-76bdf47ea4a1</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,C]_[10055,56766]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref245">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3b4008e5-f828-4f8e-85a1-ef988a34e6fc</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,B]_[9582,51921]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref246">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9346c2df-25b8-485a-9bfa-80486a84e62a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,C]_[10511,52040]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref247">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|04b716e0-a0fc-4774-9f48-4871acd518d1</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,B]_[9534,52827]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref248">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|40daa5fa-785f-49e1-8cf6-4fc37bea850b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,C]_[10416,52898]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref249">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|c7cecd4a-6fc0-4384-9f4e-dcf4ffbe7f11</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,B]_[9415,53637]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref250">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|938ce824-f154-42c5-b848-b71c2cdcba04</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,C]_[10368,53732]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref251">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|522ca976-073a-4818-868a-fb3044b23371</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,A]_[8367,54375]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref252">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|54941b3d-bece-44ee-88c1-2ee1e85967fe</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,B]_[9391,54518]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref253">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|14c44419-bd3b-4d3d-8be2-0b846fac9956</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,C]_[10273,54614]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref254">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|0f4d5bdc-c038-41b3-b937-213502174451</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,A]_[8482,53509]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref255">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|65fa3f93-072e-459c-ad17-f03f74a2d85c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,A]_[8544,52727]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref256">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|6037db93-0920-4b4c-91bb-d48d96f5d166</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,D]_[11820,52134]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref257">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f0f0cc0d-5aee-4004-bfae-f1c932c13b09</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,E]_[12725,52182]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref258">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3ac01153-b661-4943-8c6a-971149ad780d</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,F]_[13630,52253]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref259">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1bf353dc-169f-4d05-9301-d0d339991a59</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,G]_[14536,52325]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref260">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a9aad648-03ca-4cf7-bce8-165a41f5a0bb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,D]_[11724,52968]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref261">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|ccdb0c23-3ae6-4250-8f46-9896158fbfbc</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,E]_[12630,53016]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref262">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|abf73550-eb8c-44ea-beeb-9ce63c8449cb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,F]_[13559,53135]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref263">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|71117a9c-8470-4e57-bc54-72121bab8221</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,G]_[14488,53182]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref264">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1b90eb92-e42e-48ca-b85b-ee05f7f32884</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,D]_[11653,53826]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref265">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3abe791d-b1bb-47ce-b0f1-c62a6d9d2757</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,E]_[12558,53945]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref266">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|0b8ccdb3-7bb1-4170-a28c-fae3df39b9f5</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,F]_[13488,53992]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref267">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|39e9f957-507b-404b-ae7e-47dc5b6a288c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,G]_[14393,54064]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref268">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|e21ce04d-87c1-499f-8340-7557201eb4be</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,D]_[11558,54779]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref269">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|eecc6478-807e-4ba3-bb12-deb204a42e1a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,E]_[12439,54874]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref270">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|faaf558f-4fcc-4c13-94c3-0532ecd00804</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,F]_[13392,54922]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref271">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d5638b8e-e3f1-496a-b13d-97fde969f3ad</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,G]_[14322,54969]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref272">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|9aa5f60e-9ef6-4b5b-bc77-5db486507555</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,H]_[15830,52436]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref273">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|fe9c328d-1bfb-438e-a037-1a7750549a1b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,I]_[16736,52459]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref274">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|944707b4-9c71-4e97-8bb3-9fa21d0fd706</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,J]_[17641,52507]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref275">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|79ad309b-b0bd-406a-8f2d-3687da044799</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,K]_[18546,52602]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref276">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|059c808e-1457-4f86-9423-0c82c1d861c4</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,13,L]_[19428,52650]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref277">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a7cfa46d-14fe-4b51-bc52-48a701c0faa2</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,H]_[15735,53317]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref278">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|cc00e287-6c08-42f8-ac4b-034f5e1325f3</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,I]_[16688,53341]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref279">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|138f1b13-79e6-4581-97c8-327467b46388</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,J]_[17570,53389]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref280">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|25e7e119-ad1e-4af9-9f87-64157bb2435c</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,K]_[18451,53484]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref281">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|adac7bd6-5eea-45fb-85b7-5bdcd353ffeb</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,14,L]_[19333,53555]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref282">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1044cd1d-51ab-42c5-bad7-29c977a6edbc</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,H]_[15664,54151]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref283">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|76c75280-1d17-44bf-8867-12a1ad4e4e4a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,I]_[16569,54222]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref284">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a42c75b7-e817-468e-a2d6-8352e6a3bc32</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,J]_[17450,54294]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref285">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|7a0573ef-c1ea-44f6-a0d1-09c33460b471</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,K]_[18332,54366]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref286">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|460d4987-616e-4463-b78e-75a47cf0c26b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,15,L]_[19238,54413]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref287">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|82979234-dea4-46ee-ace0-4d375f1e085b</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,H]_[15616,55009]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref288">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|e767b3b1-974d-4bb8-90b9-118653b15aa3</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,I]_[16474,55080]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref289">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|c274e08f-a13c-402a-804b-c01b1863862f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,J]_[17331,55223]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref290">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|499d8fb7-04af-4f27-af12-1e67abc945c0</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,K]_[18213,55223]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref291">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d1b05122-1a4e-4e98-a916-da9637fe7c40</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,16,L]_[19118,55271]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref292">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b8031a0f-1167-4220-8187-c28a3a1d65c6</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,H]_[15416,56385]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref293">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|d6435bbc-3ad1-4787-8601-292fa9d87606</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,I]_[16388,56429]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref294">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|b21d436e-fa14-417c-b515-e66b8c749c2f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,J]_[17175,56485]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref295">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|cce4c3d2-e3e8-4e9a-aaf3-52999455dce0</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,K]_[18103,56529]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref296">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|f333d454-3e2d-47ed-829f-5293df119e46</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,17,L]_[19094,56490]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref297">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|1f8e3f58-6282-4ab5-8eea-5ae05655524f</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,L]_[19022,57405]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref298">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|3b419842-f085-41cd-afce-198746d3c06a</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,K]_[18110,57452]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref299">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|e9e25434-99fd-42fe-b0d8-1a3a2a99beab</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,I]_[16231,57343]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref300">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\NMVB2_Meso\Scan1\NMVB2_Meso_Scan1.qptiff|a6dea7fd-59b8-41fd-8cf9-568e3b45e036</Source>
+   <Directory></Directory>
+   <Name>NMVB2_Meso_Scan1_Core[1,18,H]_[15274,57314]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref301">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|3cadfe0d-38cf-43c7-8d62-a684b8c3b3bb</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,K]_[21748,36661]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref302">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|29cd83c2-26aa-421c-b2af-c16db48b0e80</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,J]_[20414,36709]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref303">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|fd00f72c-0619-4faa-989b-8eae582cd3e2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,I]_[18984,36899]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref304">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|e9f49b7e-4dc6-475d-8e24-08eb006b8bc6</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,G]_[16292,36923]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref305">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|3dc81b73-939e-403d-a172-b99b65ee36ed</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,E]_[13671,37090]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref306">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|d5083857-7343-4ca5-afa3-63c460f6dfdf</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,D]_[12336,37114]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref307">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|00a068cc-7b56-426c-a944-ce926466a300</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,C]_[10859,37400]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref308">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b6635b7b-f106-427c-8ba9-2e88fc8a3c4c</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,B]_[9644,37471]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref309">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|a8508ecd-ffaf-4d07-8ec3-1dae5c8bc1c1</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,K]_[21819,37852]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref310">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|9de752a6-0906-4537-a258-48320a5c22c3</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,I]_[19174,37995]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref311">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ba6f7399-7451-44d3-97c7-52c8a785e29e</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,H]_[17721,38114]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref312">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|fd5e132b-e839-4070-978c-fc6f47ac3c25</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,G]_[16434,38210]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref313">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|196f0cb0-9249-468b-b72e-069665031102</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,F]_[15124,38305]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref314">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|bae724aa-6439-4001-a328-9a750466e379</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,E]_[13837,38472]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref315">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|37c654f4-1c0e-44e3-8331-3f38bf9077a0</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,D]_[12456,38496]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref316">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|7fedbe68-389e-47ff-842c-fe9c37fedb81</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,B]_[9692,38782]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref317">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|9e282013-c5a0-4489-970d-1fca40bd7041</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,A]_[8357,38948]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref318">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|c86c7533-31a8-445a-87a2-bb221745b0a7</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,3,G]_[16887,39139]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref319">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|87b46287-bc81-419b-9b9f-04dc7f4ceb59</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,3,K]_[21914,39139]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref320">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|d6421c83-efb2-46b7-8a12-e1eb8ee3f8a1</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,3,J]_[20509,39187]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref321">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|3791596d-4c5b-49d9-ad2b-598ef4114a00</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,3,I]_[19198,39330]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref322">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ec88266c-a116-40b2-ad3f-d7347a5aaf1f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,3,H]_[17864,39449]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref323">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|40496b62-db6d-4d42-a8df-6b17dacb0cc4</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,3,A]_[8476,40235]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref324">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|08933aa7-f4c7-4f63-a2d2-0c5a55dedebf</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,J]_[20628,40306]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref325">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f405de9c-a080-4450-9d9d-32013c860a4f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,K]_[22010,40306]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref326">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|2310dc57-bb66-42c0-b780-ac55c7f6eb53</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,G]_[16649,40735]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref327">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|92882231-4a87-4721-9e5d-d585654989dd</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,E]_[14028,40974]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref328">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|4979f507-cc0c-4e64-a0c5-79ae945f1914</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,D]_[12622,41021]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref329">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|970f9398-3c77-4c0e-a027-923d00f16254</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,C]_[11288,41164]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref330">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b26ee1c3-def8-444f-adc3-6e47c5bcefaf</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,B]_[9882,41355]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref331">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|1e1e0b1e-fdf4-4069-9fc7-09a1816c4d54</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,A]_[8572,41545]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref332">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|982f1f3c-87dc-4da6-9110-0e7bb2dff209</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,K]_[22081,41569]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref333">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|c30ced65-95bc-4af6-90df-d7d9ec39b2ad</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,J]_[20795,41593]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref334">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|7bf051ce-f963-4cbb-9585-4a16ddcb5ff2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,I]_[19389,41665]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref335">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|25ea7cf1-06b1-4577-b8de-dcf40e93ed77</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,H]_[18007,41784]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref336">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|4cc269be-d3a8-41a1-899d-c0dfea57ed28</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,F]_[15434,42093]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref337">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|86c9cf07-8e08-4cb5-a7be-ac84b7e3be9c</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,E]_[14100,42213]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref338">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|64f0aa26-7b50-48f4-988c-7bd8f9476ef9</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,D]_[12741,42308]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref339">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|62eaf5aa-60ce-427d-93a5-fd83331c44b4</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,C]_[11336,42498]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref340">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f776faec-2cbd-4248-b39f-fdbd5a234280</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,B]_[9978,42618]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref341">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|43f2f564-5a1d-489c-8aae-415d9234bd13</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,5,A]_[8643,42761]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref342">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|99b0e93c-5aa9-480b-8825-831ec19ac5ff</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,K]_[22177,42784]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref343">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|28253cf6-df27-447f-a7b4-c0c5f320b3ab</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,I]_[19484,42999]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref344">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|740fa476-98aa-4ee5-b993-9e7904625852</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,H]_[18198,43046]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref345">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|38934efd-f6cd-456b-bf72-ea686122ca9b</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,G]_[16840,43118]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref346">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|3dfbd4d3-4ef2-457d-9c5c-79290e1f64d0</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,E]_[14219,43452]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref347">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|d5afc80d-b028-43ba-a774-fc06e23e3119</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,D]_[12884,43571]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref348">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|37db6d74-e3b1-4f02-900c-073f018945c5</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,C]_[11526,43737]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref349">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|48c349b5-73be-4008-bceb-fa55cea81ce5</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,A]_[8786,44023]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref350">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|14b1ed26-d882-4f05-91ca-5395b22d671a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,K]_[22272,44023]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref351">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|16333c8d-477e-484a-9a59-5f25908af6b9</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,G]_[16887,44357]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref352">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|87489d69-335a-4cb8-acf3-305008c2556d</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,F]_[15577,44476]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref353">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|612da4f7-36e6-4c98-adb3-7850b720757a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,E]_[14290,44643]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref354">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|43a27215-9566-483b-8ef4-e1bbf38fcccd</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,C]_[11526,45000]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref355">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|61b6dea8-b290-4a2f-bea6-adf1d4d52bf5</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,K]_[22367,45191]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref356">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ee081e3f-e3ba-4a74-b82c-5c741609678f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,A]_[8858,45286]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref357">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|af6d0fd8-cbe0-46d1-90fa-97d96b47961a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,H]_[18269,45477]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref358">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|6dac892e-8ede-4b7a-9c38-bb22cc7f5724</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,G]_[17006,45620]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref359">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5f808b96-eb89-42d1-b4e9-ad05470808db</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,F]_[15648,45715]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref360">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|c1412e6b-74c3-4227-b464-5d497b4ccdd6</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,E]_[14362,45906]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref361">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|605421bf-7b15-4727-8115-b264fff9f6d6</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,C]_[11693,46239]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref362">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|a9c6419d-5f97-4a23-a383-2b2077e8b378</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,K]_[22439,46382]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref363">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5d3653ec-1177-48bb-9e0e-b63bee259922</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,A]_[9001,46525]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref364">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|75554c4e-f0eb-4d5d-91ad-bf4ef671451f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,G]_[17102,46835]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref365">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5a9c6a68-99cd-4000-911c-4ad44a7fc5ae</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,F]_[15744,47002]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref366">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f799ddfb-f13e-4c0e-8cc0-4ead02ff5e6e</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,D]_[13123,47216]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref367">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5c1b9973-8ce3-4086-8658-877401892f83</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,K]_[22582,47645]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref368">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ffc5b4dc-98f7-408d-961b-3fd95f2a7fe8</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,J]_[21224,47693]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref369">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|df9efa7e-499d-41d6-ad8f-a84fef369167</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,A]_[9120,47716]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref370">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|21f8f048-a18d-4a87-8897-ae250d16ae30</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,I]_[19865,47788]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref371">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|0f311c23-efcd-4bf9-b80b-26224e5e1cd3</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,H]_[18531,47931]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref372">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|1713bfb3-6636-485f-9f06-b4f171f30a77</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,G]_[17221,48026]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref373">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5a3fb246-ca6a-4cf0-b6cb-1557b5086014</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,F]_[15863,48217]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref374">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|894daf50-7e30-47dd-85f3-e31903129075</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,K]_[22629,48812]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref375">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|c789eda5-ea6e-4917-802b-24cf3e06d2fe</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,I]_[19961,48908]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref376">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b81dad7c-015e-4424-b556-076af44a802f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,H]_[18626,49074]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref377">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f588e72e-2e4b-4802-a49b-3992557c429f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,G]_[17268,49289]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref378">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|be6077c2-3499-49e5-8dad-84fa7d060fdc</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,F]_[15982,49432]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref379">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ae18f320-f2a2-4b56-8232-c792c14739db</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,D]_[13337,49789]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref380">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|6095e9b4-934c-4ece-b6ce-4a5012e86520</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,C]_[12027,49956]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref381">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|790b2e2e-eef6-49c2-8ce5-f0b2e840b9fa</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,K]_[22748,50004]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref382">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|6407d878-ccee-4244-8bf2-2ff81e57c43b</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,I]_[20080,50051]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref383">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|429ce71d-0606-4dee-9ecb-714e47cdf581</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,B]_[10692,50099]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref384">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b3f25741-6f14-4767-9bc1-4a0bc4d1e024</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,A]_[9358,50218]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref385">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|d5a7fb61-5ee7-4bf3-bfb6-97a507e27f17</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,H]_[18650,50218]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref386">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|40751c36-fa69-49b3-8f9c-37240577ffa3</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,G]_[17388,50504]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref387">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|1b74a294-227c-4b90-9f13-6e07d333cb17</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,F]_[16053,50766]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref388">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|82082b83-f35d-4001-b1b1-fc479b13daa1</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,E]_[14743,50957]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref389">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f778eed7-b1ae-4500-ac5f-9d2e7976d5e0</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,J]_[21557,51338]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref390">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|d4b41589-60f2-4995-a49b-efea28623f6c</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,B]_[10812,51362]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref391">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|a7451694-b661-4131-9c2d-7232694e0a29</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,H]_[18722,51433]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref392">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ddb0373a-4259-47da-8f9d-c9ea9582ea62</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,A]_[9501,51529]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref393">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b989ac9b-beaa-4459-ba0e-5c02f0d46761</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,I]_[20104,51862]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref394">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|57dc5751-2882-45b7-9f69-dbd917ae2697</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,F]_[16196,52029]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref395">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|6efef43e-2517-48c1-8bd3-d241dd85b1bc</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,E]_[14886,52172]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref396">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|3ffc8ccb-b067-4028-b7b7-5554575e4ba6</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,B]_[10907,52648]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref397">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f0158f58-693c-4ccc-a028-8232e00e6ef2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,A]_[9620,52768]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref398">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|485d8124-c9da-475c-88a9-45d4725613de</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,J]_[21700,52815]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref399">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|eda710e6-c749-49bf-9a41-4eb3f51a22f2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,I]_[20318,53054]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref400">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|30c86c2d-786f-454c-9088-110f59fce7c2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,G]_[17554,53316]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref401">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|bb6c37e0-9c63-43f9-84f9-2b4c7ce25f51</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,F]_[16315,53339]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref402">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|af16a88d-33dc-4e5e-b2d7-0226caac7e07</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,D]_[13599,53530]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref403">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|328baff5-6974-41f4-a672-186f4f9a9fa0</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,A]_[9739,54006]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref404">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b2567836-781b-4acf-becd-4b6f0ea390b6</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,J]_[21700,54150]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref405">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|9e989fed-f6ac-44c2-9a7a-7b7b5e4dd316</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,I]_[20342,54340]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref406">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|586ac155-c614-4489-b8dd-61a0e1d3a812</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,H]_[19008,54483]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref407">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|98f5a951-d4b9-4a18-b4bd-615896bd205d</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,G]_[17697,54507]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref408">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|910625ff-c515-45bb-bf85-6ac51e183d21</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,F]_[16387,54578]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref409">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|6f83ecab-c2a8-4d6f-9253-7addbb25cb46</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,E]_[15124,54721]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref410">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|bbeccc96-aa4f-43e1-9b06-24080eb5dbc8</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,D]_[13790,54864]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref411">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|c801dd44-7038-404c-a2e2-064622e14add</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,C]_[12503,55031]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref412">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|11333d9b-600c-4940-9c0b-4f1bc7710888</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,A]_[9858,55150]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref413">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|51e1132d-041d-42e8-a914-214b5c655587</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,A]_[8291,37596]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref414">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5340b7f1-21b3-4f94-b228-d65acfed3497</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,1,F]_[14912,36384]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref415">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|736c53f9-08e8-4b5c-9a3d-726bb831af61</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,J]_[20498,37733]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref416">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f72280a0-6d15-44b8-b0d6-8bb8869d23f2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,F]_[15321,40854]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref417">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|930624c7-8ec5-4ba2-b430-d9306f72ee27</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,2,C]_[11044,38652]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref418">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|7b170623-92da-4570-9297-6e3d785a7c7e</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,6,J]_[20879,42805]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref419">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|676eaa18-5201-4fc4-99df-6faeebcc1efb</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,4,I]_[19426,40499]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref420">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|18b87f34-6106-4648-8e6d-7b9a7b5d1a11</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,I]_[19849,45419]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref421">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|00c57666-d688-4fd9-8f76-dbccbef41095</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,J]_[21104,46502]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref422">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|b7f6b564-87a1-41a4-a1f0-314e3153629a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,I]_[19831,46603]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref423">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|59811f62-99ce-495a-9640-e7445aca4c65</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,H]_[18424,46741]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref424">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|45ab81d2-7ea4-463f-ba4f-995c13da908f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,E]_[14427,47247]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref425">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|5f8b7c7b-cc24-4f18-b03b-950f4d1f85c4</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,C]_[11795,47563]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref426">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f6b84f68-693d-46db-96ff-0d1f1d4d182b</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,7,B]_[10180,45005]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref427">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|47a03359-a95b-421e-8221-20b2b3b3ec51</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,8,B]_[10322,46335]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref428">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|111662a0-9873-4383-9e35-5e6539ffbf31</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,9,B]_[10437,47628]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref429">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|4bb8efdd-3940-486f-b14c-e52dfcafdcff</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,B]_[10548,48867]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref430">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|40caa2be-01be-47b9-97e1-c47d5ecb4ed2</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,A]_[9239,49070]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref431">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|c8839bae-0d18-41f6-82af-9ed6bfa1a65a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,10,C]_[11913,48736]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref432">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|fb9ecf53-f96b-451b-8ecf-d3016febfa5a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,12,D]_[13469,51142]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref433">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|2483c03b-91d0-4a2c-b0b8-ced2b5afd1f1</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,11,E]_[14695,49636]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref434">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|74f34a0b-624e-4aa9-b46d-2f59392d30ef</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,D]_[13504,52242]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref435">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ebc151b5-9fcf-471c-83db-ee9fbaa93cb5</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,C]_[12199,52609]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref436">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|13258146-3e58-45f5-8969-eda094f2e5ae</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,B]_[11175,55098]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref437">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|bc3b6e76-a03a-439e-b17c-d925069c59e7</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,H]_[18883,53209]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref438">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|db71c570-d8a6-4a94-8f1d-cf15beea0d07</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,15,K]_[23050,53911]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref439">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|73ecd2d7-c7f9-46d3-9178-3931e99c0efa</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,G]_[17442,52037]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref440">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|0cb825cd-c7ac-47bf-8433-6adcb1afc0fe</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,14,K]_[22971,52655]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref441">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|245690a7-b817-4ed2-b0c9-3ff1e7711d5a</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,13,K]_[22869,51345]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref442">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ec5a12b7-19c8-42ad-a275-e18ac0a94aad</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,16,A]_[9961,56567]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref443">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ca77a62d-0a4e-4601-9cef-1781394874cc</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,16,B]_[11195,56381]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref444">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|ef5e5f99-649f-4df5-974d-bf804e5682f0</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,17,B]_[11432,57656]</Name>
+   <Included>true</Included>
+  </Data-i>
+  <Data-i ref="ref445">
+   <V>2</V>
+   <Source>G:\Hatice_11.2022\Meso_TMA4\Scan1\Meso_TMA4_Scan1.qptiff|f1641e4c-ca43-49f2-a791-e4d15f475e7f</Source>
+   <Directory></Directory>
+   <Name>Meso_TMA4_Scan1_Core[1,17,A]_[10098,57787]</Name>
+   <Included>true</Included>
+  </Data-i>
+ </Data>
+</AggregationStatus>
