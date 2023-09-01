@@ -72,11 +72,11 @@ def data_page():
     with st.sidebar:
         st.markdown("### Click the core to zoom in", True)
         #H&E use image_names , others use core_ids as image names
-        image_names, core_ids = get_imageNames(cs1, cs2, c1_IDs,c2_IDs)
+        image_names, core_ids, core_ids2 = get_imageNames(cs1, cs2, c1_IDs,c2_IDs)
         
         
         
-        images, showedImage_names, showedCore_ids = load_coreImages(path_img_logo , list(image_names), list(core_ids))
+        images, showedImage_names, showedCore_ids, showedCore_ids2 = load_coreImages(path_img_logo , list(image_names), list(core_ids), list(core_ids2))
 
 
         with st.empty():
@@ -162,9 +162,11 @@ def data_page():
         
             if option == "H&E":
                 filename = f"{showedImage_names[clicked]}.jpg"
-            else:   
+            elif option in vargs1 :   
                 filename = f"{showedCore_ids[clicked]}_composite_image.tif"
-            
+            else:
+                filename = f"{showedCore_ids2[clicked]}_composite_image.tif"
+                
             # st.write(showedImage_names[clicked])
             # st.write(showedCore_ids[clicked])
 

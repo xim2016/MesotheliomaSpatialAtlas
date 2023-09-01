@@ -70,17 +70,19 @@ def get_coreStatistic(coreID, marker):
     else:
         return("N/A")
 
-def load_coreImages(path_img_logo, image_names, core_ids):
+def load_coreImages(path_img_logo, image_names, core_ids, core_ids2):
 
         
     images = []
     showedImage_names = []
     showedCore_ids = []
+    showedCore_ids2 = []
 
     for i in range(len(image_names)) :
         
         image_name = image_names[i]
         core_id = core_ids[i]
+        core_id2 = core_ids2[i]
 
         file = f"{path_img_logo}/{image_name}.png"
 
@@ -90,13 +92,14 @@ def load_coreImages(path_img_logo, image_names, core_ids):
 
         showedImage_names.append(image_name)
         showedCore_ids.append(core_id)
+        showedCore_ids2.append(core_id2)
         
         with open(file, "rb") as image:
             encoded = base64.b64encode(image.read()).decode()
             images.append(f"data:image/jpeg;base64,{encoded}")
 
             
-    return(images, showedImage_names, showedCore_ids)       
+    return(images, showedImage_names, showedCore_ids, showedCore_ids2)       
             
 def get_imageNames(cs1, cs2, c1_IDs, c2_IDs):
     
@@ -112,9 +115,10 @@ def get_imageNames(cs1, cs2, c1_IDs, c2_IDs):
     # will combine all core images and names as institure_coreid
     image_names = df.loc[:, "level2_name"]
     core_ids = df.loc[:, "Annotation ID"]
+    core_ids2 = df.loc[:, "Annotation2"]
     #core ID use level2_name, others, use Anntoation ID
 
-    return([image_names, core_ids])
+    return([image_names, core_ids, core_ids2])
     
     
     
