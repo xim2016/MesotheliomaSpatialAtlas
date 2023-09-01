@@ -112,7 +112,7 @@ def data_page():
                       "CD68": f"{PATH_IMG_TMA}/panel1/CD68",
                       "FOXP3": f"{PATH_IMG_TMA}/panel1/FOXP3",
                       "panCK": f"{PATH_IMG_TMA}/panel1/panCK",
-                      "Composite ": f"{PATH_IMG_TMA}/panel2/multi",
+                      "Composite ": f"{PATH_IMG_TMA}/panel2/multi2",
                       "CD56": f"{PATH_IMG_TMA}/panel2/CD56",
                       "CD11c": f"{PATH_IMG_TMA}/panel2/CD11c",
                       "BAP1": f"{PATH_IMG_TMA}/panel2/BAP1",
