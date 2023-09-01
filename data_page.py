@@ -3,6 +3,7 @@ from st_clickable_images import clickable_images
 from PIL import Image
 from utils import get_orderedList, get_imageNames, load_coreImages, show_plotly_image, get_core_feature, get_coreStatistic
 from style import define_layout
+import os
 
 
 def disable_other_checkboxes(*other_checkboxes_keys):
@@ -169,10 +170,15 @@ def data_page():
                 
             # st.write(showedImage_names[clicked])
             # st.write(showedCore_ids[clicked])
+            # st.write(showedCore_ids2[clicked])
+            if os.path.exists(f"{dir}/{filename}"):
+                imgfile =  Image.open(f"{dir}/{filename}")
+                show_plotly_image(imgfile, 800)
+            else:
+                st.markdown("#")
+                info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
+                st.markdown(info, unsafe_allow_html=True)
 
-            imgfile =  Image.open(f"{dir}/{filename}")
-            show_plotly_image(imgfile, 800)
-        
 
            
             # st.image(imgfile)
