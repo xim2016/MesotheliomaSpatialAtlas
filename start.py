@@ -68,7 +68,7 @@ with cm:
     elif chosen_tab == "Citation":
         citation_page()
 
-    for i in range(3):
-        st.markdown('#')
+    # for i in range(1):
+    #     st.markdown('#')
     st.divider()
     st.markdown(footer,unsafe_allow_html=True) 
