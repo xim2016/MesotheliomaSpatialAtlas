@@ -26,7 +26,7 @@ def home_page():
     img =  Image.open('./assets/figures/home.png')
     
     _,m1,_ = st.columns([1,4,1])
-    _,m2,_ = st.columns([1,20,1])
+    _,m2,_ = st.columns([1,40,1])
     
     with m1:  
         st.markdown("#")
