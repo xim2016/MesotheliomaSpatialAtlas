@@ -175,8 +175,13 @@ def data_page():
             for item in fetu_plus.keys():
                 st.markdown(f"**{item}** : {fetu_plus[item]}", True)   
 
-            intensity = get_coreStatistic(core_id, option)
-            st.markdown(f"**{option} percentage** : {intensity}", True)  
+            percent, count1, count2 = get_coreStatistic(core_id, option)
+            if option in vargs1:
+                count = count1
+            else:
+                count = count2
+            st.markdown(f"**Number of cells** : {count}", True) 
+            st.markdown(f"**{option} percentage** : {percent}", True)  
 
     with c2:
         if len(images) > 0 :

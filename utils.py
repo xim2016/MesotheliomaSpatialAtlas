@@ -64,11 +64,13 @@ def load_coreFeature():
 
 def get_coreStatistic(coreID, marker):
     df = load_coreFeature()
+    count1 = df.loc[coreID, "cell count 1"]
+    count2 = df.loc[coreID, "cell count 2"] 
     if f"{marker} percent" in df.columns:
-        percent = df.loc[coreID, [f"{marker} percent"]].values[0]
-        return('{0:.2%}'.format(percent))
+        percent = df.loc[coreID, f"{marker} percent"]
+        return('{0:.2%}'.format(percent), count1, count1)
     else:
-        return("N/A")
+        return("N/A", count1, count2)
 
 def load_coreImages(path_img_logo, image_names, core_ids, core_ids2):
 
