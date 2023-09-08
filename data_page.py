@@ -20,6 +20,7 @@ def get_current_checkedBox(options):
         
 def data_page():
     
+    
     max_width = '100%'
     padding_top = '2.5rem'
     padding_right = '0rem'
@@ -57,7 +58,7 @@ def data_page():
                     get_orderedList(c1_IDs[i]),
                     key = c1_IDs[i]
                 )
-
+    
 
     c2_IDs = ["Gender", "DiagnosisAge","AsbestosExposure","Race", "smoking"]
     c2_names = ["Gender", "Diagnosis age","Asbestos exposure","Race", "Smoking"]
@@ -93,7 +94,7 @@ def data_page():
 
     st.divider()
     
-   
+
     c1, c2,_,c3 = st.columns([1.5, 7,0.5,2.5])
 
     with c1:
@@ -104,22 +105,22 @@ def data_page():
         vargs1 = ["Composite", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
         vargs2 = ["Composite ", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
         vargs = vargs0 +  vargs1 + vargs2   
-           
+        
         option2dir = {"H&E": f"{PATH_IMG_HE}",
-                      "Composite": f"{PATH_IMG_TMA}/panel1/multi",
-                      "CD4": f"{PATH_IMG_TMA}/panel1/CD4",
-                      "CD8": f"{PATH_IMG_TMA}/panel1/CD8",
-                      "CD20": f"{PATH_IMG_TMA}/panel1/CD20",
-                      "CD68": f"{PATH_IMG_TMA}/panel1/CD68",
-                      "FOXP3": f"{PATH_IMG_TMA}/panel1/FOXP3",
-                      "panCK": f"{PATH_IMG_TMA}/panel1/panCK",
-                      "Composite ": f"{PATH_IMG_TMA}/panel2/multi2",
-                      "CD56": f"{PATH_IMG_TMA}/panel2/CD56",
-                      "CD11c": f"{PATH_IMG_TMA}/panel2/CD11c",
-                      "BAP1": f"{PATH_IMG_TMA}/panel2/BAP1",
-                      "NF2": f"{PATH_IMG_TMA}/panel2/NF2",
-                      "MTAP": f"{PATH_IMG_TMA}/panel2/MTAP",
-                      "LAG3": f"{PATH_IMG_TMA}/panel2/LAG3"
+                    "Composite": f"{PATH_IMG_TMA}/panel1/multi",
+                    "CD4": f"{PATH_IMG_TMA}/panel1/CD4",
+                    "CD8": f"{PATH_IMG_TMA}/panel1/CD8",
+                    "CD20": f"{PATH_IMG_TMA}/panel1/CD20",
+                    "CD68": f"{PATH_IMG_TMA}/panel1/CD68",
+                    "FOXP3": f"{PATH_IMG_TMA}/panel1/FOXP3",
+                    "panCK": f"{PATH_IMG_TMA}/panel1/panCK",
+                    "Composite ": f"{PATH_IMG_TMA}/panel2/multi2",
+                    "CD56": f"{PATH_IMG_TMA}/panel2/CD56",
+                    "CD11c": f"{PATH_IMG_TMA}/panel2/CD11c",
+                    "BAP1": f"{PATH_IMG_TMA}/panel2/BAP1",
+                    "NF2": f"{PATH_IMG_TMA}/panel2/NF2",
+                    "MTAP": f"{PATH_IMG_TMA}/panel2/MTAP",
+                    "LAG3": f"{PATH_IMG_TMA}/panel2/LAG3"
         }
 
 
@@ -151,13 +152,37 @@ def data_page():
 
         
         # rd = st.radio("", ("H&E","", "Composite", "Composite ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
-        
-    with c2:
+
+
+    with c3:
         if len(images) > 0 :
-                          
-            if clicked == -1: clicked = 0
 
             option = get_current_checkedBox(options)
+
+            # st.markdown("#### Core feature", True)
+            st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
+            st.write("")
+            st.write("")    
+            if clicked == -1: clicked = 0
+
+            core_id = showedCore_ids[clicked]
+            fetu1, fetu2, fetu_plus = get_core_feature(c1_IDs, c2_IDs, core_id)
+            for i in range(5):
+                st.markdown(f"**{c1_names[i]}** : {fetu1[i]}", True)
+            for i in range(5):
+                st.markdown(f"**{c2_names[i]}** : {fetu2[i]}", True)
+                # st.markdown(f"**:black[{c2_names[i]}]** : {fetu2[i]}", True) 
+            for item in fetu_plus.keys():
+                st.markdown(f"**{item}** : {fetu_plus[item]}", True)   
+
+            intensity = get_coreStatistic(core_id, option)
+            st.markdown(f"**{option} percentage** : {intensity}", True)  
+
+    with c2:
+        if len(images) > 0 :
+                        
+            if clicked == -1: clicked = 0
+
 
             dir = option2dir[option]
         
@@ -180,28 +205,8 @@ def data_page():
                 st.markdown(info, unsafe_allow_html=True)
 
 
-           
+        
             # st.image(imgfile)
         
 
         
-    with c3:
-        if len(images) > 0 :
-            # st.markdown("#### Core feature", True)
-            st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
-            st.write("")
-            st.write("")    
-            if clicked == -1: clicked = 0
-
-            core_id = showedCore_ids[clicked]
-            fetu1, fetu2, fetu_plus = get_core_feature(c1_IDs, c2_IDs, core_id)
-            for i in range(5):
-                st.markdown(f"**{c1_names[i]}** : {fetu1[i]}", True)
-            for i in range(5):
-                st.markdown(f"**{c2_names[i]}** : {fetu2[i]}", True)
-                # st.markdown(f"**:black[{c2_names[i]}]** : {fetu2[i]}", True) 
-            for item in fetu_plus.keys():
-                st.markdown(f"**{item}** : {fetu_plus[item]}", True)   
-
-            intensity = get_coreStatistic(core_id, option)
-            st.markdown(f"**{option} percentage** : {intensity}", True)  
