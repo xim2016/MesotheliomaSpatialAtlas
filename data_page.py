@@ -153,11 +153,41 @@ def data_page():
         
         # rd = st.radio("", ("H&E","", "Composite", "Composite ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
 
+    with c2:
+        if len(images) > 0 :
+                        
+            if clicked == -1: clicked = 0
+
+            option = get_current_checkedBox(options)
+
+            dir = option2dir[option]
+        
+            if option == "H&E":
+                filename = f"{showedImage_names[clicked]}.jpg"
+            elif option in vargs1 :   
+                filename = f"{showedCore_ids[clicked]}_composite_image.tif"
+            else:
+                filename = f"{showedCore_ids2[clicked]}_composite_image.tif"
+                
+            # st.write(showedImage_names[clicked])
+            # st.write(showedCore_ids[clicked])
+            # st.write(showedCore_ids2[clicked])
+            if os.path.exists(f"{dir}/{filename}"):
+                imgfile =  Image.open(f"{dir}/{filename}")
+                show_plotly_image(imgfile, 800)
+            else:
+                st.markdown("#")
+                info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
+                st.markdown(info, unsafe_allow_html=True)
+
+
+        
+            # st.image(imgfile)
 
     with c3:
         if len(images) > 0 :
 
-            option = get_current_checkedBox(options)
+            
 
             # st.markdown("#### Core feature", True)
             st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
@@ -183,35 +213,6 @@ def data_page():
             st.markdown(f"**Number of cells** : {count}", True) 
             st.markdown(f"**{option} percentage** : {percent}", True)  
 
-    with c2:
-        if len(images) > 0 :
-                        
-            if clicked == -1: clicked = 0
-
-
-            dir = option2dir[option]
-        
-            if option == "H&E":
-                filename = f"{showedImage_names[clicked]}.jpg"
-            elif option in vargs1 :   
-                filename = f"{showedCore_ids[clicked]}_composite_image.tif"
-            else:
-                filename = f"{showedCore_ids2[clicked]}_composite_image.tif"
-                
-            # st.write(showedImage_names[clicked])
-            # st.write(showedCore_ids[clicked])
-            # st.write(showedCore_ids2[clicked])
-            if os.path.exists(f"{dir}/{filename}"):
-                imgfile =  Image.open(f"{dir}/{filename}")
-                show_plotly_image(imgfile, 800)
-            else:
-                st.markdown("#")
-                info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
-                st.markdown(info, unsafe_allow_html=True)
-
-
-        
-            # st.image(imgfile)
         
 
         
