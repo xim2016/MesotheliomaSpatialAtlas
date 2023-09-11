@@ -17,8 +17,8 @@ def home_page():
     padding_bottom = '0rem'
     define_layout(max_width, padding_top, padding_right, padding_left, padding_bottom)
     
-    title = '<p style="font-family:sans-serif; color:#5f6060;background-color:white; font-size: 32px; line-height: 60px; padding-top: 0px; padding-bottom: 0px;border-radius: 5px; font-weight: bold;text-align: center">The Human Spatial Atlas of Malignant Mesothelioma</p>'  #sans-serif   Soin Sans Pro
-    
+    title = '<p style="font-family:sans-serif; color:#5f6060;background-color:white; font-size: 28px; line-height: 60px; padding-top: 0px; padding-bottom: 0px;border-radius: 5px; font-weight: bold;text-align: center">The Human Spatial Atlas of Malignant Mesothelioma</p>'  #sans-serif   Soin Sans Pro
+    st.markdown(title, unsafe_allow_html=True)
     # _,m0, _ =  st.columns([1,40,1])
     # m0.markdown(title, unsafe_allow_html=True)
 
@@ -26,7 +26,7 @@ def home_page():
     # _,m2_,_ = st.columns([1,40,1])
     
     with m1:  
-        st.markdown(title, unsafe_allow_html=True)
+        
         st.markdown("#")
         load_homeImg()
         
