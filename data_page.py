@@ -1,7 +1,7 @@
 import streamlit as st
 from st_clickable_images import clickable_images
 from PIL import Image
-from utils import get_orderedList, get_imageNames, load_coreImages, show_plotly_image, get_core_feature, get_coreStatistic
+from utils import get_orderedList, get_imageNames, load_HEImages, show_plotly_image, get_core_feature, get_coreStatistic
 from style import define_layout
 import os
 
@@ -78,7 +78,7 @@ def data_page():
         
         
         
-        images, showedImage_names, showedCore_ids, showedCore_ids2 = load_coreImages(path_img_logo , list(image_names), list(core_ids), list(core_ids2))
+        images, showedImage_names, showedCore_ids, showedCore_ids2 = load_HEImages(path_img_logo , list(image_names), list(core_ids), list(core_ids2))
 
 
         with st.empty():
@@ -91,9 +91,6 @@ def data_page():
             else:
                 st.write("No core for current selection.")
 
-
-    st.divider()
-    
 
     c1, c2,_,c3 = st.columns([1.5, 7,0.5,2.5])
 
@@ -174,7 +171,7 @@ def data_page():
             # st.write(showedCore_ids2[clicked])
             if os.path.exists(f"{dir}/{filename}"):
                 imgfile =  Image.open(f"{dir}/{filename}")
-                show_plotly_image(imgfile, 800)
+                show_plotly_image(imgfile, 750)
             else:
                 st.markdown("#")
                 info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
@@ -213,6 +210,5 @@ def data_page():
             st.markdown(f"**Number of cells** : {count}", True) 
             st.markdown(f"**{option} percentage** : {percent}", True)  
 
-        
 
-        
+   
