@@ -227,6 +227,7 @@ def data_page():
             st.markdown(f"**{option} percentage** : {percent}", True)  
 
             if option != "H&E":
+                st.divider()
                 st.markdown("**DAPI in :blue[blue color]**")
 
 
