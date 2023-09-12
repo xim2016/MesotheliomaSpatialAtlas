@@ -92,9 +92,15 @@ def data_page():
                 st.write("No core for current selection.")
 
 
-    st.divider()
     
+    if len(images) == 0:
+        for i in range(20):
+            st.markdown("#")
+            
     if len(images) > 0 :
+
+        st.divider()
+
         if clicked == -1: clicked = 0
 
         vargs0 = ["H&E"]
@@ -172,64 +178,63 @@ def data_page():
             # rd = st.radio("", ("H&E","", "mIF", "mIF ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
 
         with c2:
-            if len(images) > 0 :
+        
 
-                option = get_current_checkedBox(options)
+            option = get_current_checkedBox(options)
 
-                dir = option2dir[option]
-            
-                if option == "H&E":
-                    filename = f"{showedImage_names[clicked]}.jpg"
-                elif option in vargs1 :   
-                    filename = f"{showedCore_ids[clicked]}_composite_image.tif"
-                else:
-                    filename = f"{showedCore_ids2[clicked]}_composite_image.tif"
-                    
-                # st.write(showedImage_names[clicked])
-                # st.write(showedCore_ids[clicked])
-                # st.write(showedCore_ids2[clicked])
-                if os.path.exists(f"{dir}/{filename}"):
-                    imgfile =  Image.open(f"{dir}/{filename}")
-                    show_plotly_image(imgfile, 750)
-                else:
-                    st.markdown("#")
-                    info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
-                    st.markdown(info, unsafe_allow_html=True)
+            dir = option2dir[option]
+        
+            if option == "H&E":
+                filename = f"{showedImage_names[clicked]}.jpg"
+            elif option in vargs1 :   
+                filename = f"{showedCore_ids[clicked]}_composite_image.tif"
+            else:
+                filename = f"{showedCore_ids2[clicked]}_composite_image.tif"
+                
+            # st.write(showedImage_names[clicked])
+            # st.write(showedCore_ids[clicked])
+            # st.write(showedCore_ids2[clicked])
+            if os.path.exists(f"{dir}/{filename}"):
+                imgfile =  Image.open(f"{dir}/{filename}")
+                show_plotly_image(imgfile, 750)
+            else:
+                st.markdown("#")
+                info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
+                st.markdown(info, unsafe_allow_html=True)
 
 
-            
-                # st.image(imgfile)
+        
+            # st.image(imgfile)
 
         with c3:
-            if len(images) > 0 :
+            
+            # st.markdown("#### Core feature", True)
+            st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
+            st.write("")
+            st.write("")    
 
-                # st.markdown("#### Core feature", True)
-                st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
-                st.write("")
-                st.write("")    
 
+            core_id = showedCore_ids[clicked]
+            fetu1, fetu2, fetu_plus = get_core_feature(c1_IDs, c2_IDs, core_id)
+            for i in range(5):
+                st.markdown(f"**{c1_names[i]}** : {fetu1[i]}", True)
+            for i in range(5):
+                st.markdown(f"**{c2_names[i]}** : {fetu2[i]}", True)
+                # st.markdown(f"**:black[{c2_names[i]}]** : {fetu2[i]}", True) 
+            for item in fetu_plus.keys():
+                st.markdown(f"**{item}** : {fetu_plus[item]}", True)   
 
-                core_id = showedCore_ids[clicked]
-                fetu1, fetu2, fetu_plus = get_core_feature(c1_IDs, c2_IDs, core_id)
-                for i in range(5):
-                    st.markdown(f"**{c1_names[i]}** : {fetu1[i]}", True)
-                for i in range(5):
-                    st.markdown(f"**{c2_names[i]}** : {fetu2[i]}", True)
-                    # st.markdown(f"**:black[{c2_names[i]}]** : {fetu2[i]}", True) 
-                for item in fetu_plus.keys():
-                    st.markdown(f"**{item}** : {fetu_plus[item]}", True)   
+            percent, count1, count2 = get_coreStatistic(core_id, option)
+            if option in vargs1:
+                count = count1
+            else:
+                count = count2
+            st.markdown(f"**Number of cells** : {count}", True) 
+            st.markdown(f"**{option} percentage** : {percent}", True)  
 
-                percent, count1, count2 = get_coreStatistic(core_id, option)
-                if option in vargs1:
-                    count = count1
-                else:
-                    count = count2
-                st.markdown(f"**Number of cells** : {count}", True) 
-                st.markdown(f"**{option} percentage** : {percent}", True)  
-
-                if option != "H&E":
-                    st.divider()
-                    st.markdown("**DAPI in :blue[blue color]**")
+            if option != "H&E":
+                st.divider()
+                st.markdown("**DAPI in :blue[blue color]**")
 
 
     
