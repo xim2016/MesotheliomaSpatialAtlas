@@ -97,8 +97,8 @@ def data_page():
     if clicked == -1: clicked = 0
 
     vargs0 = ["H&E"]
-    vargs1 = ["Composite", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
-    vargs2 = ["Composite ", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
+    vargs1 = ["mIF", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
+    vargs2 = ["mIF ", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
     vargs = vargs0 +  vargs1 + vargs2   
 
     chanel_images = load_coreImages(showedImage_names[clicked],showedCore_ids[clicked],showedCore_ids2[clicked] )
@@ -124,14 +124,14 @@ def data_page():
         st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Image type</p>',  unsafe_allow_html=True) #sans-serif   Soin Sans Pro
  
         option2dir = {"H&E": f"{PATH_IMG_HE}",
-                    "Composite": f"{PATH_IMG_TMA}/panel1/multi",
+                    "mIF": f"{PATH_IMG_TMA}/panel1/multi",
                     "CD4": f"{PATH_IMG_TMA}/panel1/CD4",
                     "CD8": f"{PATH_IMG_TMA}/panel1/CD8",
                     "CD20": f"{PATH_IMG_TMA}/panel1/CD20",
                     "CD68": f"{PATH_IMG_TMA}/panel1/CD68",
                     "FOXP3": f"{PATH_IMG_TMA}/panel1/FOXP3",
                     "panCK": f"{PATH_IMG_TMA}/panel1/panCK",
-                    "Composite ": f"{PATH_IMG_TMA}/panel2/multi2",
+                    "mIF ": f"{PATH_IMG_TMA}/panel2/multi2",
                     "CD56": f"{PATH_IMG_TMA}/panel2/CD56",
                     "CD11c": f"{PATH_IMG_TMA}/panel2/CD11c",
                     "BAP1": f"{PATH_IMG_TMA}/panel2/BAP1",
@@ -168,7 +168,7 @@ def data_page():
         )
 
         
-        # rd = st.radio("", ("H&E","", "Composite", "Composite ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
+        # rd = st.radio("", ("H&E","", "mIF", "mIF ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
 
     with c2:
         if len(images) > 0 :
