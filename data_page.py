@@ -206,7 +206,7 @@ def data_page():
             st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
             st.write("")
             st.write("")    
-            if clicked == -1: clicked = 0
+
 
             core_id = showedCore_ids[clicked]
             fetu1, fetu2, fetu_plus = get_core_feature(c1_IDs, c2_IDs, core_id)
@@ -225,6 +225,9 @@ def data_page():
                 count = count2
             st.markdown(f"**Number of cells** : {count}", True) 
             st.markdown(f"**{option} percentage** : {percent}", True)  
+
+            if option != "H&E":
+                st.markdown("**DAPI in :blue[blue color]**")
 
 
    
