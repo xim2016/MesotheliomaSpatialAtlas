@@ -30,6 +30,6 @@ def citation_page():
     st.markdown("###")
     # st.markdown(f"<p style='color: black; font-weight: bold'>Citation</h3>", unsafe_allow_html=True)
     st.markdown("**Citation**")
-    st.markdown("If you find the image or data from this website helpful, please cite the paper: https://www.biorxiv.org/content/10.1101/2023.09.06.556559v1")
+    st.markdown("If you find the images or data from this website helpful, please cite the paper: https://www.biorxiv.org/content/10.1101/2023.09.06.556559v1")
 
     
