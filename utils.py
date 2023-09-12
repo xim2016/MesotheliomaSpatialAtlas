@@ -4,6 +4,8 @@ import streamlit as st
 import os
 import base64
 import plotly.express as px
+from pathlib import Path
+
 
 # @st.cache_data
 # def convert_ID():
@@ -103,7 +105,7 @@ def load_HEImages(path_img_logo, image_names, core_ids, core_ids2):
             
     return(images, showedImage_names, showedCore_ids, showedCore_ids2)  
 
-def load_coreImages(HE_id, panel1_id, panel2_id):
+def load_clickable_coreImages(HE_id, panel1_id, panel2_id):
     
     logo_NA = "./assets/figures/logo_NA.png"
 
@@ -136,8 +138,45 @@ def load_coreImages(HE_id, panel1_id, panel2_id):
             file = logo_NA
         with open(file, "rb") as image:
             encoded = base64.b64encode(image.read()).decode()
-            label = chanel.replace("multi1", "Composite ")
+            label = chanel.replace("multi2", "Composite ")
             images[label]=(f"data:image/jpeg;base64,{encoded}")
+    return(images)
+
+def load_coreImages(HE_id, panel1_id, panel2_id):
+    
+    logo_NA = "./assets/figures/logo_NA.png"
+
+    PATH_HE_logo = "./data/core_image/H&E_logo" 
+    PATH_panel1_logo = "./data/core_image/panel1_logo4" 
+    PATH_panel2_logo = "./data/core_image/panel2_logo4" 
+    
+    p1s = ["multi", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
+    p2s = ["multi2", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
+
+    images = {}
+
+    file = f"{PATH_HE_logo}/{HE_id}.png"
+    with open(file, "rb") as image:
+        encoded = base64.b64encode(image.read()).decode()
+        images["H&E"]=(f"<img src= 'data:image/png;base64,{encoded}' class='img-fluid' style='width:100%'>")
+
+    for chanel in p1s:
+        file = f"{PATH_panel1_logo}/{chanel}/{panel1_id}.png"
+        if not os.path.isfile(file):
+            file = logo_NA
+        with open(file, "rb") as image:
+            encoded = base64.b64encode(image.read()).decode()
+            label = chanel.replace("multi", "Composite")
+            images[label]=(f"<img src= 'data:image/png;base64,{encoded}' class='img-fluid' style='width:100%'>")
+    
+    for chanel in p2s:
+        file = f"{PATH_panel2_logo}/{chanel}/{panel2_id}.png"
+        if not os.path.isfile(file):
+            file = logo_NA
+        with open(file, "rb") as image:
+            encoded = base64.b64encode(image.read()).decode()
+            label = chanel.replace("multi2", "Composite ")
+            images[label]=(f"<img src= 'data:image/png;base64,{encoded}' class='img-fluid' style='width:100%'>")
     return(images)
 
 def get_imageNames(cs1, cs2, c1_IDs, c2_IDs):

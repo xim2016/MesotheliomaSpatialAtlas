@@ -1,7 +1,7 @@
 import streamlit as st
 from st_clickable_images import clickable_images
 from PIL import Image
-from utils import get_orderedList, get_imageNames, load_HEImages, show_plotly_image, get_core_feature, get_coreStatistic
+from utils import get_orderedList, get_imageNames, load_HEImages, load_coreImages, show_plotly_image, get_core_feature, get_coreStatistic
 from style import define_layout
 import os
 
@@ -22,7 +22,7 @@ def data_page():
     
     
     max_width = '100%'
-    padding_top = '2.5rem'
+    padding_top = '1rem'
     padding_right = '0rem'
     padding_left = '0rem'
     padding_bottom = '0rem'
@@ -92,17 +92,37 @@ def data_page():
                 st.write("No core for current selection.")
 
 
+    st.divider()
+    
+    if clicked == -1: clicked = 0
+
+    vargs0 = ["H&E"]
+    vargs1 = ["Composite", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
+    vargs2 = ["Composite ", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
+    vargs = vargs0 +  vargs1 + vargs2   
+
+    chanel_images = load_coreImages(showedImage_names[clicked],showedCore_ids[clicked],showedCore_ids2[clicked] )
+    ls_images = list(chanel_images.values())
+
+    clab = st.columns([1,7,7])
+    
+    clab[1].markdown( '<p style="font-size: 14px;  font-weight: bold"> Panel-Marker </p>',  unsafe_allow_html=True) 
+    clab[2].markdown(' <p style="font-size: 14px;  font-weight: bold"> Panel-Protein </p>',  unsafe_allow_html=True)
+
+    cimg = st.columns(15)
+
+    for i in range(15):
+        with cimg[i]:
+            st.markdown(ls_images[i], unsafe_allow_html=True)
+            st.markdown( f"<p style='font-size: 14px;  font-weight: normal; text-align: center'>{vargs[i]}</p>",  unsafe_allow_html=True) 
+
+    st.divider()
     c1, c2,_,c3 = st.columns([1.5, 7,0.5,2.5])
 
     with c1:
         # st.markdown("#### Image type")
         st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Image type</p>',  unsafe_allow_html=True) #sans-serif   Soin Sans Pro
-
-        vargs0 = ["H&E"]
-        vargs1 = ["Composite", "CD4", "CD8", "CD20", "CD68", "FOXP3", "panCK"]
-        vargs2 = ["Composite ", "CD56", "CD11c", "BAP1","NF2", "MTAP","LAG3"] 
-        vargs = vargs0 +  vargs1 + vargs2   
-        
+ 
         option2dir = {"H&E": f"{PATH_IMG_HE}",
                     "Composite": f"{PATH_IMG_TMA}/panel1/multi",
                     "CD4": f"{PATH_IMG_TMA}/panel1/CD4",
@@ -130,7 +150,7 @@ def data_page():
             on_change=disable_other_checkboxes,
             args=( list(set(vargs) - set([key])) +[key] ),
         )
-        st.markdown("###### Panel-marker")
+        # st.markdown("###### Panel-marker")
         for key in vargs1:
             options[key] = st.checkbox(
             key,
@@ -138,7 +158,7 @@ def data_page():
             on_change=disable_other_checkboxes,
             args=( list(set(vargs) - set([key])) +[key] ),
         )
-        st.markdown("###### Panel-protein")
+        # st.markdown("###### Panel-protein")
         for key in vargs2:
             options[key] = st.checkbox(
             key,
@@ -152,8 +172,6 @@ def data_page():
 
     with c2:
         if len(images) > 0 :
-                        
-            if clicked == -1: clicked = 0
 
             option = get_current_checkedBox(options)
 
@@ -183,8 +201,6 @@ def data_page():
 
     with c3:
         if len(images) > 0 :
-
-            
 
             # st.markdown("#### Core feature", True)
             st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">Core feature</p>',  unsafe_allow_html=True) 
