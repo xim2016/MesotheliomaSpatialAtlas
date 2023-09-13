@@ -230,7 +230,7 @@ def data_page():
             else:
                 count = count2
             st.markdown(f"**Number of cells** : {count}", True) 
-            st.markdown(f"**{option} percentage** : {percent}", True)  
+            # st.markdown(f"**{option} percentage** : {percent}", True)  
 
             if option != "H&E":
                 st.divider()
