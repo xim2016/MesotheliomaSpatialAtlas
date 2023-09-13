@@ -13,7 +13,7 @@ def home_page():
     max_width = '90%'  # '1900px'
     padding_top = '1rem'
     padding_right = '0rem'
-    padding_left = '10rem'
+    padding_left = '14rem'
     padding_bottom = '0rem'
     define_layout(max_width, padding_top, padding_right, padding_left, padding_bottom)
     
