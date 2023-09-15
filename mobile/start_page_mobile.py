@@ -1,5 +1,5 @@
 import streamlit as st
-from data_page import data_page
+from mobile.data_page import data_page
 from mobile.contact_page import contact_page
 from mobile.home_page import home_page
 from mobile.citation_page import citation_page
