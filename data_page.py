@@ -22,7 +22,7 @@ def data_page():
     
     
     max_width = '100%'
-    padding_top = '1rem'
+    padding_top = '0rem'
     padding_right = '0rem'
     padding_left = '0rem'
     padding_bottom = '0rem'
