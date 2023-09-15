@@ -13,10 +13,10 @@ st.set_page_config(
 st.elements.utils._shown_default_value_warning=True
 
 width, height = get_screen_width_height()
-st.write(width)
+
 opt = int(width) < 600
-st.write(opt)
-if int(width) < 600 :  # suppose it is mobile device
+
+if opt :  #  mobile device detected
     start_page_mobile()
 else:
     start_page()
