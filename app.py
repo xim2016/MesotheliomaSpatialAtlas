@@ -1,7 +1,7 @@
 import streamlit as st
 from utils import get_screen_width_height
-from start import start
-from mobile.start import start_mobile
+from start_page import start_page
+from mobile.start_page_mobile import start_page_mobile
 
 st.set_page_config(
         layout='wide',
@@ -15,6 +15,6 @@ st.elements.utils._shown_default_value_warning=True
 width, height = get_screen_width_height()
 # st.write(width)
 if int(width) < 600 :  # suppose it is mobile device
-    start_mobile()
+    start_page_mobile()
 else:
-    start()
+    start_page()
