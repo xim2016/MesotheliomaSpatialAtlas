@@ -5,4 +5,4 @@ pandas==2.0.3
 plotly==5.16.1
 st_clickable_images==0.0.3
 streamlit-option-menu==0.3.6
-streamlit-js-eval==0.1.5
+streamlit_javascript==0.1.5
