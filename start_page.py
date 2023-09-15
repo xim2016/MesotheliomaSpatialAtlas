@@ -8,7 +8,7 @@ import hydralit_components as hc
 
 from style import page_style, footer
 
-def start():
+def start_page():
     #disable streamlit warning
 
 
