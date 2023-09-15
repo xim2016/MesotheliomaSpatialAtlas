@@ -145,8 +145,22 @@ def data_page():
             #zoom in
 
             st.markdown("#### Select a channel to zoom in.", True)
+
+            # image chanel views
+            # st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">All image channels</p>',  unsafe_allow_html=True) 
+            chanel_images = load_coreImages(showedImage_names[clicked],showedCore_ids[clicked],showedCore_ids2[clicked] )
+            ls_images = list(chanel_images.values())
+
+            # for i in range(15):
+            #     st.markdown(ls_images[i], unsafe_allow_html=True)
+            #     st.write(vargs[i])
+
+            
             options = dict()
+            i = 0
             for key in vargs0:
+                st.markdown(ls_images[i], unsafe_allow_html=True)
+                i = i + 1
                 options[key] = st.checkbox(
                 label = key,
                 value=True,
@@ -155,7 +169,10 @@ def data_page():
                 args=( list(set(vargs) - set([key])) +[key] ),
             )
             # st.markdown("###### Panel-marker")
+            
             for key in vargs1:
+                st.markdown(ls_images[i], unsafe_allow_html=True)
+                i = i + 1
                 options[key] = st.checkbox(
                 key,
                 key=key,
@@ -163,7 +180,10 @@ def data_page():
                 args=( list(set(vargs) - set([key])) +[key] ),
             )
             # st.markdown("###### Panel-protein")
+           
             for key in vargs2:
+                st.markdown(ls_images[i], unsafe_allow_html=True)
+                i = i + 1
                 options[key] = st.checkbox(
                 key,
                 key=key,
@@ -176,7 +196,8 @@ def data_page():
                 
                 # rd = st.radio("", ("H&E","", "mIF", "mIF ", "CD4", "CD8", "CD56", "CD68", "CD11c", "FOXP3","CD20", "BAP1","NF2", "MTAP","LAG3" ))
             
-            
+           
+
             option = get_current_checkedBox(options)
 
             dir = option2dir[option]
@@ -203,14 +224,6 @@ def data_page():
                 # st.divider()
                 st.markdown("**DAPI in :blue[blue color]**")
 
-            # image chanel views
-            st.markdown( '<p style="font-family:sans-serif; color:#002e8c; font-size: 22px;  font-weight: bold">All image channels</p>',  unsafe_allow_html=True) 
-            chanel_images = load_coreImages(showedImage_names[clicked],showedCore_ids[clicked],showedCore_ids2[clicked] )
-            ls_images = list(chanel_images.values())
-
-            for i in range(15):
-                st.markdown(ls_images[i], unsafe_allow_html=True)
-                st.write(vargs[i])
-
+            
 
         
