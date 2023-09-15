@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
-from Mobile_version.descriptions import Desc
-from Mobile_version.style import define_layout
+from mobile.descriptions import Desc
+from mobile.style import define_layout
 
 @st.cache_data
 def load_homeImg():
