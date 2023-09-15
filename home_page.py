@@ -11,7 +11,7 @@ def load_homeImg():
 def home_page():
 
     max_width = '90%'  # '1900px'
-    padding_top = '1rem'
+    padding_top = '0rem'
     padding_right = '0rem'
     padding_left = '13rem'
     padding_bottom = '0rem'
