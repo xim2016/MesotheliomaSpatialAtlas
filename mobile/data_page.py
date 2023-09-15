@@ -209,8 +209,8 @@ def data_page():
             ls_images = list(chanel_images.values())
 
             for i in range(15):
-                st.write(vargs[i])
                 st.markdown(ls_images[i], unsafe_allow_html=True)
+                st.write(vargs[i])
 
 
         
