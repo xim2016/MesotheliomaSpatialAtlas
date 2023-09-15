@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import get_screen_width_height
+from utils import get_screen_width
 from start_page import start_page
 from mobile.start_page_mobile import start_page_mobile
 
