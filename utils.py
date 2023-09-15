@@ -276,7 +276,7 @@ def generat_logo_images():
     print(notFound)
 
 
-def get_screen_width_height():
+def get_screen_width():
     # #Import the required libraries
 
     # import tkinter 
@@ -294,7 +294,8 @@ def get_screen_width_height():
     # # print("Screen width:", screen_width)
     # # print("Screen height:", screen_height)
     
-    from streamlit_js_eval import streamlit_js_eval
-    width = streamlit_js_eval(js_expressions='screen.width', key = 'SCR')
-    height = streamlit_js_eval(js_expressions='screen.height', key = 'SCR1')
-    return(width, height)
+    from streamlit_javascript import st_javascript
+
+    js_code = """screen.width"""
+    screenWidth = st_javascript(js_code)
+    return(screenWidth)
