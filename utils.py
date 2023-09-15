@@ -208,7 +208,7 @@ def show_plotly_image(img_file, height=750):
     fig.update_yaxes(showgrid=False, showticklabels=False)
     fig.update_layout(height=height,
                       newshape_line_color='cyan',
-                      dragmode='drawopenpath')
+                      dragmode=False)
     config = {'displayModeBar': True,
               'displaylogo': False,
               'toImageButtonOptions': { 'height': None, 'width': None, 
@@ -277,20 +277,24 @@ def generat_logo_images():
 
 
 def get_screen_width_height():
-    #Import the required libraries
+    # #Import the required libraries
 
-    import tkinter 
-    #Create an instance of tkinter frame
-    win= tkinter.Tk()
+    # import tkinter 
+    # #Create an instance of tkinter frame
+    # win= tkinter.Tk()
 
-    #Set the geometry of frame
-    win.geometry("650x250")
+    # #Set the geometry of frame
+    # win.geometry("650x250")
 
-    #Get the current screen width and height
-    screen_width = win.winfo_screenwidth()
-    screen_height = win.winfo_screenheight()
+    # #Get the current screen width and height
+    # screen_width = win.winfo_screenwidth()
+    # screen_height = win.winfo_screenheight()
 
-    #Print the screen size
-    print("Screen width:", screen_width)
-    print("Screen height:", screen_height)
-
+    # # #Print the screen size
+    # # print("Screen width:", screen_width)
+    # # print("Screen height:", screen_height)
+    
+    from streamlit_js_eval import streamlit_js_eval
+    width = streamlit_js_eval(js_expressions='screen.width', key = 'SCR')
+    height = streamlit_js_eval(js_expressions='screen.height', key = 'SCR1')
+    return(width, height)
