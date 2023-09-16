@@ -81,10 +81,11 @@ def data_page():
 
     if len(images) == 0 :
         st.write("No core for current selection.")
-
+        
     else:
         st.markdown(f"**Please select a core** ({len(images)} cores).", True)
-
+        st.markdown("#### Please select a core.", True)
+        st.markdown(f"###### ({len(images}) cores", True)
         clicked = clickable_images(
             images, 
             div_style={"display": "flex", "justify-content": "center", "flex-wrap": "wrap"},
