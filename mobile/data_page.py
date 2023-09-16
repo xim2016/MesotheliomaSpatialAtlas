@@ -214,7 +214,7 @@ def data_page():
             # st.write(showedCore_ids2[clicked])
             if os.path.exists(f"{dir}/{filename}"):
                 imgfile =  Image.open(f"{dir}/{filename}")
-                show_plotly_image(imgfile, 400)
+                show_plotly_image(imgfile, 450)
             else:
                 # st.markdown("#")
                 info = '<p style="font-size: 16px; font-weight: bold;text-align: center">Image datas is not available for this core.</p>'  #sans-serif   Soin Sans Pro
