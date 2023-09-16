@@ -73,6 +73,7 @@ def data_page():
         
     with st.sidebar:
         st.markdown("### Click the core to zoom in", True)
+        st.markdown(f"##### (len(images) cores", True)
         #H&E use image_names , others use core_ids as image names
         image_names, core_ids, core_ids2 = get_imageNames(cs1, cs2, c1_IDs,c2_IDs)
         
