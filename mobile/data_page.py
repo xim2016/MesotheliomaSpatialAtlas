@@ -84,7 +84,7 @@ def data_page():
         
     else:
         st.markdown("#### Please select a core.", True)
-        st.markdown(f"###### ({len(images)} cores )", True)
+        st.markdown(f"###### ( {len(images)} cores )", True)
         clicked = clickable_images(
             images, 
             div_style={"display": "flex", "justify-content": "center", "flex-wrap": "wrap"},
