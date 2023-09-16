@@ -14,7 +14,7 @@ st.elements.utils._shown_default_value_warning=True
 
 width = get_screen_width()
 
-mobile_device = int(width) < 600
+mobile_device = int(width) < 550
 
 if mobile_device :  #  mobile device detected
     start_page_mobile()
