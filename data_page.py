@@ -72,11 +72,11 @@ def data_page():
                 )
         
     with st.sidebar:
-        st.markdown("### Click the core to zoom in", True)
+        
 
         #H&E use image_names , others use core_ids as image names
         image_names, core_ids, core_ids2 = get_imageNames(cs1, cs2, c1_IDs,c2_IDs)
-        
+        st.markdown("### Click the core to zoom in", True)
         
         
         images, showedImage_names, showedCore_ids, showedCore_ids2 = load_HEImages(path_img_logo , list(image_names), list(core_ids), list(core_ids2))
