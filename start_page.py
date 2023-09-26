@@ -11,9 +11,6 @@ from style import page_style, footer
 def start_page():
     #disable streamlit warning
 
-    import streamlit.components.v1 as components
-    components.iframe("https://docs.streamlit.io/en/latest")
-
     st.markdown(page_style, unsafe_allow_html=True) ## Footer
     # change font
     with open( "font.css" ) as css:
