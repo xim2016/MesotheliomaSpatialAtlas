@@ -25,7 +25,7 @@ def citation_page():
     st.markdown("###")
     # st.markdown(f"<p style='color: black; font-weight: bold'>Specific citation for image, chanel or data</h3>", unsafe_allow_html=True)
     st.markdown("**Specific citation for image, chanel or data**")
-    st.markdown("If you use images, or reference a specific image type, or other data downloaded from the site, in addition to citing the Mesothelioma Spacial Atlas, please also cite the specific image,  or data used and the URL that links directly to that information in a manner that will allow a third party to navigate to that image or data on the site.") 
+    st.markdown("If you use images, or reference a specific image type, or other data downloaded from the site, in addition to citing the Mesothelioma Spatial Atlas, please also cite the specific image,  or data used and the URL that links directly to that information in a manner that will allow a third party to navigate to that image or data on the site.") 
     
     st.markdown("###")
     # st.markdown(f"<p style='color: black; font-weight: bold'>Citation</h3>", unsafe_allow_html=True)
