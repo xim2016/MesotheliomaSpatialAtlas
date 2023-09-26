@@ -11,8 +11,7 @@ st.set_page_config(
 )
 
 st.elements.utils._shown_default_value_warning=True
-import streamlit.components.v1 as components
-components.iframe("https://docs.streamlit.io/en/latest")
+
 width = get_screen_width()
 
 mobile_device = int(width) < 550
