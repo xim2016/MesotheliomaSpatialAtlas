@@ -25,3 +25,6 @@ def contact_page():
                 <a href="https://www.maps.ie/distance-area-calculator.html">measure distance on map</a></iframe></div>""", unsafe_allow_html=True)
     
     st.markdown("#")
+
+    import streamlit.components.v1 as components
+    components.iframe("https://docs.streamlit.io/en/latest")
