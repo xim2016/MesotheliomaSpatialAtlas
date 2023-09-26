@@ -26,5 +26,4 @@ def contact_page():
     
     st.markdown("#")
 
-    import streamlit.components.v1 as components
-    components.iframe("https://docs.streamlit.io/en/latest")
+    
