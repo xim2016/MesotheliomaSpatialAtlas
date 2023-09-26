@@ -51,7 +51,7 @@ def start_page():
     with cm: 
     
         if chosen_tab == "About":
-            # home_page()
+            home_page()
             
         elif chosen_tab == "Contact":
             contact_page()
