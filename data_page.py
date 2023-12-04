@@ -215,6 +215,7 @@ def data_page():
 
 
             core_id = showedCore_ids[clicked]
+            st.write("Core_id is:")
             st.write(core_id)
             fetu1, fetu2, fetu_plus = get_core_feature(c1_IDs, c2_IDs, core_id)
             for i in range(5):
